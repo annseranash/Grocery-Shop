@@ -1,0 +1,79 @@
+.card{
+    height:63vh;
+    margin:25px;
+    padding:25px;
+    top:220px;
+}
+.center{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+}
+.btn-shop{
+    background-color:#4dc247;
+    color:white;
+    border:none;
+    padding: 10px;
+    border-radius:10px;
+    font-size: 16px;
+}
+.card-table{
+    display: flex;
+    flex-direction:column;
+    word-wrap: break-word;
+    background-color:#fff;
+    background-clip: border-box;
+    border: 1px solid  rgba(0,0,0,0.2);
+    border-radius: 24px;
+
+}
+.trash-btn {
+    background-color: transparent;
+    margin-left:10px;
+    border: none;
+}
+.empty-btn{
+    background-color:red;
+    color:white;
+    border:none;
+    padding: 10px;
+    border-radius:10px;
+    font-size: 13px !important;
+    line-height: 1.6;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
+.shop-btn{
+    background-color:#259507;
+    color:white;
+    border:none;
+    padding: 10px;
+    border-radius:10px;
+    font-size: 13px !important;
+    line-height: 1.6;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
+
+.qty-btn {
+     cursor: pointer;
+     font-size: 15px;
+     width: 24px; 
+     height: 24px; 
+     text-align: center;
+     line-height: 24px; 
+     border-radius: 50%;
+     border:1px solid grey;
+     color: grey;
+}
+
+.qty-btn:hover{
+    color:#4dc247;
+    border-color:#4dc247;
+}
+  
+

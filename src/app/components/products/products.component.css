@@ -1,0 +1,55 @@
+.card{
+    padding:20px;
+    margin:50px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);
+    top:200px;
+}
+h5{
+    color: #333333;
+    line-height: 1.6;
+    padding-top: 0px;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 6px;
+    font-size:17px;
+    height: 49px;
+    overflow: hidden;
+}
+.card img{
+    height:250px;
+    max-width: 100%;
+    margin-bottom:50px;
+    transition:0.3s ease-in-out;
+}
+.card img:hover{
+    transition:0.3s ease-in-out;
+    transform:scale(1.1);
+}
+.desc{
+    font-size: 13px;
+    color: #727272;
+    height: 40px;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-addToCart{
+    background-color: #249508;
+    color:white;
+    border:none;
+    padding: 8px;
+    border-radius:20px;
+    font-size: 16px;
+}
+i,span{
+    float:right;
+}
+i{
+    width:25px;
+    height:25px; 
+    line-height:25px;
+    color: #fff;
+} 
+
+  

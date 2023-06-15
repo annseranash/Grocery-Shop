@@ -1,0 +1,55 @@
+.outer{
+    background-image: url('src/assets/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#forget{
+    min-width:100px;
+    margin-left:auto;
+    cursor:pointer;
+    color:#2DB457;
+}
+button{
+    background-color:#42bb67;
+    color:white;
+    border:none;
+    padding: 10px;
+    border-radius:15px;
+    font-size: 16px;
+}
+.panel{
+    min-height:380px;
+    border-radius:12px;
+    margin:0px 55px 9px -9px;
+}
+
+.panel-heading{
+    color:#585858;
+}
+.input-field{
+    border-radius:8px;
+    padding:5px;
+    border:1px solid #ddd;
+    display:flex;
+    align-items:center;
+    margin-left:0px;
+    cursor:pointer;
+    color:#249508;
+}
+
+.input-field.error{
+    border:1px solid red;
+    color:red;
+}
+input[type='text'],[type='password']{
+    border:none;
+    outline:none;
+    box-shadow:none;
+    width:100%;
+}

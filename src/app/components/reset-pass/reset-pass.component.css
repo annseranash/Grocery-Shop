@@ -1,0 +1,41 @@
+.outer{
+    height:100vh;
+}
+button{
+    background-color:#42bb67;
+    color:white;
+    border:none;
+    padding: 10px;
+    border-radius:15px;
+    font-size: 16px;
+}
+.panel{
+    min-height:380px;
+    box-shadow:20px 20px 80px rgb(218,218,218);
+    border-radius:12px;
+    margin-top:80px;
+}
+.panel-heading{
+    color:#585858;
+}
+.input-field{
+    border-radius:8px;
+    padding:5px;
+    border:1px solid #ddd;
+    display:flex;
+    align-items:center;
+    margin-left:0px;
+    cursor:pointer;
+    color:#249508;
+}
+
+.input-field.error{
+    border:1px solid red;
+    color:red;
+}
+input[type='text'],[type='password']{
+    border:none;
+    outline:none;
+    box-shadow:none;
+    width:100%;
+}

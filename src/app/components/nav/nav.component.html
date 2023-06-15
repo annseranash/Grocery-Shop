@@ -1,0 +1,87 @@
+<div class="sticky-nav">
+<div class="container-nav">
+    <div class="row-nav">
+        <p>Biggest &nbsp; Monsoon &nbsp; Sale &nbsp; Offer &nbsp;<strong> for &nbsp;Today &nbsp;Deals!</strong> </p>
+    </div>
+</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+  <div class="navbar-brand align-items-center d-flex" style="margin-left: 82px;">
+    <img src="assets/logo.png" height="50" width="auto" style="margin-right:10px">
+    <strong style="font-size:30px;color:#2db457">Choose Fresh</strong> 
+    <div class="form-group">
+      <input type="text" class="form-control" [(ngModel)]="searchTerm" (keyup)="search($event)" placeholder="Search here">
+    </div>
+    <button class="fa fa-search search-icon" (click)="searchRecipe()"></button>
+  </div>
+  <button *ngIf="loggedInUserName && currentPath!='dashboard'" routerLink="/cart" class="cart-icon">
+    <img src="https://choosemyfresh.com/catalog/view/theme/brit/img/icon-cart-hover.png" width="25">
+  </button>
+  <button *ngIf="loggedInUserName && currentPath!='dashboard'" style="font-size:7px;margin-left:-5px;border:none" class="badge bg-danger">{{ totalItems }}</button>
+  <button *ngIf="loggedInUserName && currentPath!='dashboard'" (click)="logout()" class="logout">
+    <i class="fa fa-sign-out"></i>
+  </button>
+  <button *ngIf="!loggedInUserName && currentPath==='dashboard'" class="login" routerLink="/login">
+    <i class="fa fa-user"></i>
+  </button>
+  <div *ngIf="loggedInUserName && currentPath!='dashboard'" style="margin-left: -285px" class="user-greeting" >
+    <span class="">Hi {{ loggedInUserName | titlecase }}</span>
+  </div>
+</nav>
+
+<div class=" nav-card-top container-fluid">
+    <div class="container d-flex" style="margin-top: 7px;">
+      <div class="item" style="margin-right:30px" >
+        <a>
+          <img src="https://choosemyfresh.com/image/cache/catalog/icon/icon%20vegetables%2003-50x50.png" (click)="selectCategory(25)">
+          <h6>Vegetables</h6>
+        </a>
+      </div>
+      <div class="item" style="margin-right:15px">
+        <a>
+          <img src="https://choosemyfresh.com/image/cache/catalog/icon/icon%20fruits%2003-50x50.png" (click)="selectCategory(26)">
+          <h6>Fruits</h6>
+        </a>
+      </div>
+      <div class="item" style="margin-right:13px">
+        <a>
+          <img src="https://choosemyfresh.com/image/cache/catalog/icon/icon%20beef%2003-50x50.png" (click)="selectCategory(27)">
+          <h6>Meat & Poultry</h6>
+        </a>
+      </div>
+      <div class="item" style="margin-right:30px">
+        <a>
+          <img src="https://choosemyfresh.com/image/cache/catalog/icon/icon%20fish%2003-50x50.png"  (click)="selectCategory(28)">
+          <h6>Seafood</h6>
+        </a>
+      </div>
+      <div class="item" style="margin-right:30px">
+        <a>
+          <img src="https://choosemyfresh.com/image/cache/catalog/icon/icon_egg03-50x50.png"  (click)="selectCategory(29)">
+          <h6>Eggs</h6>
+        </a>
+      </div>
+      <div class="item" style="margin-right:30px">
+        <a>
+          <img src="https://choosemyfresh.com/image/cache/catalog/icon/Special_offer03-50x50.png" routerLink="/recipes" >
+          <h6>Special </h6>
+        </a>
+      </div>
+    </div>
+</div>
+</div>
+<div class="sorting-buttons" *ngIf="currentPath==='home'">
+  <select #sortSelect [(ngModel)]="defaultSortingOrder" (change)="getSortingOrder(sortSelect.value)" id="sortFilter">
+      <option value="" >Sort by price</option>
+      <option value="asc">Low to High</option>
+      <option value="desc">High to Low</option>
+  </select>
+</div>
+<span *ngIf ="productList && productList.length > 0">
+  <app-products *ngIf="selectedCategoryId !== null && currentPath==='home'" [productList]="productList" [selectedCategoryId]="selectedCategoryId" (cartBadgeEvent)="addCartItem($event)" ></app-products>
+</span>
+
+
+
+
+
+ 

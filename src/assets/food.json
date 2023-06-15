@@ -1,0 +1,1996 @@
+[
+    {
+        "name": "Roasted Asparagus with Parmesan",
+        "nutrition": {
+          "calories":"46 kcal",
+          "protein": "4.4g",
+          "fats": "1.7g",
+          "carbs":"4.7g",
+          "Sugars":"10g"
+        },
+         "ingredients": "oil,1 pound fresh asparagus,¼ cup shredded Parmesan cheese,1 tsp sea salt,¼ tsp garlic powder",
+        "recipe":["Preheat oven to 400 degrees F (200 degrees C)","Spray the inside of a 9x13 casserole dish with olive oil cooking spray. Place asparagus in the dish and lightly spray spears with cooking spray","Sprinkle asparagus with Parmesan cheese, sea salt, and garlic powder","Roast in preheated oven until fork easily punctures thickest part of stem, about 12 minutes"],
+        "imagepath": "assets/jsonimages/roasted asparagus-with-mushroom.jpg"
+    },
+  {
+    "name": "Crunchy Lemon Quinoa Asparagus",
+    "nutrition": {
+      "calories":"120 kcal",
+      "protein": "84.8g",
+      "fats": "17.6g",
+      "carbs":"115g",
+      "Sugars":"13g"
+    },
+     "ingredients": "1 pound of asparagus,1 cup of cooked red quinoa ,2 tsp of oil,½white onion,2 garlic cloves,½ cup of low sodium vegetable",
+    "recipe":["Bring a medium sized saute pan filled halfway with water to a boil, and blanch the asparagus for 23 minutes until tender, but still crispy. Once cooked rinse with cold water to stop it from further cooking, and set aside","Heat the coconut oil in a large saute pan, add the diced onion and garlic and cook until translucent.","Transfer the cooked quinoa, vegetable stock, and seasonings to the saute pan and cook for about 56 minutes.","Add the cooked asparagus and nutritional yeast, and cook for another 34 minutes.","Serve and garnish with more nutritional yeast, or a seasoning of your choice (Parmesan cheese if you wish)."],
+    "imagepath": "assets/jsonimages/crunchy lemon quinoa and asparagus.jpg"
+  },
+  {
+    "name":"grilled asian asparagus",
+    "nutrition": {
+      "calories":"84 kcal",
+      "protein": "3.2g",
+      "fats": "1.9g",
+      "carbs":"15.1g",
+      "Sugars":"8.6g"
+    },
+     "ingredients": "1 pound fresh asparagus trimmed,½ cup hoisin sauce,sesame seeds",
+    "recipe":["Place asparagus and hoisin sauce into a resealable plastic bag and shake several times to coat asparagus with sauce. Allow to stand at least 30 minutes. For best flavor, refrigerate and marinate overnight.","Preheat an outdoor grill for medium heat and lightly oil the grate.","Remove asparagus from bag and shake off excess hoisin sauce; lay asparagus spears onto the grill and cook, turning every 1 to 2 minutes, until all sides of the spears show grill marks and hoisin sauce has caramelized onto the asparagus, 4 to 6 minutes.","Transfer asparagus to a serving platter and sprinkle with sesame seeds to serve."],
+    "imagepath": "assets/jsonimages/grilled asian asparagus.jpg"
+  },
+  {
+  "name": "pasta chicken asparagus",
+  "nutrition": {
+    "calories":"458 kcal",
+    "protein": "28.8g",
+    "fats": "12.9g",
+    "carbs":"58.2g",
+    "Sugars":"9g"
+  },
+   "ingredients": "1 pound chicken breast ,1 pinch salt, 1 pound penne pasta,2 tbsp butter,¼ cup grated Parmesan cheese, 2  tbsp olive oil ,1 pound asparagus,1 pinch garlic salt ",
+  "recipe":["Preheat oven to 375 degrees F (190 degrees C)","Cover a baking sheet with aluminum foil.","Spread the chicken breast tenderloins on the baking sheet and sprinkle with garlic salt and seasoned salt.","Bake chicken in the preheated oven until no longer pink in the center and the juices run clear, about 15 minutes. Set aside; when cool enough to handle, cut tenderloins into bitesize pieces.","Fill a large pot with lightly salted water, bring to a boil, and stir in penne. Cook pasta at a boil, stirring occasionally, until penne are cooked through but still slightly firm, about 11 minutes; drain.","Transfer penne back to cooking pot and stir in butter and Parmesan cheese until pasta is coated.","Heat olive oil in a skillet over medium heat; place asparagus into the hot oil and sprinkle with garlic salt. Cook and stir until asparagus are tender, about 7 minutes.","Transfer penne pasta into a large serving bowl and top with asparagus and chicken tenderloin pieces. Lightly mix asparagus and chicken into the pasta to serve."],
+  "imagepath": "assets/jsonimages/pasta-chicken-asparagus-.jpg"
+  },
+  {
+  "name": "roasted asparagus with mushroom",
+  "nutrition": {
+    "calories":"38 kcal",
+    "protein": "2.8g",
+    "fats": "1.8g",
+    "carbs":"4.3g",
+    "Sugars":"9g"
+  },
+   "ingredients": "1 bunch fresh asparagus trimmed,½ pound fresh mushrooms quartered,2 sprigs fresh rosemary minced,2 tsp olive oil, kosher salt to taste,freshly ground black pepper to taste",
+  "recipe":["Preheat oven to 450 degrees F (230 degrees C). Lightly spray a cookie sheet with vegetable cooking spray.","Place the asparagus and mushrooms in a bowl. Drizzle with the olive oil, then season with rosemary, salt, and pepper; toss well. Lay the asparagus and mushrooms out on the prepared pan in an even layer. Roast in the preheated oven until the asparagus is tender, about 15 minutes."],
+  "imagepath": "assets/jsonimages/roasted asparagus-with-mushroom.jpg"
+  },
+  {
+  "name": "sauteed asparagus",
+  "nutrition": {
+    "calories":"84 kcal",
+    "protein": "2.5g",
+    "fats": "6.9g",
+    "carbs":"4.4g",
+    "Sugars":"8g"
+  },
+   "ingredients": "1 bunch fresh asparagus,2  tbsp extravirgin olive oil, ¼ cup water, ⅛  tsp salt, ⅛  tsp pepper",
+  "recipe":["Drizzle olive oil into a large skillet over mediumhigh heat and heat. Once oil is hot add asparagus spears; cover and cook for 5 minutes, stirring occasionally. Add water and cover to steam asparagus and keep it from drying out. Continue cooking for another 5 minutes or until asparagus is tender. Season with salt and pepper."],
+  "imagepath": "assets/jsonimages/sauteed-asparagus-1.jpg"
+  },
+  {
+  "name": "shrimp quinoa with asparagus",
+  "nutrition": {
+    "calories":"44 kcal",
+    "protein": "27g",
+    "fats": "10.5g",
+    "carbs":"45.4g",
+    "Sugars":"10g"
+  },
+   "ingredients": "1 cup quinoa,1½ cups chicken broth,2 tbsp olive oil,3 cloves garlic,1 onion,1 red bell pepper,8 spears asparagus,1 cup fresh mushrooms,¼ cup raisins,1 tbsp fresh ginger root,1 pound uncooked shrimp,1 tbsp lemon juice,salt to taste",
+  "recipe":["Bring the quinoa and chicken broth to a boil in a saucepan over high heat. Reduce heat to mediumlow, cover, and simmer until the quinoa is tender about 15 minutes. Turn off the heat, and let the remaining liquid absorb into the quinoa.","Meanwhile, heat the olive oil in a large skillet over medium heat. Stir in the garlic, onion, and red bell pepper; cook and stir until the onion has softened and turned translucent, about 5 minutes. Add the asparagus, mushrooms, raisins, and ginger; continue cooking until the asparagus is tender. Stir in the shrimp, and cook until the shrimp have turned pink and are no longer translucent in the center.","Stir the lemon juice into the quinoa, then toss the quinoa with the shrimp and vegetable mixture. Season to taste with salt and pepper before serving."],
+  "imagepath": "assets/jsonimages/-shrimp-quinoa-with-asparagus.jpg"
+  },
+  {
+  "name": "steamed asparagus",
+  "nutrition": {
+    "calories":"86 kcal",
+    "protein": "2.6g",
+    "fats": "5.9g",
+    "carbs":"4.8g",
+    "Sugars":"11g"
+  },
+   "ingredients": "1 pound asparagus ,¼ cup white wine,2 tbsp butter",
+  "recipe":["Place asparagus in a microwavesafe dish. Pour in wine, and dot with pieces of butter.","Cover loosely, and cook in the microwave on High for 3 minutes, or until bright green and tender. Allow the dish to stand 5 minutes before serving."],
+  "imagepath": "assets/jsonimages/steamed-asparagus-featured-2021.jpg"
+  },
+  {
+  "name": "superfast asparagus",
+  "nutrition": {
+    "calories":"32 kcal",
+    "protein": "3.4g",
+    "fats": "6.9g",
+    "carbs":"7.5g",
+    "Sugars":"8g"
+  },
+   "ingredients": " 1 pound asparagus ,1 tsp Cajun seasoning",
+  "recipe":["Preheat oven to 425 degrees F (220 degrees C).","Snap the asparagus at the tender part of the stalk. Arrange spears in one layer on a baking sheet. Spray lightly with nonstick spray; sprinkle with the Cajun seasoning.","Bake in the preheated oven until tender, about 10 minutes"],
+  "imagepath": "assets/jsonimages/superfast asparagus.jpg"
+  },
+  {
+  "name": "awsome broccoli cheese",
+  "nutrition": {
+    "calories":"265 kcal",
+    "protein": "10g",
+    "fats": "18.2g",
+    "carbs":"15.1g",
+    "Sugars":"8g"
+  },
+   "ingredients": " ½ cup butter ,1 onion, chopped,1 pkg frozen chopped broccoli,4 cans chicken broth,1 loaf processed cheese food,1 tbsp garlic powder,⅔ cup cornstarch,1 cup water",
+  "recipe":["In a stockpot, melt butter over medium heat. Cook onion in butter until softened. Stir in broccoli, and cover with chicken broth. Simmer until broccoli is tender, 10 to 15 minutes.","Reduce heat, and stir in cheese cubes until melted. Mix in milk and garlic powder.","In a small bowl, stir cornstarch into water until dissolved. Stir into soup; cook, stirring frequently, until thick."],
+  "imagepath": "assets/jsonimages/superfast asparagus.jpg"
+  },
+  {
+  "name": "cavatelli and broccoli",
+  "nutrition": {
+    "calories":"317 kcal",
+    "protein": "10g",
+    "fats": "18.2g",
+    "carbs":"47g",
+    "Sugars":"10g"
+  },
+   "ingredients": " 3 heads fresh broccoli cut into florets ,½ cup olive oil,3 cloves garlic minced, 1½ pounds cavatelli pasta,1  tsp salt,1  tsp crushed red pepper flakes ,2  tbsp grated Parmesan cheese",
+  "recipe":["In a large pot of boiling water, blanch broccoli for about 5 minutes. Drain, and set aside.","Heat olive oil in a large skillet over medium heat. Saute garlic until lightly golden, being careful not to burn it. Add the broccoli. Saute, stirring occasionally, for about 10 minutes. Broccoli should be tender yet crisp to the bite.","Meanwhile, cook cavatelli in a large pot of boiling salted water for 8 to 10 minutes, or until al dente. Drain, and place in a large serving bowl. Toss with the broccoli, and season with salt and hot pepper flakes. Serve with parmesan cheese."],
+  "imagepath": "assets/jsonimages/cavatelli and broccoli.jpg"
+  },
+  {
+  "name": "chicken and broccoli cauli rice",
+  "nutrition": {
+    "calories":"376 kcal",
+    "protein": "35g",
+    "fats": "9.5g",
+    "carbs":"34g",
+    "Sugars":"14g"
+  },
+   "ingredients": "1 pound boneless chicken,½ cup sliced red onion,1 pkg Knorr Rice Sides,salt as required",
+  "recipe":["Melt Spread in large nonstick skillet over mediumhigh heat and cook chicken and onion, stirring frequently, until chicken is thoroughly cooked, about 4 minutes. Remove and set aside.","Prepare Knorr® Rice Sides™  Creamy Chicken flavor in same skillet according to pkg directions, stirring in broccoli during the last 5 minutes of cook time.","Stir in chicken and onion. Sprinkle with bacon."],
+  "imagepath": "assets/jsonimages/chicken and broccoli cauli rice.jpg"
+  },
+  {
+  "name": "Easy broccoli quinoa soup",
+  "nutrition": {
+    "calories":"146 kcal",
+    "protein": "6.5g",
+    "fats": "15.4g",
+    "carbs":"10g",
+    "Sugars":"12g"
+  },
+   "ingredients": " 1 tbsp oil,½ onion diced ,2 cloves garlic minced,2 cups broccoli florets,2 cups water,1 cup quinoa,2 cubes chicken bouillon,1 can fatfree milk,1 tbsp allpurpose flour",
+  "recipe":["Heat olive oil in a skillet over medium heat. Cook and stir onion and garlic in hot oil until tender, about 5 minutes. Add broccoli, water, quinoa, and chicken bouillon cubes to the onion mixture; bring to a boil stirring to dissolve the bouillon cubes. Place a cover on the skillet, reduce heat to low, and simmer until quinoa is fluffy, 10 to 15 minutes.","Stir evaporated milk and flour into the quinoa. Increase heat and bring the mixture to a boil; cook and stir until the mixture thickens, about 5 minutes. Season with salt and pepper to serve."],
+  "imagepath": "assets/jsonimages/easy broccoli quinoa soup.jpeg"
+  },
+  {
+  "name": "Ginger veggie stir fry",
+  "nutrition": {
+    "calories":"136 kcal",
+    "protein": "2.2g",
+    "fats": "9.3g",
+    "carbs":"8g",
+    "Sugars":"9g"
+  },
+   "ingredients": " 1 tbsp cornstarch, 1½ cloves garlic,2 tsp ginger ,¼ cup vegetable oil ,½ cup snow peas,¾ cup carrots,½ cup green beans,2 tbsp soy sauce,¼ cup chopped onion",
+  "recipe":["In a large bowl, blend cornstarch, garlic, 1  tsp ginger, and 2  tbsp vegetable oil until cornstarch is dissolved. Mix in broccoli, snow peas, carrots, and green beans, tossing to lightly coat.","Heat remaining 2  tbsp oil in a large skillet or wok over medium heat. Cook vegetables in oil for 2 minutes, stirring constantly to prevent burning. Stir in soy sauce and water. Mix in onion, salt, and remaining 1  tsp ginger. Cook until vegetables are tender but still crisp."],
+  "imagepath": "assets/jsonimages/ginger-veggie-stir-fry-.jpg"
+  },
+  {
+  "name": "Keto shrimp scampi with broccoli noodles",
+  "nutrition": {
+    "calories":"120 kcal",
+    "protein": "5.5g",
+    "fats": "9.9g",
+    "carbs":"10g",
+    "Sugars":"14g"
+  },
+   "ingredients": "2 broccoli,2  tbsp olive oil,salt,ground black pepper,2 cloves garlic minced,1 pound raw shrimp,2 tbsp dry white wine,2 tbsp lemon juice,1 tbsp minced basil,½ tsp crushed red pepper",
+  "recipe":["Cut off broccoli florets and save for another use. Cut woody ends off the stems. Shave large knots off the stems using a vegetable peeler so that they are as uniform as possible. Cut into noodles using the smallest blade on a spiralizer.","Heat 1 tbsp olive oil in a large skillet over mediumhigh heat. Add broccoli noodles, salt, and pepper; toss for 3 minutes. Remove from heat and set aside.","Heat remaining olive oil and garlic in a separate skillet over medium heat. Cook for 1 minute. Add shrimp and cook until opaque, about 3 minutes per side. Transfer shrimp to a bowl.","Add wine, lemon juice, butter, basil, chives, and red pepper to the skillet. Whisk over medium heat for 3 minutes. Return shrimp to the skillet and toss to coat.","Spoon broccoli noodles into 4 serving bowls. Top with shrimp mixture."],
+  "imagepath": "assets/jsonimages/keto shrimp scampi with broccoli noodles.jpg"
+  },
+  {
+  "name": "Low carb cream of broccoli soup",
+  "nutrition": {
+    "calories":"156 kcal",
+    "protein": "5.6g",
+    "fats": "8.5g",
+    "carbs":"11g",
+    "Sugars":"13g"
+  },
+   "ingredients": "  tsp onion powder, tsp garlic powder, tsp paprika, tbsp butter,ounces cream cheese,cups chicken broth,cup heavy whipping cream,ounces frozen chopped broccoli,cup sharp cheddar cheese",
+  "recipe":["Add butter, cream cheese, garlic powder, onion powder & paprika to a large pot over medium heat. Stir frequently until melted and blended together."," Add heavy cream and chicken broth, stir to combine. Bring to a boil over medium high heat, stirring occasionally. Once boiling allow to boil 58 minutes.","Add broccoli, stir and return to a boil. Once boiling reduce to simmer and cover. Cook for an additional 20 minutes."," Remove from heat, add cheddar, salt and pepper to taste. Stir and Serve.","This makes 6  1 cup servings at 4.1 net carbs."],
+  "imagepath": "assets/jsonimages/low carb cream of broccoli soup.jpg"
+  },
+  {
+  "name": "Roasted garlic lemon broccoli",
+  "nutrition": {
+    "calories":"136 kcal",
+    "protein": "3.6g",
+    "fats": "7.3g",
+    "carbs":"9g",
+    "Sugars":"13g"
+  },
+   "ingredients": "2 heads broccoli separated into florets,2  tsp extravirgin olive oil, 1  tsp sea salt,½  tsp ground black pepper,1 clove garlic minced,½  tsp lemon juice",
+  "recipe":["Preheat the oven to 400 degrees F (200 degrees C).","In a large bowl, toss broccoli florets with the extra virgin olive oil, sea salt, pepper and garlic. Spread the broccoli out in an even layer on a baking sheet.","Bake in the preheated oven until florets are tender enough to pierce the stems with a fork, 15 to 20 minutes. Remove and transfer to a serving platter. Squeeze lemon juice liberally over the broccoli before serving for a refreshing, tangy finish."],
+  "imagepath": "assets/jsonimages/roasted garlic lemon broccoli.jpg"
+  },
+  {
+  "name": "Skillet quinoa salad",
+  "nutrition": {
+    "calories":"168 kcal",
+    "protein": "4.5g",
+    "fats": "8.3g",
+    "carbs":"12g",
+    "Sugars":"8g"
+  },
+   "ingredients": "1  tsp extravirgin olive oil,1 cup quinoa rinsed and drained,2 cups lowsodium chicken broth,1 head broccoli cut into small florets,½ bunch kale chopped,½ red bell pepper chopped,¼ cup fresh cilantro chopped,¼ cup sliced black olives,salt and ground black pepper to taste,1 tbsp extravirgin olive oil or to taste",
+  "recipe":["Heat 1  tsp olive oil in a large skillet over medium heat. Add quinoa; cook and stir until quinoa is lightly toasted, about 2 minutes. Remove from heat. Pour in chicken broth slowly. Bring to a boil. Reduce heat to low, cover, and simmer until most of the chicken broth is absorbed, about 12 minutes.","Layer broccoli, kale, and red bell pepper over quinoa in the skillet. Cover and cook until quinoa is tender, about 8 minutes more. Fluff quinoa with a fork. Sprinkle cilantro and olives on top. Season with salt and black pepper and drizzle with 1 tbsp olive oil."],
+  "imagepath": "assets/jsonimages/skillet quinoa salad.jpg"
+  },
+  {
+  "name": "Slow cooker broccoli beef",
+  "nutrition": {
+    "calories":"814 kcal",
+    "protein": "46.4g",
+    "fats": "16g",
+    "carbs":"121g",
+    "Sugars":"9g"
+  },
+   "ingredients": "1 beef bouillon cube,1 cup warm water,½ cup soy sauce,⅓ cup brown sugar,2 cloves garlic minced,1 tbsp sesame oil,1 tbsp sesame oil,2 tbsp cornstarch,2 pounds broccoli florets,2 cups cooked jasmine rice",
+  "recipe":["Crumble beef bouillon cube into warm water in a bowl and stir to dissolve; add soy sauce, brown sugar, garlic, and sesame oil and stir to dissolve sugar.","Put beef strips into a slow cooker crock. Pour sauce mixture over the beef.","Cook on Low for 6 to 8 hours","Spoon 2  tbsp liquid from the slow cooker into a bowl. Whisk cornstarch into the liquid and stir the cornstarch mixture into the liquid in the slow cooker until consistent in color.","Cook on High until the sauce thickens, about 30 minutes.","Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil.","Cook broccoli in covered steamer until tender, 2 to 6 minutes; add to sauce in slow cooker and stir to coat.","Ladle broccoli beef over portions of cooked jasmine rice and garnish with sesame seeds."],
+  "imagepath": "assets/jsonimages/slow cooker broccoli beef.jpg"
+  },
+  {
+  "name": "Cabbage beef soup",
+  "nutrition": {
+    "calories":"211 kcal",
+    "protein": "14.4g",
+    "fats": "8.7g",
+    "carbs":"20.3g",
+    "Sugars":"10g"
+  },
+   "ingredients": "2 tbsp vegetable oil,1 pound ground beef,½ large onion chopped,5 cups chopped cabbage,2 cans red kidney beans drained,2 cups water,24 ounces tomato sauce,4 beef bouillon cubes,1½  tsp ground cumin,1  tsp salt,1  tsp pepper",
+  "recipe":["Heat oil in a large stockpot over medium high heat. Add ground beef and onion, and cook until beef is well browned and crumbled. Drain fat, and transfer beef to a slow cooker. Add cabbage, kidney beans, water, tomato sauce, bouillon, cumin, salt, and pepper. Stir to dissolve bouillon, and cover.","Cook on high setting for 4 hours, or on low setting for 6 to 8 hours. Stir occasionally. Enjoy"],
+  "imagepath": "assets/jsonimages/cabbage beef soup.jpg"
+  },
+  {
+  "name": "Cabbage fat burning soup",
+  "nutrition": {
+    "calories":"90 kcal",
+    "protein": "4g",
+    "fats": "0.5g",
+    "carbs":"20.7g",
+    "Sugars":"9g"
+  },
+   "ingredients": "5 carrots chopped,3 onions chopped,2 tomatoes with liquid,1 large cabbage ,onion soup mix,1 can green beans ,2 quarts tomato juice,2 green bell peppers ,10 stalks celery",
+  "recipe":["Place carrots, onions, tomatoes, cabbage, green beans, peppers, and celery in a large pot. Add onion soup mix, tomato juice, beef broth, and enough water to cover vegetables. Simmer until vegetables are tender. May be stored in the refrigerator for several days."],
+  "imagepath": "assets/jsonimages/cabbage fat burning soup.jpg"
+  },
+  {
+  "name": "Cabbage rolls",
+  "nutrition": {
+    "calories":"441 kcal",
+    "protein": "18g",
+    "fats": "16g",
+    "carbs":"59.5g",
+    "Sugars":"12g"
+  },
+   "ingredients": "2 cups uncooked longgrain rice,4 cups water, 2 large heads savoy cabbage,1 cup water,2 onions chopped,3  tbsp butter,1 pound extralean ground beef,½ pound pork sausage,2  tsp dried dill weed,¾  tsp salt,½  tsp ground black pepper,1 can whole peeled tomatoes, with liquid,8 bay leaves",
+  "recipe":["Wash rice thoroughly. In a medium saucepan, combine 2 cups rice and 4 cups water. Bring to boil; reduce heat, cover and simmer for 20 minutes or until all of the water is absorbed.","In the meantime, remove the core from the cabbages using a thin, long knife. Place 1 cabbage in a microwave proof container with a lid with core side down. Pour ½ cup water into the container with the cabbage, cover and microwave on HIGH (full power) for 10 minutes. Carefully turn cabbage over and cook covered for an additional 10 minutes. When cabbage is cooked, let sit until it is cool enough to handle. Separate leaves carefully, removing any tough ribs. Cook the second cabbage in the same manner.","Divide chopped onions in half. Saute one half of the onions in 3  tbsp butter; cook just until translucent (do not brown). In a large mixing bowl, mix together both the cooked and uncooked rice, cooked and uncooked onions, ground beef, pork sausage, garlic, dill weed, salt, black pepper and sugar and mix well to blend.","Spoon about 2  tbsp of mixture onto each cabbage leaf. Bring one end of cabbage leaf over mixture, roll and tuck ends in to prevent any filling from falling out.","In a food processor or blender, process condensed tomato soup and tomatoes. Pour tomato mixture over the cabbage rolls until just covered. Place 4 bay leaves on top of sauce in each dish. Cover each dish tightly with aluminum foil.","Bake in a preheated 350 degrees F (175 degrees C) oven for 2 hours. Once cooked, remove the dishes from the oven and let cool for 15 minutes before removing aluminum foil. Serve hot"],
+  "imagepath": "assets/jsonimages/cabbage rolls.jpg"
+  },
+  {
+  "name": "Creamed cabbage",
+  "nutrition": {
+    "calories":"251 kcal",
+    "protein": "5.6g",
+    "fats": "0.5g",
+    "carbs":"14g",
+    "Sugars":"10g"
+  },
+   "ingredients": " ¼ cup butter,4 slices bacon,1 tbsp allpurpose flour,1  tsp salt,1 cabbage ,½ cup sour cream",
+  "recipe":["Place the bacon in a large, deep skillet, and cook over mediumhigh heat, turning occasionally, until evenly browned, about 10 minutes. Remove the bacon slices to cool.","Whisk the butter, flour, and salt into the drippings in the same pan. Stir in the cabbage, and cook, stirring occasionally, over medium heat until cabbage is tender, about 15 minutes. Crumble the bacon; stir the bacon pieces and sour cream into the cabbage mixture."],
+  "imagepath": "assets/jsonimages/creamed cabbage.jpg"
+  },
+  {
+  "name": "Easy apple coleslaw",
+  "nutrition": {
+    "calories":"137 kcal",
+    "protein": "2.5g",
+    "fats": "4.5g",
+    "carbs":"19g",
+    "Sugars":"18g"
+  },
+   "ingredients": "3 cups chopped cabbage,1 red apple,1 Granny Smith apple,1 carrot grated ,½ cup chopped red bell pepper,2 green onions,⅓ cup mayonnaise,⅓ cup brown sugar,1 tbsp lemon juice",
+  "recipe":["In a large bowl, combine cabbage, red apple, green apple, carrot, red bell pepper, and green onions. In a small bowl, mix together mayonnaise, brown sugar, and lemon juice. Pour dressing over salad."],
+  "imagepath": "assets/jsonimages/easy apple coleslaw.jpg"
+  },
+  {
+  "name": "Easy corned beef and cabbage",
+  "nutrition": {
+    "calories":"157 kcal",
+    "protein": "2.7g",
+    "fats": "6.5g",
+    "carbs":"23g",
+    "Sugars":"12g"
+  },
+   "ingredients": "1 onion,4 potatoes,1 pound carrots,3 cups water,1 bay leaf,1 corned beef,1 small cabbage",
+  "recipe":["Place onion, potatoes, and carrots in a 5quart slow cooker. Combine water, garlic, bay leaf, sugar, vinegar, and contents of spice packet in a small bowl; pour over vegetables. Top with brisket and cabbage.","Cover and cook on Low until meat and vegetables are tender, 8 to 9 hours. Remove bay leaf before serving."],
+  "imagepath": "assets/jsonimages/easy corned beef and cabbage.jpg"
+  },
+  {
+  "name": "Fish tacos",
+  "nutrition": {
+    "calories":"269 kcal",
+    "protein": "12.7g",
+    "fats": "17.5g",
+    "carbs":"18.3g",
+    "Sugars":"10g"
+  },
+   "ingredients": "1 lime juiced,¼ cup olive oil,¼ cup chopped cilantro,1 jalapeno pepper diced,1 tbsp ground ancho chile powder,¼  tsp ground cumin,salt and ground black pepper to taste,½ pound halibut fillets,8 corn tortillas",
+  "recipe":["Stir lime juice, olive oil, cilantro, jalapeno, chile powder, cumin, salt, and pepper together in a large bowl or resealable ziptop bag. Add halibut and marinate for 20 to 25 minutes. Do not overmarinate, as lime juice will start to cook the fish","Preheat an outdoor grill for medium heat and lightly oil the grate. Drain marinade; grill fillets for 5 minutes. Turn and cook until fish flakes easily with a fork, about 2 minutes more.","Warm tortillas on the grill or stove. Divide halibut among tortillas and top with cabbage, salsa, pepper Jack cheese, and avocado."],
+  "imagepath": "assets/jsonimages/fish tacos.jpg"
+  },
+  {
+  "name": "Healing cabbage soup",
+  "nutrition": {
+    "calories":"82 kcal",
+    "protein": "1.5g",
+    "fats": "5.2g",
+    "carbs":"8.6g",
+    "Sugars":"12g"
+  },
+   "ingredients": "3 tbsp olive oil,½ onion chopped,2 cloves garlic chopped,2 quarts water,4 tsp chicken bouillon granules,1 tsp salt,½  tsp black pepper,½ head cabbage,1 can stewed tomatoes",
+  "recipe":["In a large stockpot, heat olive oil over medium heat. Stir in onion and garlic; cook until onion is transparent, about 5 minutes.","Stir in water, bouillon, salt, and pepper. Bring to a boil, then stir in cabbage. Simmer until cabbage wilts, about 10 minutes.","Stir in tomatoes. Return to a boil, then simmer 15 to 30 minutes, stirring often."],
+  "imagepath": "assets/jsonimages/healing cabbage soup.jpg"
+  },
+  {
+  "name": "Low calorie vegetarian filipino",
+  "nutrition": {
+    "calories":"220 kcal",
+    "protein": "11.9g",
+    "fats": "1.6g",
+    "carbs":"42.5g",
+    "Sugars":"10g"
+  },
+   "ingredients": "1 can diced tomatoes,3 cups water,1 can kidney beans drained,1 can red beans drained,1 yellow onion diced,½ yellow bell pepper diced,½ orange bell pepper diced,3  tbsp chilli powder,2  tbsp garlic powder,2 pinches salt",
+  "recipe":["Combine diced tomatoes, water, kidney beans, red beans, onion, tomato paste, mushrooms, yellow bell pepper, orange bell pepper, chilli powder, garlic powder, and salt in a large saucepan over high heat. Bring to a boil, stirring occasionally. Reduce heat to mediumlow and simmer, stirring occasionally, until all vegetables are tender, about 30 minutes."],
+  "imagepath": "assets/jsonimages/low calorie vegetarian filipino.jpg"
+  },
+  {
+  "name": "pad thai quinoa bowl",
+  "nutrition": {
+    "calories":"370 kcal",
+    "protein": "20.9g",
+    "fats": "16.8g",
+    "carbs":"35.6g",
+    "Sugars":"9g"
+  },
+   "ingredients": "4 cups chicken broth,2 cups quinoa,1 tbsp oil,1 chicken breast,¾ cup shredded cabbage,½ cup edamame,¼ cup diced broccoli ,2 carrots,2 green onions chopped,3 eggs,1 tsp sesame oil",
+  "recipe":["Bring chicken broth and quinoa to a boil in a saucepan. Reduce heat to mediumlow, cover, and simmer until quinoa is tender, 15 to 20 minutes. Set aside.","Heat 1 ½  tsp coconut oil in a wok or large skillet over mediumhigh heat. Add chicken; stir until cooked through; about 5 minutes. Remove chicken from wok. Heat remaining 1 ½  tsp coconut oil. Add cabbage, edamame, broccoli, carrot, and green onions and saute until vegetables soften slightly, 2 to 3 minutes.","Whisk eggs with sesame oil in a small bowl. Push vegetables to the sides of the wok to make a well in the center; pour eggs in and stir to scramble, about 3 minutes.","Combine peanut butter, soy sauce, rice vinegar, chilli garlic sauce, ginger, garlic, and sesame oil together in a small bowl. Pour Thai peanut sauce over vegetable and egg mixture in the wok.","Return chicken to the wok and add quinoa; mix well to combine. Stir in chopped peanuts and cilantro and serve."],
+  "imagepath": "assets/jsonimages/pad thai quinoa bowl.jpg"
+  },
+  {
+  "name": "Creamy Keto Cucumber Salad",
+  "nutrition": {
+    "calories":"116 kcal",
+    "protein": "1.9g",
+    "fats": "12.8g",
+    "carbs":"2g",
+    "Sugars":"1g"
+  },
+   "ingredients": "1 cucumber,2 tbsp of mayo ,2 tbsp lemon juice",
+  "recipe":["To make the creamy cucumber salad, mix together (in a small bowl) the cucumber slices, mayo, and lemon juice.  Add salt and pepper to taste."],
+  "imagepath": "assets/jsonimages/5-Minute Creamy Keto Cucumber Salad.jpg"
+  },
+  {
+  "name": "Chilled Cucumber and Prawn Soup",
+  "nutrition": {
+    "calories":"267 kcal",
+    "protein": "17.4g",
+    "fats": "14g",
+    "carbs":"33.4g",
+    "Sugars":"5g"
+  },
+   "ingredients": "1 cucumber,125g prawns,300 ml yogurt,6 tbsp lemon juice,250 ml cream,1 capsicum",
+  "recipe":["Sprinkle salt on the grated cucumber and leave aside for 15 minutes.","Mix together the yoghurt, cream and cucumber.","Add lemon juice, capsicum prawns and salt and pepper.","Chill for an hour before serving."],
+  "imagepath": "assets/jsonimages/Chilled Cucumber and Prawn Soup.jpeg"
+  },
+  {
+  "name": "Creamy Dill Cucumber Toastie",
+  "nutrition": {
+    "calories":"247 kcal",
+    "protein": "6.4g",
+    "fats": "10g",
+    "carbs":"30.4g",
+    "Sugars":"8g"
+  },
+   "ingredients": "1 pkg cream cheese,1 pkg dry salad mix,½ cup mayonnaise,1 French baguette,1 cucumber,2 tsp dried dill weed",
+  "recipe":["In a medium bowl, mix together cream cheese, dressing mix and mayonnaise.","Spread a thin layer of the cream cheese mixture on a slice of bread, and top with a slice of cucumber. Sprinkle with dill. Repeat with remaining ingredients."],
+  "imagepath": "assets/jsonimages/Creamy Dill Cucumber Toastie.jpg"
+  },
+  {
+  "name": "Crispy Cucumbers and tomatoes in Dill",
+  "nutrition": {
+    "calories":"71 kcal",
+    "protein": "1.4g",
+    "fats": "12g",
+    "carbs":"6.4g",
+    "Sugars":"9g"
+  },
+   "ingredients": "¼ cup cider vinegar,1  tsp white sugar,½  tsp salt,½  tsp chopped fresh dill weed,¼  tsp ground black pepper,2  tbsp vegetable oil,2 cucumbers,2 ripe tomatoes",
+  "recipe":["In a large bowl, mix the vinegar, sugar, salt, dill, pepper, and oil. Add cucumbers, onion, and tomatoes. Toss, and let stand at least 15 minutes before serving."],
+  "imagepath": "assets/jsonimages/Crispy Cucumbers and tomatoes in Dill.jpg"
+  },
+  {
+  "name": "cucumber cooler",
+  "nutrition": {
+    "calories":"365 kcal",
+    "protein": "4.4g",
+    "fats": "0.5g",
+    "carbs":"94g",
+    "Sugars":"8g"
+  },
+   "ingredients": "2 cucumbers  peeled, seeded and chopped,⅜ cup fresh lime juice,⅓ cup white sugar,⅔ cup water",
+  "recipe":["Combine the cucumber, lime juice, sugar, and water in a food processor; puree.n"],
+  "imagepath": "assets/jsonimages/cucumber cooler.jpg"
+  },
+  {
+  "name": "Cucumber Curry",
+  "nutrition": {
+    "calories":"365 kcal",
+    "protein": "4.4g",
+    "fats": "0.5g",
+    "carbs":"94g",
+    "Sugars":"8g"
+  },
+   "ingredients": "Cucumber peeled 3 large,Ginger 1 inch piece,Dried red chillies 12,Oil 2  tbsp,Tomato 1 medium,Cumin powder ½  tsp,Red chilli powder 1/4  tsp,Coconut milk 2  tbsp,coriander leaves a few sprigs,Fresh red chilli slit 1",
+  "recipe":["Grind ginger, garlic, black peppercorns, dried red chillies and peanuts with a little water to a paste.","Grind ginger, garlic, black peppercorns, dried red chillies and peanuts with a little water to a paste.","Add onions to the pan and saute till soft. Chop tomato and add to the pan and saute.","Add cucumber, salt and mix well. Add turmeric powder, cumin powder, red chilli powder and saute for 23 minutes. Add peanut paste, coconut milk and mix well. Cover and cook on medium heat for 10 minutes.","Transfer into a serving bowl, garnish with a fresh coriander sprig and fresh red chilli and serve hot with chapatti."],
+  "imagepath": "assets/jsonimages/Cucumber Curry.jpg"
+  },
+  {
+  "name": "Cucumber Soup",
+  "nutrition": {
+    "calories":"151 kcal",
+    "protein": "3.4g",
+    "fats": "9.5g",
+    "carbs":"15g",
+    "Sugars":"9g"
+  },
+   "ingredients": "1 tbsp butter,1 tbsp olive oil,1 small yellow onion,1 large clove garlic,2 large cucumbers,2 small zucchinis,3 cups vegetable broth",
+  "recipe":["Melt butter with the oil in a large saucepan over mediumhigh heat. Cook and stir onion and garlic in the butter mixture until tender, 3 to 5 minutes. Add cucumber and zucchini slices; cook and stir until softened, 2 to 3 minutes. Pour vegetable broth over the mixture; bring to a boil, reduce heat to mediumlow, and let simmer until the vegetables are cooked through, 20 to 25 minutes. Remove from heat and cool a few minutes.","Pour soup into a blender no more than half full. Cover and hold lid in place with a towel; pulse a few times before leaving on to blend. Puree in batches until smooth."],
+  "imagepath": "assets/jsonimages/Cucumber Soup.jpg"
+  },
+  {
+  "name": "Greek Zoodle Salad",
+  "nutrition": {
+    "calories":"147 kcal",
+    "protein": "5g",
+    "fats": "11.7",
+    "carbs":"9.7g",
+    "Sugars":"12g"
+  },
+   "ingredients": "2 zucchini,¼ cucumber,10 cherry tomatoes,10 kalamata olives ,¼ cup red onion,2 ounces feta cheese,2 tbsp lemon juice,1 tsp dried oregano",
+  "recipe":["Cut zucchini into noodleshaped strands using a spiralizing tool. Place zoodles in a large bowl and top with cucumber, tomatoes, olives, red onion, and feta cheese.","Whisk olive oil, lemon juice, oregano, salt, and pepper together in a bowl until dressing is smooth; pour over zoodle mixture and toss to coat. Marinate salad in refrigerator for 10 to 15 minutes."],
+  "imagepath": "assets/jsonimages/Greek Zoodle Salad.jpg"
+  },
+  {
+  "name": "Sweet & Spicy Chicken Wraps",
+  "nutrition": {
+    "calories":"487 kcal",
+    "protein": "26g",
+    "fats": "14.7",
+    "carbs":"44.7g",
+    "Sugars":"10g"
+  },
+   "ingredients": " ½ cup mayonnaise,1 cucumber,1 tbsp honey,ground black pepper,1½ pounds chicken breast,½ tsp cayenne pepper,1 bag baby spinach leaves",
+  "recipe":["Mix together the mayonnaise, cucumber, 1 tbsp of honey, ½  tsp of cayenne pepper, and black pepper in a bowl until smooth. Cover and refrigerate until needed.","Heat the olive oil in a skillet on mediumhigh heat, and cook and stir the chicken breast strips until they are beginning to turn golden and are no longer pink in the middle, about 8 minutes. Stir in the salsa, 1 tbsp of honey, and ½  tsp of cayenne pepper. Reduce the heat to mediumlow and simmer, stirring occasionally, until the flavors have blended, about 5 minutes.","Stack the tortillas, 4 at a time, in a microwave oven and heat until warm and pliable, 20 to 30 seconds per batch.","Spread each tortilla with 1 tbsp of the mayonnaisecucumber mixture, top with a layer of baby spinach leaves, and arrange about ½ cup of chicken mixture on the spinach leaves.","Fold the bottom of each tortilla up about 2 inches, and start rolling the burrito from the right side. When the burrito is halfrolled, fold the top of the tortilla down, enclosing the filling, and continue rolling to make a tight, compact cylinder."],
+  "imagepath": "assets/jsonimages/Simple Sweet and Spicy Chicken Wraps.jpg"
+  },
+  {
+  "name": "Roasted Egg Mash",
+   "nutrition": {
+    "calories":"114 kcal",
+    "protein": "20g",
+    "fats": "13.7",
+    "carbs":"4.7g",
+    "Sugars":"9g"
+  },
+   "ingredients": "egg,3 large garlic cloves,1.5 tbsp oil I used vegetable oil,4 large garlic cloves chopped,1 inch ginger chopped,1 medium red onion 120 grams",
+  "recipe":["Scrample the eggs. Brush it with little oil all over. Then make few slits all over the brinjal with a knife. In 3 of those slits, insert a large clove of garlic. Put the brinjal directly on heat and roast, turning often for around 1012 minutes until completely roasted.","Once roasted (to check if its done, insert a knife inside the brinjal, it should go easily) use a pair of tongs to remove the brinjal from heat and wrap in an aluminium foil to cool.","Once cooled, remove the skin. Meanwhile also chop the roasted garlic.","Heat oil in a pan on medium heat. Once the oil is hot, add chopped garlic (different from the ones used while roasting the brinjal), ginger and green chilli. Saute until they start changing color, around 2 minutes.","Then add in the chopped onion and cook for 23 minutes until softened. Don't brown them.","Add the chopped tomatoes and mix. Cook the tomatoes for around 5 minutes until very soft and you notice oil oozing out of the masala. ","Add the mashed roasted brinjal into the pan along with the chopped roasted garlic and mix well.","Add the red chilli powder and mix. Also add the coriander powder and salt and mix to combine. Cook the bharta for another 5 minutes on mediumlow heat, stirring often.","Stir in the chopped cilantro and mix. Remove pan from heat.","Serve baingan bharta hot with fresh rotis!"],
+  "imagepath": "assets/jsonimages/Roasted Egg Mash.jpg"
+  },
+  {
+  "name": "Creamy Coconut brinjal Curry",
+   "nutrition": {
+    "calories":"100 kcal",
+    "protein": "28g",
+    "fats": "18.7",
+    "carbs":"46.7g",
+    "Sugars":"7g"
+  },
+   "ingredients": " 1 kg extrafirm tofu,2 cans coconut milk,2 tbsp Thai red curry paste,1 medium brinjal ,1 large onion chopped,1 medium red bell pepper,2 tbsp dark brown sugar,1 tbsp tamari,1 tbsp rice vinegar,1 tsp salt",
+  "recipe":["Wrap tofu in several layers of paper towels. Place in a colander in the sink. Set a plate on top of tofu and weigh down with a large, heavy can. Let stand for at least 20 minutes.","Meanwhile, shake cans of coconut milk well prior to opening. Pour ½ of 1 can into a large saucepan. Bring to a simmer over medium heat. Whisk in curry paste until well blended. Add brinjal, onion, and bell pepper, stirring well with a rubber spatula to prevent breaking of tender brinjal during cooking.","Stir remaining 1 ½ cans coconut milk, dark brown sugar, tamari, rice vinegar, and salt into the saucepan. Mix well. Increase heat and bring to a boil. Reduce heat to low and simmer until thickened, about 20 minutes.","Unwrap tofu and cut into bitesized cubes. Stir into curry mixture. Cook until heated through, about 5 minutes. Add peas and cook until warm, 1 to 2 minutes more."],
+  "imagepath": "assets/jsonimages/Creamy Coconut Eggplant Curry.jpg"
+  },
+  {
+  "name": "brinjal and Tomato Pie",
+   "nutrition": {
+    "calories":"467 kcal",
+    "protein": "16.5g",
+    "fats": "18.7",
+    "carbs":"56.7g",
+    "Sugars":"9g"
+  },
+   "ingredients":"9 inch pie crust,4 tomatoes,½ cup basil,3 green onions,½ pound bacon,½ tsp garlic powder,1 tsp oregano,½  tsp crushed red pepper,2 cup cheese,¼ cup mayonnaise",
+  "recipe":["Preheat oven to 375 degrees F (190 degrees C).","In alternating layers, fill pastry shell with tomatoes, basil, scallions, bacon, garlic powder, oregano, and red pepper. In a small bowl, mix cheese with mayonnaise. Spread mixture over top of pie. Cover loosely with aluminum foil.","Bake in preheated oven for 30 minutes. Remove foil from top of pie and bake an additional 30 minutes. Serve warm or cold."],
+  "imagepath": "assets/jsonimages/Eggplant and Tomato Pie.jpg"
+  },
+  {
+  "name": "Brinjal Curry With Potatoes",
+   "nutrition": {
+    "calories":"120 kcal",
+    "protein": "2.5g",
+    "fats": "7.7",
+    "carbs":"14.7g",
+    "Sugars":"7g"
+  },
+   "ingredients": "1 brinjal,2  tbsp vegetable oil,½  tsp cumin seeds,1 medium onion,1  tsp chopped fresh ginger,1 large tomato  peeled,1 clove garlic,½  tsp ground turmeric,½  tsp ground cumin,½  tsp ground coriander,¼  tsp cayenne pepper,ground black pepper to taste,¼ cup chopped fresh cilantro",
+  "recipe":["Preheat the oven's broiler. Rub oil on the outside of the egg plant, or coat with cooking spray. Place under the broiler, and cook until the flesh is soft and the skin is blistering off, about 30 minutes. Turn as needed for even cooking. Cut the brinjal in half lengthwise, and scoop the flesh out of the skin. Discard the skin; chop up the flesh, and set aside.","Heat the oil in a large skillet or wok over mediumhigh heat. Add the cumin seeds, and let them crackle for a few seconds and turn golden brown. Be careful not to burn them. Add the onion, ginger and garlic; cook and stir until tender. I don't let the onions get very brown. Stir in the tomato, and season with turmeric, ground cumin, ground coriander, cayenne pepper, salt and black pepper. Cook and stir for a few minutes.","Place the brinjal pieces in the skillet, and cook for 10 to 15 minutes so some of the moisture evaporates. Taste, and adjust seasonings if desired. Garnish with fresh cilantro, and serve."],
+  "imagepath": "assets/jsonimages/Indian Eggplant Curry With Potatoes.jpg"
+  },
+  {
+  "name": "Roasted sesame-garlic brinjal",
+   "nutrition": {
+    "calories":"127 kcal",
+    "protein": "2.5g",
+    "fats": "6.7",
+    "carbs":"14.7g",
+    "Sugars":"6g"
+  },
+   "ingredients": "1 bulb garlic,1 tbsp olive oil, ¼ cup finely chopped onion, 6 cups chicken broth,¾ cup tomato puree,1 dash cayenne pepper,1 ¼ cups halfandhalf,1  tsp Worcestershire sauce",
+  "recipe":["Preheat oven to 350 degrees F (175 degrees C). Line a baking sheet with foil.","Peel away any excess paper from the bulb of garlic, then cut the top off to expose the cloves. Rub exposed cloves with 1/4  tsp olive oil, and set onto the prepared baking sheet. Poke the brinjal all over with a fork; place onto baking sheet.","Bake in preheated oven until the garlic has turned golden brown and the brinjal is tender, 30 to 40 minutes. Allow to cool until cool enough to handle. Peel brinjal and chop into large chunks; peel or squeeze the roasted garlic from its skin, and set aside.","Heat 1 tbsp olive oil in a large saucepan over medium heat. Stir in onion, and cook until soft and translucent, about 5 minutes. Pour in chicken broth, then stir in reserved brinjal, roasted garlic, tomato puree, and cayenne pepper. Bring to a boil over mediumhigh heat, then reduce heat to mediumlow, cover, and simmer for 40 minutes.","Once cooked, carefully puree soup in batches in a blender or food processor until smooth. Return soup to the stove in a clean saucepan. Stir in halfandhalf, season to taste with salt and pepper; cook over mediumlow heat until hot."],
+  "imagepath": "assets/jsonimages/ROASTED SESAME-GARLIC EGGPLANT.jpg"
+  },
+  {
+  "name": "Sauteed brinjal",
+   "nutrition": {
+    "calories":"243 kcal",
+    "protein": "32g",
+    "fats": "5.7",
+    "carbs":"28.7g",
+    "Sugars":"6g"
+  },
+   "ingredients": "1 medium brinjal,2 tbsp balsamic vinaigrette,salt,ground black pepper,nonstick cooking spray,1 tbsp chopped onion, 2 cloves garlic chopped",
+  "recipe":["Cut brinjal into thin slices. Drizzle slices on one side with 1 tbsp balsamic vinaigrette and season with salt and pepper.","Spray a large saucepan with nonstick spray and heat over low heat. Place brinjal in the pan, seasonedsides down, in a single layer. Drizzle refining vinaigrette over the exposed sides. Add onion and garlic. Cover and cook until brinjal slices are lightly browned and tender, about 5 minutes per side."],
+  "imagepath": "assets/jsonimages/SAUTEED EGGPLANT.jpg"
+  },
+  {
+    "name": "Avocado Milkshake",
+     "nutrition": {
+      "calories":"480 kcal",
+      "protein": "31g",
+      "fats": "12g",
+      "carbs":"35g",
+      "Sugars":"10 g"
+    },
+     "ingredients": "1 large Ripe Avocado,2 cups Milk or Almond Milk,3 tablespoons Sugar",
+    "recipe":["Choose ripe avocado by pressing it gently; if it is hard, it means Avocado is unripe; if it’s too soft then it means Avocado is overripe; if it is soft yet little firm, then it means Avocado is ready. Cut it into half and remove the pit.","Scoop the pulp out using a spoon and place it into a blender jar. Add milk and sugar.","Blend until smooth texture. Taste it for sugar at this stage and add more sugar if desired." ],
+    "imagepath": "assets/jsonimages/Avocado-Milkshake.jpg"
+  },
+  {
+    "name": "avocado salad",
+     "nutrition": {
+      "calories":"230 kcal",
+      "protein": "3g",
+      "fats": "21g",
+      "carbs":"13g",
+      "Sugars":"1 g"
+    },
+     "ingredients": "1.25 kg avocado,½ cup green onion,2 tbsp lemon juice,½ tsp salt,Ground black pepper",
+    "recipe":["Cut each fruit in half and remove the pit","Then cut each half into 2-3 strips","In a large salad bowl add all ingredients ","Stir gently with a wooden spoon and consume within next 5-6 hours" ],
+    "imagepath": "assets/jsonimages/avocado salad.jpg"
+  },
+  {
+  "name": "CHEESE BURGER",
+   "nutrition": {
+    "calories":"344 kcal",
+    "protein": "8.8g",
+    "fats": "18.7",
+    "carbs":"40.7g",
+    "Sugars":"9g"
+  },
+   "ingredients": "2 tbsp olive oil,1 small onion,1 clove garlic,1 garbanzo beans,1 tbsp taco seasoning,½ tsp ground cumin,¾ cup chicken broth, 1 lettuce,1 avocado,1 tomato,1 can black olives",
+  "recipe":["Heat olive oil in a large skillet. Add onion; cook and stir until translucent, about 5 minutes. Add garlic; cook and stir until fragrant, about 2 minutes.","Stir garbanzo beans, taco seasoning, and cumin into the skillet. Pour in chicken broth and cover. Bring to a boil; reduce heat to low and simmer until soft, about 10 minutes. Mash mixture with potato masher. Season with salt and pepper.","Pull lettuce cups out of the center of each half. Fill with garbanzo bean mixture. Top with avocado, tomato, and olives."],
+  "imagepath": "assets/jsonimages/CHEESEBURGER LETTUCE WRAPS.jpg"
+  },
+  {
+  "name": "Green Gram Salad",
+   "nutrition": {
+    "calories":"47 kcal",
+    "protein": "2.8g",
+    "fats": "2.7",
+    "carbs":"5.7g",
+    "Sugars":"5g"
+  },
+   "ingredients": "½ cup chopped onion,½ cup chopped green bell pepper,2 pkgs mixed salad greens,4 thinly sliced chicken,1 tomato,¼  tsp onion powder,3 dashes garlic powder,1 pinch ground black pepper,2 pinches salt,3 tbsp balsamic vinaigrette",
+  "recipe":["Microwave or saute onion and bell pepper until soft; set aside to cool.","In a large salad bowl, combine the onion, pepper, salad greens, deli meat and tomato. Sprinkle with the onion powder, garlic powder, black pepper and salt. Toss to mix.","Pour on enough salad dressing or vinegar to coat, toss again and serve."],
+  "imagepath": "assets/jsonimages/Green Gram Salad.jpg"
+  },
+  {
+  "name": "Guilt Free Chicken Tacos",
+   "nutrition": {
+    "calories":"102 kcal",
+    "protein": "3.2g",
+    "fats": "2.4",
+    "carbs":"3.4g",
+    "Sugars":"8g"
+  },
+   "ingredients": "½ Kg chicken boneless,3 tbsp taco seasoning,3 Lemons,2 tbsp garlic,1 tbsp oil,Cabbage/Lettuce,1 packet tortilla chips",
+  "recipe":["Take a crisp lettuce cup, put the cooked chicken in it first. Then add a dollop of salsa followed by a dollop of Mexican yoghurt dip. Don't put the dip first, it will make the lettuce soggy.","If you don't want to eat lettuce, you can put the cooked taco chicken on tortilla chips, and add a touch of dip and salsa and serve as finger food.","If you buy a ready made tortilla packet from the market, do not reheat them on high heat, they will turn brittle if you overcook them. Just cook them on low heat."],
+  "imagepath": "assets/jsonimages/Guilt Free Chicken Tacos.jpg"
+  },
+  {
+  "name": "Lettuce Wrapped Cottage Cheese",
+   "nutrition": {
+    "calories":"276 kcal",
+    "protein": "4.2g",
+    "fats": "2.7",
+    "carbs":"3.9g",
+    "Sugars":"5g"
+  },
+   "ingredients": "2 lettuce leaves,1/4 cup cottage cheese,½ yellow bell pepper,½ red bell pepper ,½ tbsp chilli sauce,½ tsp green pepper corns,½ tsp pink pepper corns,2 tsp chopped chives,½ tsp crushed peanut,½ tsp roasted garlic",
+  "recipe":["In a bowl, mix cottage cheese, red and yellow peppers, Thai chilli sauce, roasted garlic, crushed peanut, pepper corns and chopped chives.","Spread the mixture on the lettuce leaf and wrap.","Tie with the chive and serve.","Serve hot with steamed rice."],
+  "imagepath": "assets/jsonimages/Lettuce Wrapped Cottage Cheese.jpg"
+  },
+  {
+  "name": "Pork Lettuce Wraps",
+   "nutrition": {
+    "calories":"32 kcal",
+    "protein": "7.2g",
+    "fats": "4.7",
+    "carbs":"6.9g",
+    "Sugars":"9g"
+  },
+   "ingredients": "1½ pounds pork,1 zucchini,½ cup carrots,2 tbsp sesame oil,¼ cup hoisin sauce,1 tbsp minced garlic,2 tsp ginger paste,2 tsp sriracha sauce,¼ tsp red pepper flakes,1 lettuce",
+  "recipe":["Whisk together soy sauce, hoisin sauce, fish sauce, garlic, lemongrass, ginger, sriracha, and red pepper flakes. Set aside.","Drizzle oil into a large skillet over mediumhigh heat.","Add pork and brown, breaking apart with a spoon or spatula as it cooks, for about 5 minutes.","Add zucchini, water chestnuts, onions, and carrots. Sauté about 57 minutes until veggies are tender.","Serve in lettuce cups and garnish with green onions if desired."],
+  "imagepath": "assets/jsonimages/Pork Lettuce Wraps.jpg"
+  },
+  {
+  "name": "Roasted asparagus & smashed new potato salad",
+   "nutrition": {
+    "calories":"138 kcal",
+    "protein": "2.4g",
+    "fats": "7",
+    "carbs":"19.5g",
+    "Sugars":"9g"
+  },
+   "ingredients": "3½ pounds potatoes,⅓ cup kosher salt,black pepper to taste,1 pinch cayenne pepper",
+  "recipe":["Place potatoes into a 5quart stockpot and cover with 3 quarts of cold water. Add kosher salt and bring to a simmer over high heat. Reduce heat to mediumlow and simmer gently until potatoes are just tender, 15 to 20 minutes. Remove from heat and drain well. Let potatoes cool just until they're safe to handle.","Transfer potatoes onto a sheet pan and continue cooling to room temperature. Make 4 or 5 shallow cuts down the sides of each potato, about every inch or so, to ensure the skin splits evenly when smashed. Refrigerate until completely chilled and ready to smash; 8 hours to overnight is best.","Combine butter, sliced garlic, rosemary, and thyme in a small pan over medium heat. Cook, stirring occasionally, until butter melts and begins to bubble, and garlic softens and starts to turn translucent, 3 to 5 minutes. Remove from heat.","Preheat the oven to 450 degrees F (232 degrees C). Line 2 metal baking sheets with silicone baking mats (such as Silpat®) and generously brush on some of the infused melted butter.","Remove potatoes from the fridge and gently smash each between two pieces of plastic using a flat, heavy object until ½ to 3/4inch thick. Season generously with salt, pepper, and cayenne on both sides, being careful not to break potatoes up into small pieces. Transfer onto a sheet pan, being careful not to overlap potatoes. Very generously drizzle and brush most of the melted butter on top.","Bake potatoes in the preheated oven until well browned and crunchy around the edges, 35 to 45 minutes.","Meanwhile, place the pan with the remaining garlic and herb butter back over mediumlow heat. Cook, stirring, until garlic starts to turn a very light golden brown, 3 to 4 minutes. Remove from heat and reserve.","Carefully transfer potatoes onto a serving platter and scatter over the golden brown slices of garlic. Crumble the toasted herbs on top if desired. Serve immediately."],
+  "imagepath": "assets/jsonimages/Roasted asparagus & smashed new potato salad.jpg"
+  },
+  {
+  "name": "Simple Butter Lettuce Salad",
+   "nutrition": {
+    "calories":"145 kcal",
+    "protein": "3.5g",
+    "fats": "8",
+    "carbs":"12.5g",
+    "Sugars":"8g"
+  },
+   "ingredients": "2 heads lettuce,castelvetrano olives,butter,chives,manchego cheese,freshly ground pepper",
+  "recipe":["In small bowl whisk together ingredients for the dressing, set aside.","In a small skillet set over medium heat, melt butter and add panko. Stir often until panko is golden brown in color.","Arrange butter lettuce on a large platter, shave manchego over lettuce and add olives, panko and chives. Drizzle with dressing right before serving and enjoy!"],
+  "imagepath": "assets/jsonimages/Simple Butter Lettuce Salad.jpg"
+  },
+  {
+  "name": "Teriyaki beef & lettuce cups",
+   "nutrition": {
+    "calories":"156 kcal",
+    "protein": "4.4g",
+    "fats": "9",
+    "carbs":"18.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "350g trimmed sirloin steak,2 tbsp teriyaki sauce marinade,1⁄2 cucumber,2 tbsp coriander,juice 1⁄2 lime,6 Little Gem lettuces leaves,6 Little Gem lettuces leaves,1⁄2 red onion",
+  "recipe":["Put the steak between two sheets of cling film and beat with a rolling pin until half its original thickness. Thinly slice the steak, then mix with the teriyaki marinade in a bowl. Leave to marinate for 510 mins.","Roughly dice the cucumber and mix with the chopped coriander and lime juice. Season with a little salt.","Heat a frying pan until very hot, then fry the steak slices for 1½2½ mins for rare to medium, turning the slices halfway through.","Pile the cucumber mixture into the lettuce leaves, then top with the seared teriyaki beef, chilli and red onion."],
+  "imagepath": "assets/jsonimages/Teriyaki beef _ lettuce cups.jpg"
+  },
+  {
+  "name": "Tomato-Cucumber Sandwich",
+   "nutrition": {
+    "calories":"137 kcal",
+    "protein": "5.3g",
+    "fats": "8",
+    "carbs":"12.5g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "1 tomato cut into thin slices,Few slices of bread ,1 cucumber peeled & cut into thin slices,few lettuce leaves ,Butter,Green chutney,Tomato Ketchup,Hot chilli sauce ,Chaat masala",
+  "recipe":["Take your bread slices & apply some butter on it followed by green chutney to one side. ","Now place your lettuce on the slice to which green chutney is applied. Chutney will act as glue & help to hold the lettuce. Add as many or little as you like. ","Top it with two slices of tomato. Season the tomato well with salt & pepper. ","Now place cucumber slices all over the tomato. Sprinkle some chaat masala on the cucumber. If you don't have chaat masala just sprinkle salt & pepper to taste. ","Now take the other slice & apply a combination of tomato ketchup & hot chilli sauce & Close the sandwich. "],
+  "imagepath": "assets/jsonimages/Tomato, Cucumber and Lettuce Sandwich.jpg"
+  },
+  {
+  "name": "Tuna, avocado & pea salad ",
+   "nutrition": {
+    "calories":"76 kcal",
+    "protein": "3.5g",
+    "fats": "9",
+    "carbs":"18.5g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "1½ tbsp lowfat yogurt,85g canned tuna chunks,50g cooked rice,85g frozen pea,½ red pepper,1 avocado,1 lime,1 pack coriander,1 lettuce",
+  "recipe":["Combine all the ingredients except the lettuce in a bowl, season, then chill until ready to eat. Spoon the tuna mix on top of the lettuce leaves, wrap up and enjoy."],
+  "imagepath": "assets/jsonimages/Tuna, avocado _ pea salad in Baby Gem lettuce wraps.jpg"
+  },
+  {
+  "name": "Cheese Noodles",
+   "nutrition": {
+    "calories":"34 kcal",
+    "protein": "4.6g",
+    "fats": "12",
+    "carbs":"17.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "8ounces spaghetti,4ounces cream cheese cut into cubes,½ cup reserved pasta water,1/4  tsp garlic powder,pepper",
+  "recipe":["In a large pot, cook the pasta in salted water according to the pkg instructions. Before draining, dip out ½ cup of pasta water and set aside. Drain the pasta and set aside.","Return the pasta pot to the heat over medium low and add the reserved pasta water and the cubed cream cheese. Whisk together until the cream cheese has melted and the sauce is smooth. Add the garlic powder. Add salt and pepper to taste.","Add the pasta back to the pot and toss to coat. Serve immediately."],
+  "imagepath": "assets/jsonimages/Cheese Noodles.jpg"
+  },
+  {
+  "name": "Beef Stew Recipe",
+   "nutrition": {
+    "calories":"43 kcal",
+    "protein": "5.4g",
+    "fats": "13",
+    "carbs":"14.5g",
+    "Sugars":"8 g"
+  },
+   "ingredients": "2½ pounds beef stew meat,1 can stewed tomatoes,1 cup chopped celery,4 carrots,3 potatoes,3 onions,3½ tbsp tapioca,2 cubes beef bouillon,⅛  tsp dried thyme,⅛  tsp dried rosemary,⅛  tsp dried marjoram,¼ cup red wine,1 pkg frozen green peas",
+  "recipe":["1 (10 ounce) pkg frozen green peas","Place beef, tomatoes, celery, carrots, potatoes, onions, and tapioca into a Dutch oven. Season with beef bouillon, thyme, rosemary, and marjoram; stir in red wine. Place the lid on the Dutch oven.","Bake for 5 to 6 hours in the preheated oven. Add peas during last half hour of cooking."],
+  "imagepath": "assets/jsonimages/Christmas Eve Beef Stew Recipe.jpg"
+  },
+  {
+  "name": "Gralic Chicken Fried Brown Rice",
+   "nutrition": {
+    "calories":"34 kcal",
+    "protein": "6.4g",
+    "fats": "16",
+    "carbs":"12.5g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "2  tbsp vegetable oil,8 ounces skinless,½ red bell pepper,½ cup green onion,4 cloves garlic,3 cups cooked brown rice,2  tbsp light soy sauce,1 tbsp rice vinegar,1 cup frozen peas",
+  "recipe":["Heat 1 tbsp of vegetable oil in a large skillet set over medium heat. Add the chicken, bell pepper, green onion and garlic. Cook and stir until the chicken is cooked through, about 5 minutes. Remove the chicken to a plate and keep warm.","Heat the remaining tbsp of oil in the same skillet over mediumhigh heat. Add the rice; cook and stir to heat through. Stir in the soy sauce, rice vinegar and peas, and continue to cook for 1 minute. Return the chicken mixture to the skillet and stir to blend with the rice and heat through before serving."],
+  "imagepath": "assets/jsonimages/Gralic Chicken Fried Brown Rice.jpg"
+  },
+  {
+  "name": "GREEN PEAS CURRY WITH COCONUT",
+   "nutrition": {
+    "calories":"43 kcal",
+    "protein": "6.2g",
+    "fats": "13",
+    "carbs":"23.5g",
+    "Sugars":"8 g"
+  },
+   "ingredients": "½ cup water,½ cup coconut milk,½ cup coconut milk,½  tsp butter,3 ounces firm tofu,1 cup fresh green beans,1 cup fresh green beans,¼ cup coconut milk",
+  "recipe":["Pour water, ½ cup coconut milk, and rice into a small saucepan. Bring to a boil over mediumhigh heat, then reduce heat to mediumlow, cover, and simmer until the rice is tender, about 20 minutes.","Meanwhile, melt the butter in a skillet over mediumhigh heat. Add the tofu and cook until goldenbrown on all sides, about 5 minutes. When browned, stir in green beans, curry powder, and 1/4 cup of coconut milk. Simmer until the green beans are tender, then serve over rice."],
+  "imagepath": "assets/jsonimages/KERALA STYLE GREEN PEAS CURRY WITH COCONUT.jpg"
+  },
+  {
+  "name": "Matar Makhana Curry",
+   "nutrition": {
+    "calories":"54 kcal",
+    "protein": "7.3g",
+    "fats": "23",
+    "carbs":"38.5g",
+    "Sugars":"5 g"
+  },
+   "ingredients": " cup tomatoes chopped,1/4 cup cashew kaju,1 Tbsp ginger chopped,½ tsp cumin seeds jeera,2 tsp coriander powder,½ tsp red chilli powder,1 tsp sugar,1/4 cup cilantro",
+  "recipe":["Heat 3 tbsp of oil in frying pan over low medium heat, add the makhana and roast them stirring continuously until they are crisp, this should take about 34 minutes. Keep aside.","Blend tomatoes, cashews and ginger to make a pure.","Heat the oil in a sauce pan, test the heat by adding one cumin seed. If the seed cracks right away, the oil is ready. Add asafetida and cumin seeds, as the cumin seeds crack add tomato paste, coriander, chilli powder, salt and sugar.","Stirfry for two to three minutes, until the oil begins to separate from the mixture. Add roasted makhana and green peas mix it well add about 1½ cups of water. Cover the pan and let it cook for 67 minutes over low medium heat, until peas are tender. Note: add more water if you like more gravy.","Turn off the heat add garam masala and cilantro mix it well. "],
+  "imagepath": "assets/jsonimages/Matar Makhana Curry.jpg"
+  },
+  {
+  "name": "Matar Paneer",
+   "nutrition": {
+    "calories":"43 kcal",
+    "protein": "8.3g",
+    "fats": "65",
+    "carbs":"43.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "3  tbsp oil or ghee,½  tsp cumin seeds,¼  tsp turmeric powder,¼  tsp Garam Masala Powder ,1 tbsp cream,1 cup green peas,½  tsp sugar,½  tsp kasuri methi ,½  tsp kasuri methi,1  tsp chopped green chillies ,1  tsp chopped garlic,2  tbsp chopped coriander leaves",
+  "recipe":["In a grinder or blender take all the ingredients listed under masala paste – onions, tomatoes, ginger, garlic, green chillies, cashews, coriander leaves, black peppercorns, cinnamon, cardamom, coriander seeds and cloves. ","Grind all the ingredients to a smooth paste. If needed you can add 2 to 3  tbsp of water while blending.","There should be no small chunks or pieces of cashews in the paste.","Set the ground paste aside."],
+  "imagepath": "assets/jsonimages/Matar Paneer.jpg"
+  },
+  {
+  "name": "Methi Matar malai",
+   "nutrition": {
+    "calories":"36 kcal",
+    "protein": "3.3g",
+    "fats": "6",
+    "carbs":"45.5g",
+    "Sugars":"6 g"
+  },
+   "ingredients": "1 medium onion,¼ cup cashews,1 tsp cumin seeds,1 tsp chopped garlic,1 tsp chopped ginger,1-2 green chillies",
+  "recipe":["In a grinder jar or blender, add cumin seeds, chopped onions, cashews, garlic, ginger and green chillies.","Blend or grind to a smooth paste withput adding any water.","If you are not able to blend, then you can add 1 to 2  tbsp of water.","For cooking the green peas, you can either boil them in a pan with 1.5 cups water for 7 to 8 minutes until tender or steam them in an Instant pot for 3 to 5 minutes adding about 1 to 1.25 cups water in the steel insert.","You can also boil the green peas in a stovetop pressure cooker for 5 to 6 minutes. Reserve ½ cup of the cooked water if you have boiled the peas."],
+  "imagepath": "assets/jsonimages/Methi Matar malai.jpg"
+  },
+  {
+  "name": "pav bhaji",
+   "nutrition": {
+    "calories":"122 kcal",
+    "protein": "53g",
+    "fats": "13",
+    "carbs":"76.5g",
+    "Sugars":"13 g"
+  },
+   "ingredients": "3 potatoes ,1 to 1.25 cups chopped cauliflower,1 cup chopped carrot,1 cup green peas,⅓ cup chopped french beans, 2.25 to 2.5 cups water",
+  "recipe":["Rinse, peel and chop the veggies. You will need 1 cup chopped cauliflower, 1 cup chopped carrot, 3 medium sized potatoes (chopped) and ⅓ cup chopped french beans. You can also add veggies of your choice.","Add all the above chopped veggies in a 2 litre pressure cooker. Also add 1 cup green peas (fresh or frozen).","Add all the above chopped veggies in a 2 litre pressure cooker. Also add 1 cup green peas (fresh or frozen).","When the pressure settles down on its own, open the cooker and check if the veggies are cooked well. You can even steam or cook the veggies in a pan. The vegetables have be to cooked completely."],
+  "imagepath": "assets/jsonimages/pav bhaji.jpg"
+  },
+  {
+  "name": "split peas soup",
+   "nutrition": {
+    "calories":"162 kcal",
+    "protein": "42g",
+    "fats": "17",
+    "carbs":"49.5g",
+    "Sugars":"11 g"
+  },
+   "ingredients": "2¼ cups dried split peas,2 quarts cold water,1 ½ pounds ham bone,2 onions,½  tsp salt,¼  tsp ground black pepper,3 stalks celery,3 carrots,1 potato",
+  "recipe":["In a large stock pot, cover peas with 2 quarts cold water and soak overnight. If you need a faster method, simmer the peas gently for 2 minutes, and then soak for l hour.","Once peas are soaked, add ham bone, onion, salt, pepper and marjoram. Cover, bring to boil and then simmer for 1 ½ hours, stirring occasionally.","Remove bone; cut off meat, dice and return meat to soup. Add celery, carrots and potatoes. Cook slowly, uncovered for 30 to 40 minutes, or until vegetables are tender."],
+  "imagepath": "assets/jsonimages/split peas soup.jpg"
+  },
+  {
+  "name": "Baby Potato Recipe With Green Peas",
+   "nutrition": {
+    "calories":"79 kcal",
+    "protein": "2.9g",
+    "fats": "0.3",
+    "carbs":"17.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "olive oil cooking spray,1 pound baby red potatoes,1 pound fresh green beans trimmed,1  tsp salt,1  tsp garlic powder,½  tsp ground black pepper,½  tsp dried parsley",
+  "recipe":["Preheat the oven to 350 degrees F (175 degrees C). Spray a rimmed baking sheet with cooking spray.","Cut potatoes in half if they are golfballsized or larger. Lay potatoes and green beans in a single layer on the prepared baking sheet and spray with cooking spray. Sprinkle salt, garlic powder, pepper, and parsley on top.","Bake in the preheated oven until potatoes are tender, 25 to 30 minutes."],
+  "imagepath": "assets/jsonimages/Baby Potato Recipe With Green Peas.jpg"
+  },
+  {
+  "name": "Beef Cutlet",
+   "nutrition": {
+    "calories":"95 kcal",
+    "protein": "3.4g",
+    "fats": "0.7",
+    "carbs":"16.5g",
+    "Sugars":"8 g"
+  },
+   "ingredients": "Ground beef,onion,green chilli,curry leaves,turmeric powder,garlic,fennel powder,pepper powder,garam masala,potato",
+  "recipe":["Chop onion into small pieces. Crush green chillies in a chopper or mixer. Heat oil in a pan. When oil is hot, add the sliced onions, curry leaves, and salt. Adding salt helps the onion to get cooked fast.","While it gets sauteed, cook potatoes in a separate pan or cooker. If you are using the cooker, switch it off after 2 whistles or until it is done.","Crush or grind ginger and garlic. Once onion turns light brown, add gingergarlic mixture to it. Once it is sauteed well, add fennel powder, pepper powder and garam masala.","Saute it for a couple of minutes and then add cleaned ground beef. Cook it until beef is done. Ground beef gets cooked soon. It might just take around 10 to 15 minutes. Saute it well and make it dry. Refer notes if you don't want to use ground beef.","To fry  Make round balls and roll it into oval or other desired shapes. Beat egg well. Dip each cutlet in egg and then roll it in bread crumbs. "],
+  "imagepath": "assets/jsonimages/Beef Cutlet.jpg"
+  },
+  {
+  "name": "Beef Stew",
+   "nutrition": {
+    "calories":"479 kcal",
+    "protein": "25.4g",
+    "fats": "27.7",
+    "carbs":"32.5g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "1½ pounds cubed beef stew meat,2  tbsp vegetable oil,1 onion,¼ cup allpurpose flour,4 cups diced potatoes,2 cups diced carrots,2  tbsp cornstarch",
+  "recipe":["Using a large stock pot, brown stewing meat in oil. Add onions and sprinkle flour into stock pot, stirring until flour is well incorporated.","Fill stock pot with water. If you prefer a thick stew fill stock pot only half full, if you prefer a more diluted stew fill your stock pot within one inch of the top. Let meat cook until tender, checking frequently on water level. When water evaporates add more. Cook for 1 ½ hours.","When beef is tender add potatoes, carrots and beefy mushroom soup. Cook for 30 to 45 minutes, or until tender.","In a separate bowl mix cornstarch and cold water. Stir into soup and simmer. If not to desired thickness add another mixture of cornstarch and cold water. Heat through, season with salt and pepper, and serve."],
+  "imagepath": "assets/jsonimages/Beef Stew.jpg"
+  },
+  {
+  "name": "French Fries",
+   "nutrition": {
+    "calories":"498 kcal",
+    "protein": "3.4g",
+    "fats": "33.7",
+    "carbs":"49.5g",
+    "Sugars":"6 g"
+  },
+   "ingredients": "⅓ cup white sugar,2 cups warm water,2 russet potatoes,6 cups vegetable oil for frying",
+  "recipe":["In a medium bowl, dissolve the sugar in warm water. Soak potatoes in water mixture for 15 minutes. Remove from water, and dry thoroughly on paper towels.","Heat oil in deepfryer to 375 degrees F (190 degrees C). Add potatoes, and cook until golden, 5 to 6 minutes. drain on paper towels. Season with salt to taste."],
+  "imagepath": "assets/jsonimages/French Fries.jpg"
+  },
+  {
+  "name": "Grilled Baked Potatoes",
+   "nutrition": {
+    "calories":"195 kcal",
+    "protein": "3.4g",
+    "fats": "35.7",
+    "carbs":"35.5g",
+    "Sugars":"8 g"
+  },
+   "ingredients": "4 large baking potatoes quartered,2  tbsp olive oil,2  tsp freshly ground black pepper,2  tsp garlic powder,2  tsp dried rosemary",
+  "recipe":["Place the potatoes into a large pot with water to cover. Bring to a boil and cook over mediumhigh heat for about 10 minutes, or until tender.","Preheat the grill to mediumhigh heat. Drain potatoes and toss with olive oil, black pepper, rosemary and salt to taste.","Place the potatoes skinside down over indirect heat on the grill and reserve liquid. Grill for about 15 minutes. Remove potatoes to a serving plate and sprinkle with the reserved olive oil mixture."],
+  "imagepath": "assets/jsonimages/Grilled Baked Potatoes.jpg"
+  },
+  {
+  "name": "Kerala Style Duck Curry with Potatoes",
+   "nutrition": {
+    "calories":"165 kcal",
+    "protein": "2.4g",
+    "fats": "45.7",
+    "carbs":"24.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "2 Duck,1 Onion,Curry Leaves,6tbsp Coriander Powder,1tsp Turmeric,2 Potato peeled and diced",
+  "recipe":["Heat some Oil in a pan and saute Onion and Curry Leaves until Onion is golden brown in color.","Add Ginger and Garlic, saute for few mins or until raw smell is gone.","Saute until Masala is deep dark brown in color or until raw smell of Masala is gone.","Add washed and sliced Duck peices and Salt.","Mix everything well and cover the pan using a tight lid and allow Duck to cook.","Don’t forget to stir Duck Curry occassionally.","When Duck is fully cooked add Potatoes.","Remove excess fat from Duck Curry.","When Duck and Potatoes are fully cooked add Garam Masala and Black Pepper.","Serve Kerala Style Duck Curry with Potatoes, with Rice or Bread."],
+  "imagepath": "assets/jsonimages/Kerala Style Duck Curry with Potatoes.jpg"
+  },
+  {
+  "name": "Kimchi Corned Beef",
+   "nutrition": {
+    "calories":"127 kcal",
+    "protein": "2.4g",
+    "fats": "47.7",
+    "carbs":"35.5g",
+    "Sugars":"8 g"
+  },
+   "ingredients": "1 (3 ½) pound readytocook corned beef,2 (16 ounce) jars kimchi not drained,½ cup cold water,½ cup cold water,3 large carrots,2 ribs celery",
+  "recipe":["Pour 1 jar of kimchi into a pot. Top with corned beef and cover with the second jar of kimchi. Pour in water. Cover and bring to a simmer over high heat. Reduce heat to low. Cook, covered, until forktender, 2 to 3 hours. Flip over the beef occasionally and drape kimchi back on top.","Remove corned beef to a bowl. Bring kimchi mixture back to a simmer over high heat. Add potatoes, carrots, and celery. Cover, reduce heat to mediumlow, and cook until almost tender, 20 to 25 minutes. Reduce heat to low and add beef back in. Cover and cook on low until meat is heated through, about 15 minutes. Taste the broth and add water as needed.","Slice corned beef thinly and serve in a bowl with the vegetables; spoon some broth on top"],
+  "imagepath": "assets/jsonimages/Kimchi Corned Beef.jpg"
+  },
+  {
+  "name": "Nadan urulakizhangu mezhukkupuratti",
+   "nutrition": {
+    "calories":"157 kcal",
+    "protein": "3.4g",
+    "fats": "6.7",
+    "carbs":"45.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "3 nos Potato,2 nos Crushed garlic clove,½ tsp Chilly powder,1/4 tsp Turmeric powder,2 sprigs Curry leaves,2 sprigs Curry leaves",
+  "recipe":["Peel the potatoes, wash well and cut into small pieces. ","Heat coconut oil in a pan add crushed shallots,garlic and curry leaves saute until translucent.","Now add chilly powder,turmeric powder and salt stir till the raw smell goes then add potatoes and saute for 3to4 minutes.","Then close the pan with lid and cook in low flame until it is done(stir occasionally).","Open the lid and roast until light brown."],
+  "imagepath": "assets/jsonimages/Nadan urulakizhangu mezhukkupuratti.jpg"
+  },
+  {
+  "name": "sambar",
+   "nutrition": {
+    "calories":"120 kcal",
+    "protein": "5.4g",
+    "fats": "3.7",
+    "carbs":"28.5g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "1 cup yellow split peas (tuvar dal),2 cups water½ cup tamarind pulp,½ cup water,1 green bell pepper sliced,1 tomato,1  tsp yellow lentils (chana dal),2 dried red chile peppers,2  tsp vegetable oil,1  tsp mustard seed,1  tsp cumin seed",
+  "recipe":["Place yellow split peas in a saucepan with 2 cups water and bring to a boil. Reduce heat to mediumlow, and cook until soft, about 15 minutes. In another saucepan, mix together the tamarind pulp stir in ½ cup water to make a watery juice. Bring to a boil over mediumhigh heat. Add the bell pepper and tomato to the tamarind juice, and continue to boil until the vegetables are soft, and the liquid has reduced to almost half.","Meanwhile, grind the coriander seeds, yellow lentils, coconut and chillies to a paste using a mortar and pestle or food processor. Add this paste to the tamarind sauce, then stir in the yellow lentils until everything is well blended. Bring to a boil once again, then remove from the heat and set aside.","Heat oil in a small skillet over medium heat, and add the mustard seed, cumin seed, and asafoetida powder. Once the mustard seeds start to sputter and the mixture is fragrant, remove from heat and stir into sambar. Serve hot."],
+  "imagepath": "assets/jsonimages/Sambar.jpg"
+  },
+  {
+  "name": "Vegetable Stew",
+   "nutrition": {
+    "calories":"160 kcal",
+    "protein": "6.4g",
+    "fats": "2.7",
+    "carbs":"28.5g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "1 tbsp olive oil,2 potatoes,2 onions,1 tbsp cumin seeds,1 tbsp mustard seed,1 medium head garlic,4 large red bell peppers,1 cinnamon stick,1 (29 ounce) can diced tomatoes,1 (15 ounce) can garbanzo beans,salt and pepper to taste,⅔ cup cooked white rice",
+  "recipe":["Preheat oven to 400 degrees F (200 degrees C).","Cover two baking sheets with aluminum foil, and drizzle with olive oil. Arrange potatoes, carrots and onions on one baking sheet. Drizzle with more olive oil and sprinkle with oregano, cumin and mustard seeds. Place the garlic bulb on the baking sheet. Arrange the peppers and tomatoes on the second baking sheet, and sprinkle with olive oil.","Place both pans in the oven. Cook, stirring the contents occasionally, until the potatoes, carrots and onions are tender and the peppers and tomatoes are black, about 30 to 45 minutes. The bell peppers and tomatoes may take a little longer to cook than the potatoes, carrots, onions, and garlic. Feel free to remove the baking sheet of potatoes earlier than the baking sheet of bell peppers. Reduce the oven's heat to 350 degrees F ( 175 degrees C).","Skin and seed the peppers and skin the tomatoes. Chop the peppers and tomatoes and place them into a medium size pot that can be placed in the oven. Squeeze the garlic from skins into the pot and stir in the potato mixture and chickpeas. Season with lemon juice, salt, and black pepper.","Cover the stew, and bake it for 30 minutes."],
+  "imagepath": "assets/jsonimages/Vegetable Stew.jpg"
+  },
+  {
+  "name": "kannur tomato pachadi",
+   "nutrition": {
+    "calories":"130 kcal",
+    "protein": "7.4g",
+    "fats": "3.7",
+    "carbs":"49.5g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "5 tomatoes,½ bunch corriander leaves,1tsp chilli power,4 chillies,1 tbsp mustard seeds, 1cup grated coconut,few curry leaves,2 tbsp oil,½ cp yogurt,3 red chillies",
+  "recipe":["In a bowl add grated coconut, mustard seeds, make a paste in a blender.","In this add salt, green chilly, red chilly powder, chopped coriander, tomatoes, mix all of together and add yogurt mix it.","Heat oil in a pan add red chilly, mustard seeds, hing, and curry leaves, switch off the flame.","Heat oil in a pan add red chilly, mustard seeds, hing, and curry leaves, switch off the flame."],
+  "imagepath": "assets/jsonimages/kannur tomato pachadi.jpg"
+  },
+  {
+  "name": "kerala style tomato dal recipe",
+   "nutrition": {
+    "calories":"167 kcal",
+    "protein": "6.4g",
+    "fats": "8.7",
+    "carbs":"64.5g",
+    "Sugars":"8 g"
+  },
+   "ingredients":"½cup tomatoes,1 cup dal,½ tsp turmeric,salt to taste,2 chillies,1 tbsp gur,1cup grated coconut,1 red chilli,½ tsp jeera,1 tbsp oil,½tsp mustard seeds,½ cup onions",
+  "recipe":[" In a pressure cooker, cook the dal with 4 glasses of water. It should be in the paste form when done."," In a vessel, take the cooked dal paste and add the tomatoes.","Add salt and turmeric powder, green chillies and allow the tomatoes to be cooked."," Meanwhile, grind the grated coconut, 3 red chillies and the cumin seeds together.","When the tomatoes are cooked, add the coconut paste to the dal.","When the tomatoes are cooked, add the coconut paste to the dal.","Now, in another pan, heat the oil/ghee and allow mustard seeds to splutter and after that, add the curry leaves and a chopped red chilli into it.","Add the chopped baby onions and saute them till golden brown."],
+  "imagepath": "assets/jsonimages/kerala style tomato dal recipe.jpg"
+  },
+  {
+  "name": "tomato kurma recipe",
+   "nutrition": {
+    "calories":"116 kcal",
+    "protein": "5.7g",
+    "fats": "9.7",
+    "carbs":"32.5g",
+    "Sugars":"13 g"
+  },
+   "ingredients": "¼ cup coconut,1 tbsp putani,5 whole cashews,1 tsp coriander seeds,2 green chilli,1 tsp mustard seeds,½ inch dalchini,few curry leaves,1 medium onion,3 large tomato,½ tsp turmeric,2 tbsp coriander leaves",
+  "recipe":["firstly, prepare the masala by grinding all the ingredients listed for masala paste.","now heat the oil and add in 1 tsp mustard seeds, ½ tsp urad dal, ½ inch cinnamon stick and few curry leaves.","saute till the tomatoes turn soft and mushy.","furthermore, add in ½ tsp turmeric, ½ tsp red chilli powder, ½ tsp sugar and salt to taste.","now add in prepared masala paste and 1 cup water.","further, cover and simmer for 15 minutes or more till the coconut gets cooked well.","further, cover and simmer for 15 minutes or more till the coconut gets cooked well."],
+  "imagepath": "assets/jsonimages/tomato kurma recipe.jpg"
+  },
+  {
+  "name": "tomato rasam",
+   "nutrition": {
+    "calories":"117 kcal",
+    "protein": "6.7g",
+    "fats": "2.7",
+    "carbs":"25.5g",
+    "Sugars":"15 g"
+  },
+   "ingredients": "⅓ cup coriander stems,7-8 garlic cloves,1 inch ginger,2 tsp cumin seeds,2 tsp cumin seeds,¼  tsp black peppercorns,1 tbsp oil,½ tsp mustard seeds,½ tsp urad dal,1-2 dry red chillies,1 pinch asafoetida,10-12 curry leaves,¼ tsp turmeric powder,1.5 cups water,2 tbsp coriander leaves",
+  "recipe":["In a heavy pan or pot, heat the oil. Keep the flame to its lowest.","Add the mustard seed and let them begin to crackle. ","When the mustard seeds start to crackle, then add urad dal.","Stirring often fry urad dal until they turn golden.","Stirring often fry urad dal until they turn golden.","Stirring often fry urad dal until they turn golden.,","Add the coarsely ground coriander stems+ginger+garlic mixture and curry leaves. If the pan becomes too hot, then you can switch off the heat.","Sauté for a minute on lowest flame taking care the mixture does not burn. You will get a nice aroma while sautéing this mixture.","Add turmeric powder.","Mix turmeric powder with the rest of the mixture.","Now add the tomato puree. mix very well. Take care as the mixture splutters. ","Sauté for a minute. Season with salt as per taste.","Then add 1.5 cups water. If you like a little thin tomato rasam, then you could add some more water. But do not add too much water as the flavors get diluted.","Mix well and simmer thakkali rasam on mediumlow heat until the rasam comes to a simmer.","Finally switch off the heat and add 2  tbsp chopped coriander leaves. Check the taste of tomato rasam and add more salt if needed."],
+  "imagepath": "assets/jsonimages/tomato rasam.jpg"
+  },
+  {
+  "name": "tomato rice",
+   "nutrition": {
+    "calories":"137 kcal",
+    "protein": "6.7g",
+    "fats": "4.7",
+    "carbs":"45.5g",
+    "Sugars":"5 g"
+  },
+   "ingredients": "1 cup chopped tomatoes,⅓ cup onions,1 inch ginger,½  tsp chopped green chilli,½  tsp mustard seeds,2 green cardamoms,¼  tsp turmeric powder,½ tsp red chilli powder,½ tsp black pepper powder,1  tsp cumin powder,½ tbsp mint leaves,¼ cup coriander leaves,water as required,2 tbsp oil",
+  "recipe":["Rinse basmati rice or any regular rice for a couple of times in water.","Then soak the rice in water for 20 to 30 minutes. Later drain the rice and keep aside.","Chop the tomatoes, onions and green chillies finely. Peel and crush the gingergarlic in a mortar pestle. Also, chop the mint and coriander leaves","Add the soaked rice. Gently mix the rice with the tomato mixture very well. Sauté for a minute.","Add 1.75 cups water. For a more softer consistency in the rice, you can also add 2 cups water.","Season with salt as per taste.","Season with salt as per taste.","When the pressure settles down on its own. Then remove the lid and gently fluff the tomato rice."],
+  "imagepath": "assets/jsonimages/tomato rice.jpg"
+  },
+  {
+  "name": "tomatochutney",
+   "nutrition": {
+    "calories":"168 kcal",
+    "protein": "23g",
+    "fats": "7.7",
+    "carbs":"56.5g",
+    "Sugars":"7 g"
+  },
+   "ingredients": "2 large tomatoes,½ inch ginger ,½ inch ginger ,½ inch ginger ,4 to 5 black pepper,2 to 3 cloves,1 pinch asafoetida,2 tbsp water for grinding,½ tbsp oil",
+  "recipe":["Heat oil and add urad dal. On a low flame, saute the urad dal till they start turning maroonish.","Once the lentils get a maroonish brown color, add broken dry red chillies, cloves, black pepper and ginger. Stir for till the red chillies change their color.","Then add chopped tomatoes and asafoetida. Add salt.","Stir and saute till the tomatoes soften. About 6 to 7 minutes on a low flame.","Once the tomato mixture cools, add them to a chutney grinder or small blender.","Add 2 tbsp water and grind to a smooth paste."],
+  "imagepath": "assets/jsonimages/tomato-chutney.jpg"
+  },
+  {
+  "name": "tomatosoup",
+   "nutrition": {
+    "calories":"238 kcal",
+    "protein": "3.5g",
+    "fats": "25.7",
+    "carbs":"8.5g",
+    "Sugars":"7 g"
+  },
+   "ingredients": "1 can diced tomatoes,1 can chicken broth,2 tbsp butter,2 tbsp white sugar,1 tbsp chopped onion,¼ tsp baking soda",
+  "recipe":["Heat butter until it melts in a saucepan or a pot. Keep the heat to low or mediumlow.","Add bay leaves and sauté for a few seconds. Add chopped onions and garlic. Stir and sauté until onions soften for about 3 to 4 minutes.","Add chopped tomatoes and salt. Mix well.","Cover pan and simmer on a low to mediumlow heat until tomatoes soften or for about 8 to 10 minutes.","There is no need to add water. But do keep an eye when the tomatoes are simmering. If the liquids dry up then add a splash of water and continue cooking.","After the tomatoes have softened, remove from the heat and cool. Take out the bay leaves and discard."],
+  "imagepath": "assets/jsonimages/tomato-soup.jpg"
+  },
+  {
+  "name": "creamy tomata macaroni soup",
+   "nutrition": {
+    "calories":"235 kcal",
+    "protein": "6.5g",
+    "fats": "22.7",
+    "carbs":"8.8g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "4 Tomatoes,1 big Carrot,1 big Onion,1 tbsp Chopped garlic,1/4 cup Macaroni,For White Sauce,1.5 tbsp Butter,1 heaped tbsp Plain flour,1 heaped tbsp Plain flour,1 tbsp Oil ,½ tsp Whole black pepper",
+  "recipe":["Cook macaroni as per pkg instructions and keep aside.","Heat oil in a pan. Add chopped onion and garlic. Cook till it softens, no need to brown.","Add tomatoes and carrots. Give a stir, add pepper and salt. Add 2.5 cups water. Bring it to boil.","Reduce flame to lowest, cook till tomatoes and carrots are done.","Reduce flame to lowest, cook till tomatoes and carrots are done.","Grind the cooked veggies to a smooth paste with 1/4 cup water.","To make white sauce: Melt butter in a wide pan. Add flour to this and cook till the raw smell goes, around 35 mins.","Add the milk gradually and make a thick and smooth sauce. Season with salt and pepper.","Combine the ground paste and stock and bring back to fire. Cook for 34 mins.","Add white sauce and cooked macaroni and mix well. Season with salt and pepper. Remove from gas."],
+  "imagepath": "assets/jsonimages/creamy tomata macaroni soup.jpg"
+  },
+  {
+  "name": "tomato ketchup sauce",
+   "nutrition": {
+    "calories":"135 kcal",
+    "protein": "4.5g",
+    "fats": "29.7",
+    "carbs":"6.8g",
+    "Sugars":"13 g"
+  },
+   "ingredients": "2 cans tomatoes,½ cup water,¾ cup distilled vinegar,1 tsp onion powder,½ tsp garlic powder,⅛ tsp celery salt,¼ tsp black pepper",
+  "recipe":["Pour ground tomatoes into slow cooker. Swirl 1/4 cup water in each emptied can and pour into slow cooker. Add sugar, vinegar, onion powder, garlic powder, salt, celery salt, mustard powder, black pepper, cayenne pepper, and whole clove; whisk to combine.","Cook on high, uncovered, until mixture is reduced by half and very thick, 10 to 12 hours. Stir every hour or so.","Ladle the ketchup into a fine strainer and press mixture with the back of a ladle to strain out any skins and seeds.","Transfer the strained ketchup to a bowl. Cool completely before tasting to adjust salt, black pepper, or cayenne pepper."],
+  "imagepath": "assets/jsonimages/tomato ketchup-sauce.jpg"
+  },
+  {
+  "name": "cheera parippu thoran",
+   "nutrition": {
+    "calories":"185 kcal",
+    "protein": "8.5g",
+    "fats": "38.7",
+    "carbs":"9.8g",
+    "Sugars":"12 g"
+  },
+   "ingredients":"2 cans tomatoes,½ cup water,⅔ cup white sugar,1 tsp onion powder,½ tsp garlic powder,1¾ tsp salt,⅛ tsp mustard powder",
+  "recipe":["Pour ground tomatoes into slow cooker. Swirl 1/4 cup water in each emptied can and pour into slow cooker. Add sugar, vinegar, onion powder, garlic powder, salt, celery salt, mustard powder, black pepper, cayenne pepper, and whole clove; whisk to combine.","Cook on high, uncovered, until mixture is reduced by half and very thick, 10 to 12 hours. Stir every hour or so.","Smooth the texture of the ketchup using an immersion blender, about 20 seconds.","Ladle the ketchup into a fine strainer and press mixture with the back of a ladle to strain out any skins and seeds.","ransfer the strained ketchup to a bowl. Cool completely before tasting to adjust salt, black pepper, or cayenne pepper."],
+  "imagepath": "assets/jsonimages/cheera parippu thoran.jpg"
+  },
+  {
+  "name": "cheera thoran coconut curry",
+   "nutrition": {
+    "calories":"75 kcal",
+    "protein": "45g",
+    "fats": "59.7",
+    "carbs":"7.8g",
+    "Sugars":"13 g"
+  },
+   "ingredients": "1½ cups red lentils,½ tsp salt,½ tsp ground turmeric,½  tsp chilli powder,1 pound spinach, rinsed and chopped,1  tsp ground cumin,1  tsp garam masala,½ cup coconut milk",
+  "recipe":["In a large saucepan, bring water to a boil and stir in salt, lentils, turmeric and chilli powder. Cover and return to a boil, then reduce heat to low and simmer for 15 minutes. Stir in the spinach and cook 5 minutes, or until lentils are soft. Add more water if necessary.","In a small saucepan over medium heat, melt butter and saute onions with cumin and mustard seeds, stirring often. Cook until onions are transparent, and then combine with lentils. Stir in garam masala and coconut milk and cook until heated through."],
+  "imagepath": "assets/jsonimages/cheera thoran-indian spinach coconut curry.jpg"
+  },
+  {
+  "name": "congee rice porridge with spinach",
+   "nutrition": {
+    "calories":"75 kcal",
+    "protein": "48g",
+    "fats": "55.7",
+    "carbs":"7.8g",
+    "Sugars":"13 g"
+  },
+   "ingredients":"1½ cups red lentils,½tsp ground turmeric,½tsp chilli powder,1 tsp ground cumin,½ cup coconut milk,water to boil,salt to taste",
+  "recipe":["Cover and return to a boil, then reduce heat to low and simmer for 15 minutes","Stir in the spinach and cook 5 minutes, or until lentils are soft","Add more water if necessary","Stir in garam masala and coconut milk and cook until heated through" ],
+  "imagepath": "assets/jsonimages/congee rice porridge with spinach.jpg"
+  },
+  {
+  "name": "spinach coconut soup",
+   "nutrition": {
+    "calories":"89 kcal",
+    "protein": "56g",
+    "fats": "55.7",
+    "carbs":"5.8g",
+    "Sugars":"11 g"
+  },
+   "ingredients":"2 bunches spinach,25g butter,1 brown onion,2 garlic cloves,2 cups veg stock,½ kg cauliflower,coconut milk,½ tsp nutmeg",
+  "recipe":["Rinse spinach leaves, shaking off excess water. Melt butter in a large saucepan over medium heat. Add onion and cook for 5 minutes or until tender. Add garlic. Cook, stirring, for 1 minute.","Add stock and cauliflower. Cover and bring to the boil. Cook for 8 minutes or until cauliflower is tender. Add spinach and cook for 2 minutes or until just wilted.","Using a food processor or blender, process soup in batches, until smooth. Return soup to saucepan. Place over medium heat.","Add 1 cup coconut milk, nutmeg and cayenne pepper. Bring to gentle simmer. Ladle into cups. Drizzle with remaining coconut milk. Season with pepper. Serve with naan bread."],
+  "imagepath": "assets/jsonimages/creamy and delicious spinach coconut soup.jpg"
+  },
+  {
+  "name": "palak paneer",
+  "sidedish":["chapati","roti","naan","porota","parotta"],
+   "nutrition": {
+    "calories":"78 kcal",
+    "protein": "45g",
+    "fats": "46.7",
+    "carbs":"7.8g",
+    "Sugars":"11 g"
+  },
+   "ingredients": "500g Wheat Flour,50g Sooji,500g Spinach,2 Green Chillies",
+  "recipe":["Prepare the dough by mixing together the flour, salt, ghee and ajwain/ carom seeds to form a mixture of coarse crumbs. Add in water to the dough a little at a time to make a soft and firm dough. Once the dough comes together knead it continuously for 23 minutes and cover it with a moist muslin cloth. Allow the dough to rest for about 1520 minutes." ],
+  "imagepath": "assets/jsonimages/palak paneer.jpg"
+  },
+  {
+  "name": "sookhi moong palak",
+   "nutrition": {
+    "calories":"89 kcal",
+    "protein": "56g",
+    "fats": "55.7",
+    "carbs":"5.8g",
+    "Sugars":"11 g"
+  },
+   "ingredients":"1 cup moong dal,250g spinach,1 tbsp oil,½ tsp mustard seeds,½ tsp cumin seeds,1/4 tsp asafoetida,1 dry red chili,1 cinnamon stick,ginger-garlic paste,½ tsp turmeric powder,½ cup water,salt to taste",
+  "recipe":["To begin making the Sookhi Moong Palak Dal Recipe, first drain the water from the soaked green moong and keep it aside.","In a mixergrinder, add the spinach and tomatoes and puree them together. Keep this aside.","Heat the mustard oil in an iron kadhai and add the jeera seeds to it. When they start sputtering, add the onions and fry until they are soft and lightly browned.","Add the garlic, ginger and green chillies and saute for a few seconds until you can smell the aromas coming through." ],
+  "imagepath": "assets/jsonimages/sookhi moong palak recipe-cherupayar cheera curry.jpg"
+  },
+  {
+  "name": "spinach soup recipe",
+   "nutrition": {
+    "calories":"89 kcal",
+    "protein": "56g",
+    "fats": "55.7",
+    "carbs":"5.8g",
+    "Sugars":"11 g"
+  },
+   "ingredients":"2 cups chopped spinach,¼ cup chopped onions,¼  tsp chopped garlic,¼  tsp ground cumin (cumin powder),1 bay leaf, 1 or 1.5  tbsp olive oil or butter,2 to 3  tbsp coconut cream for topping",
+  "recipe":["When the soup mixture's heat has reduced or has become warm, then blend with a hand blender or in a blender until smooth. ","Remove the bay leaf while blending.","Check the seasonings and add some more salt or pepper if required.","If the soup looks thick, then add about ¼ cup water and stir.","Serve spinach soup hot sprinkled with some freshly crushed black pepper and coconut cream." ],
+  "imagepath": "assets/jsonimages/spinach soup recipe.jpg"
+  },
+  {
+  "name": "shredded soya roast",
+   "nutrition": {
+    "calories":"89 kcal",
+    "protein": "56g",
+    "fats": "55.7",
+    "carbs":"5.8g",
+    "Sugars":"11 g"
+  },
+   "ingredients": "2½ cups soya chunks,2 medium sized onions,½ inch ginger,3 garlic cloves,2 green chillies,1 tbsp red chilly powder,1 tbsp coriander powder,¼ tsp turmeric powder,½ tsp black pepper powder,1 tsp + 1 tsp meat masala,1 tsp mustard seeds,2 curry leaves,¼ cup coconut bites,Oil (as required),Salt(as required),Water(as required)",
+  "recipe":["Prepare soya chunks: Heat water in a pot, once it starts to boil turn off the flame and soak soya chunks in it for about 20 minutes, this helps the chunks to soften and plump. Drain the pot, squeeze out the remaining water from the chunks and place on a paper towel, keep aside.","Shred the soya: In a blender, using the pulse mode; pulse soya in batches until it forms a finely shredded form. Do not make it a paste. Alternatively, you can cut it into fine chopped pieces either.","Prepare the masala: In a wide pan (preferably nonstick), heat some oil in a medium flame and splutter mustard seeds. Add 1 sprig of curry leaves and sauté.","Followed by adding sliced onions, salt and sauté until golden. Add crushed ginger and garlic, sauté until the raw smell subsides.","Roast: Add the shredded soya, coconut bites and salt to the masala and roast it for 15 – 20 minutes until all the moisture dries out." ],
+  "imagepath": "assets/jsonimages/shredded soya roast.jpg"
+  },
+  {
+  "name": "soya keema masala",
+   "nutrition": {
+    "calories":"69 kcal",
+    "protein": "65g",
+    "fats": "35.7",
+    "carbs":"7.8g",
+    "Sugars":"16 g"
+  },
+   "ingredients": "2.5 Cups Soya Granules,Ghee,Cumin Seeds,cinnamon,cloves,green cardomom,onion,ginger paste,turmeric powder,red chilli powder",
+  "recipe":["Prepare ingredients as mentioned in the list. Soak soya granules in warm water for 15 minutes, press them gently and take out excess water.","Heat ghee in a pressure cooker, add cumin seeds, cinnamon, cloves and cardamom. When they splutter add green chillies and garlic, sauté till it turns golden brown. Then add onion and ginger paste and sauté till onions turn golden brown.","Add turmeric powder, red chilli powder, coriander powder, cumin powder and gram masala powder. Sauté for a minute and then add tomato puree and stir well, cook until the oil is separates from the masala paste.","Keeping the flame on low, add well beaten dahi and stir well until the oil is separated. Add in soya granules and peas, add salt to taste and sauté for 5 minutes. Add water and MAGGI MasalaaeMagic, mix well. Cook for 5 minutes after first whistle.","Garnish with fresh coriander leaves and serve hot with chapattis" ],
+  "imagepath": "assets/jsonimages/soya keema masala.jpg"
+  },
+  {
+  "name": "soyabean dosa",
+   "nutrition": {
+    "calories":"56 kcal",
+    "protein": "76g",
+    "fats": "24.7",
+    "carbs":"8.8g",
+    "Sugars":"13 g"
+  },
+   "ingredients": "2 cups soybeans,1 inch Ginger,4 green chillies,12 tsp rice Flour",
+  "recipe":["Grind the soyabeans in a grinder, with ginger, salt and chillies to taste.","Add water and flour till you get the consistency of idliatta.","Heat a nonstick pan, pour about 2 large spoons of soya mixture. Spread with a spoon, cover and cook for 2 minutes on medium heat." ],
+  "imagepath": "assets/jsonimages/soyabean dosa.jpg"
+  },
+  {
+  "name": "soyabean fry recipe",
+   "nutrition": {
+    "calories":"59 kcal",
+    "protein": "79g",
+    "fats": "22.7",
+    "carbs":"7.8g",
+    "Sugars":"12 g"
+  },
+   "ingredients": "500 g Soya Bean chunks,2 nos Onion finely chopped,Ginger garlic paste  2 3 tsp,2 tsp Coriander powder,2 tsp Coriander powder,1/4 cup Water",
+  "recipe":["Soak the Soya bean chunks for 15 mins.","Heat 2 tbsp of vegetable oil in a pressure cooker.","Add onions and saute, till they turn pink.","When it starts to boil, add the soya bean chunks and mix well.","After it cools, open the pressure cooker and if there`s any water remaining, keep on flame, till the water dries up completely.","Heat coconut oil in a heavy bottomed pan.","Add the soya bean chunks and fry, as in beef fry.","Enjoy the yummy Soya Bean fry." ],
+  "imagepath": "assets/jsonimages/soyabean fry recipe.jpg"
+  },
+  {
+  "name": "soyabean masala",
+   "nutrition": {
+    "calories":"39 kcal",
+    "protein": "75g",
+    "fats": "22.7",
+    "carbs":"5.8g",
+    "Sugars":"16 g"
+  },
+   "ingredients": "Soya Chunks 100 g,1 onion,curry leaves,1tbsp Chilly Powder",
+  "recipe":["Boil 5 cups of water. Once the water starts boiling, drop in the soya chunks and add a pinch of salt. Boil the chunks for 5 minutes and then switch off the heat and leave to rest for 15 minutes." ],
+  "imagepath": "assets/jsonimages/soyabean masala.jpg"
+  },
+  {
+  "name": "soyabean mushroom curry",
+   "nutrition": {
+    "calories":"29 kcal",
+    "protein": "65g",
+    "fats": "29.7",
+    "carbs":"9.8g",
+    "Sugars":"17 g"
+  },
+   "ingredients": "1 cup Soya Chunks,2 tbsp Oil,8 Garlic cloves,3 Green chillies,5 Tomatoes pureed",
+  "recipe":["Heat oil in a nonstick pan, add bay leaves and cumin seeds and when cuminseeds change colour, add garlic, ginger and green chillies and sauté for 23 minutes. Add onions and sauté further till the onions are lightly browned. Add tomato puree and cook for 68 minutes","Add coriander powder, cumin powder, red chilli powder, turmeric powder, garam masala powder and salt and mix well. Cook for 2 minutes. Add mushrooms and soya chunks and mix well. Add 1 cup water and mix well.","Finely chop coriander sprigs and add to the pan and mix well. Cook till the mushrooms and soya chunks are done." ],
+  "imagepath": "assets/jsonimages/soyabean mushroom curry.jpg"
+  },
+  {
+  "name": "soyabean sukke thoran",
+   "nutrition": {
+    "calories":"159 kcal",
+    "protein": "45g",
+    "fats": "36.7g",
+    "carbs":"5.8g",
+    "Sugars":"11 g"
+  },
+   "ingredients": "soyabean sukke thoran,soyabean sukke thoran,soyabean sukke thoran,1/4 tsp  urad dal,For coconut mixture:,For coconut mixture:,1/4 tsp  turmeric powder",
+  "recipe":["Wash and soak soy bean in 2 cups of water for 6 hours or overnight.","Pressure cook it for 15 minutes with salt.","When they begin to crackle, add jeera and urad dal to it.","When they begin to crackle, add jeera and urad dal to it.","Add salt if needed. Cover it with a lid and cook on low to medium heat for 10  12 minutes or until it is done.","Add salt if needed. Cover it with a lid and cook on low to medium heat for 10  12 minutes or until it is done." ],
+  "imagepath": "assets/jsonimages/soyabean sukke- thoran.jpg"
+  },
+  {
+  "name": "Pumkin erissery",
+   "nutrition": {
+    "calories":"129 kcal",
+    "protein": "65g",
+    "fats": "5.7g",
+    "carbs":"3.8g",
+    "Sugars":"10 g"
+  },
+   "ingredients": "2 cups pumkin,½ cup green grapkin,1 ½ tsp minced garlic,½ tsp ground turmeric,¾ cup grated coconut,½ tsp cumin seeds",
+  "recipe":["Place pumkin, green gram, ground turmeric, minced garlic and enough water in a pressure cooker. Pressure cook for 56 whistles. When pressure has cooled down, open it, and lightly mash the pumpkin using a large spoon. Set aside.","Meanwhile, place grated coconut, green chillies, and cumin seeds in the bowl of a food processor. Add enough water, and process to a smooth paste. Set aside.","Transfer cooked pumpkin to a large pan. Place it over mediumhigh heat. Add ground coconut to pumpkin. Stir well. Add a little water if the mixture is too thick. Season with salt. Cover, cook, for 34 minutes. Remove from flame.","Meanwhile heat oil in a fry pan. Splutter mustard seeds. Add shallots, dried red chillies, coconut (if using) and curry leaves. Saute, stirring occasionally, until shallots turn golden brown. Remove from heat." ],
+  "imagepath": "assets/jsonimages/Pumkin erissery.jpg"
+  },
+  {
+  "name": "Pumpkin curry",
+   "nutrition": {
+    "calories":"156 kcal",
+    "protein": "76g",
+    "fats": "3.7g",
+    "carbs":"5.8g",
+    "Sugars":"9 g"
+  },
+   "ingredients": "5 cups pumpkin,2 cups water,1 tsp turmeric,½ cup grated coconut,3 red chilli,1 green chilli,2 tbsp water,1 tbsp coconut oil,1 tsp black lentils,6 curry leaves",
+  "recipe":["Put pumpkin into a large pot. Pour 2 cups water over the pumpkin so the cubes are floating. Season pumpkin and water with turmeric and salt. Bring the mixture to a boil and cook until the pumpkin is tender yet firm enough to retain shape, about 15 minutes.","Grind ½ cup coconut, 3 red chile peppers, green chile pepper, 2  tbsp water, and cumin seeds in a food processor until you have a paste; stir into the pumpkin mixture and bring again to a boil. Cook until the liquid has thickened and coats the pumpkin cubes, 5 to 7 minutes. Pour the curry into a large serving bowl.","Heat 2  tsp coconut oil in a small skillet over mediumhigh heat. Cook 2 dried red chile peppers, mustard seeds, and black lentils in hot oil until they sputter, 2 to 3 minutes; pour over curry.","Heat remaining  tsp coconut oil in the skillet. Fry 1 tbsp coconut in the hot oil until completely browned, 3 to 5 minutes. Pour atop the curry. Garnish dish with curry leaves." ],
+  "imagepath": "assets/jsonimages/Pumpkin curry.jpg"
+  },
+  {
+  "name": "pumkin masala recipe",
+   "nutrition": {
+    "calories":"166 kcal",
+    "protein": "47g",
+    "fats": "8.7g",
+    "carbs":"6.3g",
+    "Sugars":"7 g"
+  },
+   "ingredients": "2 Small Pumpkin,1 cup onions,1 Ginger,1 Green chilli,2 Large Tomatoes,1 tbsp Red chilli Powder,2 tsp Garam Masala,Salt to taste",
+  "recipe":["In a skillet, heat oil and add the onions.","Add the spices and saute on low heat for about 2 minutes stirring constantly.Add the jalapeno/green chilli","Add the tomato puree and continue to cook on medium heat, until the oil begins to separate from the sides (about 8 minutes)","Add the pumpkin pieces.Stir and mix well.Add salt and water.Mix well, cover and cook on medium until fully cooked (about 1015 minutes)" ],
+  "imagepath": "assets/jsonimages/pumpkin masala recipe.jpg"
+  },
+  {
+  "name": "pumpkin halwa kaddu halwa",
+     "nutrition": {
+      "calories":"126 kcal",
+      "protein": "35g",
+      "fats": "56.7g",
+      "carbs":"7.3g",
+      "Sugars":"9 g"
+    },
+     "ingredients": "3 cups chopped pumpkin,½ cup sugar,3 to 4 green cardamoms,2 tbsp oil,2 tbsp mixed dry fruits, 1 cup water",
+    "recipe":["Peel and chop kaddu or pumpkin into small cubes. Smaller the better.","Heat the oil or ghee in a pressure cooker.","Add the kaddu pieces in the pressure cooker","And saute till they are start releasing water or for approx 810 minutes on a low flame.","Cover and pressure cook the kaddu pieces for 45 whistles.","Open the lid when the pressure settles down","And check if the kaddu pieces have softened or not.","They should be of mashable consistency.","Once the kaddu pieces have cooked well then place the pressure cooker on fire and keep to simmer.","The consistency of the halwa should like be a pudding or pumpkin puree.","Add the melon seeds and dry fruits and cook the halwa for 12 minutes more.","Serve pumpkin halwa warm or cold.","You can also garnish it with melon seeds." ],
+    "imagepath": "assets/jsonimages/pumpkin-halwa-kaddu-halwa.jpg"
+  },
+  {
+   "name": "pumpkinsoup",
+      "nutrition": {
+       "calories":"146 kcal",
+       "protein": "26g",
+       "fats": "44.7g",
+       "carbs":"8.3g",
+       "Sugars":"6 g"
+      },
+       "ingredients": "2 tbsp olive oil,1kg pumpkin,700ml chicken stock,150ml double cream,2 tbsp olive oil,4 slices wholemeal",
+      "recipe":["Heat 2 tbsp olive oil in a large saucepan, then gently cook 2 finely chopped onions for 5 mins, until soft but not coloured.","Add 1kg pumpkin or squash, cut into chunks, to the pan, then carry on cooking for 810 mins, stirring occasionally until it starts to soften and turn golden.","Pour 700ml vegetable or chicken stock into the pan and season with salt and pepper. Bring to the boil, then simmer for 10 mins until the squash is very soft.","Pour 150ml double cream into the pan, bring back to the boil, then purée with a hand blender. For an extravelvety consistency you can pour the soup through a fine sieve. The soup can now be frozen for up to 2 months.","Reheat the soup if needed, taste for seasoning, then serve scattered with croutons and seeds and drizzled with more olive oil, if you want." ],
+      "imagepath": "assets/jsonimages/pumpkinsoup.jpg"
+    },
+    {
+      "name": "ellu coconut chutney",
+       "nutrition": {
+        "calories":"176 kcal",
+        "protein": "27g",
+        "fats": "48.7g",
+        "carbs":"6.3g",
+        "Sugars":"7 g"
+      },
+       "ingredients": "1/4 cup sesame seeds,2 tbsp grated coconut,2 flakes of garlic,A marblesized ball of tamarind",
+      "recipe":["The goal here is to get all the moisture out of the seeds first and roast it to a golden colour inside. This is tough to see since the seeds are very dark coloured so I have a tip below to check that","After about 34 minutes, add the red chillies and continue roasting on lowmedium flame","After about 56 minutes, take 23 sesame between your fingers and gently rub them open. The white parts inside should be a light golden brown. This means they are done. If it still looks white, continue roasting for another few minutes","Cool completely and grind to a coarse chutney with minimal water. Ellu chutney is meant to be thick so be cautious not to add more water than is needed. It’s also important not to grind the chutney very smooth. Ellu chutney should be a bit coarse in texture" ],
+      "imagepath": "assets/jsonimages/ellu coconut chutney.jpg"
+    },
+    {
+      "name": "ellu kuzhambu",
+       "nutrition": {
+        "calories":"126 kcal",
+        "protein": "57g",
+        "fats": "48.7",
+        "carbs":"6.3g",
+        "Sugars":"6 g"
+      },
+       "ingredients": "2 tbsp Sesame Seeds, Lemon Size Tamarind, Lemon Size Tamarind",
+      "recipe":["Soak the tamarind in warm water for 10 mins and extract the juice. Keep it aside","Grind the fried sesame seeds to a nice powder. Keep it aside. We will be adding this to kuzhambu only at the last.","Hold the coconut piece with a tong and fry the coconut pieces in flame directly till it turns golden brown color. Take all the fried coconut pieces to the mixer","Add these fried ingredients to mixer and grind it along with toasted coconut to a smooth paste." ],
+      "imagepath": "assets/jsonimages/ellu kuzhambu.jpg"
+    },  
+    {
+      "name": "ellu sadam",
+       "nutrition": {
+        "calories":"146 kcal",
+        "protein": "47g",
+        "fats": "28.7",
+        "carbs":"4.3g",
+        "Sugars":"7 g"
+      },
+       "ingredients": "1 cup rice,2 cups water,½  tsp salt,3 tbsp sesame seeds,1 tsp urad dal,2 dry red chillies,1 pinch asafoetida",
+      "recipe":["Rinse 1 cup rice couple of times in water and then soak in enough water for 20 minutes.","Add 1.75 to 2 cups water or add as required for regular white rice. If using hand pounded rice then add 2.25 to 2.5 cups water. If using brown rice, then add 3 cups water. For brown rice soak for about 30 minutes.","For white rice, pressure cook for 2 whistles on medium flame. For hand pounded rice, pressure cook for 7 to 8 whistles and for brown rice pressure cook for 10 to 12 whistles on medium flame.","Take the rice in a large bowl or plate and let the rice grains cool down completely." ],
+      "imagepath": "assets/jsonimages/ellu sadam.jpg"
+    },  
+    {
+      "name": "ellundasesame balls",
+       "nutrition": {
+        "calories":"126 kcal",
+        "protein": "57g",
+        "fats": "23.7",
+        "carbs":"5.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "2 cup of sesame seeds,½ cup of boiled rice(puzhukkallari),3/4 cup of powdered jaggery,1 cup of grated coconut",
+      "recipe":["Dry roast the sesame seeds in a pan over medium flame. Stir continuously, and roast until they start to burst.Allow to cool.","Same way roast the boiled rice on medium fire in a pan until it pops and changes to golden brown color.(The roasted rice should be very crunchy).Allow to cool and powder using a dry mixer grinder.","Crush sesame seeds using mixer grinder.","Take a large bowl.Add rice powder,grated coconut,powdered jaggery. Mix well.","Now knead this mixture with the crushed sesame seeds.","Pick a handful of mixture and make small even sized balls" ],
+      "imagepath": "assets/jsonimages/ellunda-sesame balls.jpg"
+    },  
+    {
+      "name": "peanut sesame balls",
+       "nutrition": {
+        "calories":"136 kcal",
+        "protein": "27g",
+        "fats": "25.7",
+        "carbs":"3.3g",
+        "Sugars":"4 g"
+      },
+       "ingredients": "1 cup peanuts,½ cup sesame seeds,½ cup jaggery ,to taste Cardamom",
+      "recipe":["Roasting peanuts in a skillet is a time consuming affair. That's where the microwave comes to our rescue. Spread the nuts in a single layer in a microwave safe dish. For a crisp texture, nuke at HIGH for about 45 minutes under supervision. Cool for 510 minutes. I didn't remove the skins. You may do so if you like. It doesn't affect the taste.","Roasting peanuts in a skillet is a time consuming affair. That's where the microwave comes to our rescue. Spread the nuts in a single layer in a microwave safe dish. For a crisp texture, nuke at HIGH for about 45 minutes under supervision. Cool for 510 minutes. I didn't remove the skins. You may do so if you like. It doesn't affect the taste.","Add all 3 ingredients together in the end and pulse for 2 minutes or so, until the natural oils are released and they come together.","Remove onto a plate. Add cardamom powder. Mix well and shape into balls of desired size. You don't need any extra ghee / fats to hold the laddoo together. The natural oils in the nuts and seeds do a great job of it. You could also roll them in dried coconut shavings for another layer of taste." ],
+      "imagepath": "assets/jsonimages/peanut sesame balls.jpg"
+    },
+    {
+      "name": "sesame fried rice cake",
+       "nutrition": {
+        "calories":"236 kcal",
+        "protein": "17g",
+        "fats": "35.7",
+        "carbs":"5.3g",
+        "Sugars":"8 g"
+      },
+       "ingredients": "Basmati Rice, washed 1 ½ cups,Water 2 ½ cups,Salt to taste,Sesame oil 2 tsp,Sesame seeds roasted 1/4 cup",
+      "recipe":["To the rice cooker bowl, add the washed rice, water and salt.","Turn on the cook button and let cook.","When it’s done, remove the rice bowl from the rice cooker and let cool." ],
+      "imagepath": "assets/jsonimages/sesame fried rice cake.jpg"
+    },  
+    {
+      "name": "til burfisesame seed fudge",
+       "nutrition": {
+        "calories":"246 kcal",
+        "protein": "16g",
+        "fats": "37.7",
+        "carbs":"6.3g",
+        "Sugars":"11 g"
+      },
+       "ingredients": "1 cup while til or sesame seeds,½ cup soft mawa/leftover rabri/khoya,½ cup sugar,3 tbsp rose water",
+      "recipe":["Dry roast sesame seeds in a pan for 10 mins on low flame.","In a nonstick pan, heat with 23 tbsp rose water and sugar.Keep on mixing until the mawa is soft.","Mix well, until a homogeneous mixture is formed and the mix starts coming together.","On a tray, place baking paper and add the mix to it.","Cut into desired shapes once cooled." ],
+      "imagepath": "assets/jsonimages/til burfi-sesame seed fudge.jpg"
+    },
+    {
+      "name": "Simple Egg Salad",
+       "nutrition": {
+        "calories":"176 kcal",
+        "protein": "9.8g",
+        "fats": "14g",
+        "carbs":"1.8g",
+        "Sugars":"1.4g"
+      },
+       "ingredients": "6 hardcooked eggs chopped,¼ cup chopped cucumber,3  tbsp ranch dressing,1 tbsp mustard,salt and ground black pepper to taste",
+      "recipe":["Combine eggs, cucumber, ranch dressing, mustard, salt, and black pepper in a bowl."],
+      "imagepath": "assets/jsonimages/egg_salad.jpg"
+    },
+    {
+      "name": "Egg Bhurji",
+      "sidedish":["chapati","pav","bread"],
+       "nutrition": {
+        "calories":"251 kcal",
+        "protein": "8g",
+        "fats": "19g",
+        "carbs":"14g",
+        "Sugars":"6g"
+      },
+       "ingredients": "4 Eggs,2 onions finely chopped,2 tomatoes chopped,3 Green chillies or as per taste,1 capsicum chopped,2 inch ginger chopped,½ cup coriander leaves,34 Curry leaves,2 tbsp vegetable oil or ghee,1 tsp jeera,1 tsp red chilli powder,1 tsp turmeric powder,salt as per taste",
+      "recipe":["In a large bowl, whisk the eggs using a spoon and keep aside.","Take a pan, add oil or ghee and heat. Now add jeera, onions, hing, green chillies, curry leaves, capsicum and ginger. Saute for 34 minutes.","Add tomatoes and few coriander leaves. Saute for 2 minutes.","Add 1 Tbsp butter, pav bhaji masala, red chilli powder, turmeric powder and salt as per taste. Mix well.","Lastly, pour in the slightly beaten eggs and keep whisking until cooked.","Top it up with butter. Garnish with the remaining coriander leaves."],
+      "imagepath": "assets/jsonimages/egg_burji.jpg"
+    },
+    {
+      "name": "Egg Custard",
+       "nutrition": {
+        "calories":"130 kcal",
+        "protein": "4.8g",
+        "fats": "3.3g",
+        "carbs":"20.7g",
+        "Sugars":"20.7g"
+      },
+       "ingredients": "2 cups milk,2 eggs beaten,½ cup white sugar,1 pinch salt,1 dash vanilla extract,1 pinch ground nutmeg",
+      "recipe":["Preheat oven to 325 degrees F (165 degrees C).","Whisk milk, eggs, sugar, salt, and vanilla together in a bowl until completely combined. Pour egg mixture into 6 custard cups; sprinkle tops with nutmeg. Place cups in a baking pan and fill pan with enough hot water to reach halfway up the sides of the custard cups.","Bake in the preheated oven until custards are set, about 1 hour. Cool completely."],
+      "imagepath": "assets/jsonimages/Egg_Custard.jpg"
+    },
+    {
+      "name": "Egg Rolls",
+       "nutrition": {
+        "calories":"275 kcal",
+        "protein": "20.5g",
+        "fats": "8.4g",
+        "carbs":"29.2g",
+        "Sugars":"3.8g"
+      },
+       "ingredients": "1 pkg wonton wrappers,1 pound lean ground beef,1 pound shrimp,5  tbsp soy sauce,3  tbsp oyster sauce,1 pound bean sprouts,2 green onions,3 stalks celery chopped,1 cabbage finely shredded,2 cloves garlic minced,1 cup vegetable oil",
+      "recipe":["Place cabbage, bean sprouts, celery, and green onions in a large wok and stir fry over a high heat until vegetables cook down (add a little water if necessary). Mix in shrimp, stir fry until cooked.","In a large skillet, brown ground meat. Drain grease and add the meat to the vegetable and shrimp mixture. Continue to fry over a high heat; add oyster sauce, soy sauce & garlic.","Place a tbsp of the meat and seafood mixture (or more, depending on how large your wonton skins are) into the center of each wonton skin. Fold the wonton skin over to make a pkg of the meat mixture inside, and seal the skin closed by dipping your finger in a little water and pressing the ends together.","Fry the wontons in 1/4 inch of vegetable oil until golden brown."],
+      "imagepath": "assets/jsonimages/Egg_roll.jpg"
+    },
+    {
+      "name":"Egg Curry",
+      "sidedish":["appam","chapati","idiyappam","parotta"],
+       "nutrition": {
+        "calories":"275 kcal",
+        "protein": "20.5g",
+        "fats": "8.4g",
+        "carbs":"29.2g",
+        "Sugars":"3.8g"
+      },
+       "ingredients":"2 tbsp vegetable oil,1 onion sliced,1 tsp garlic paste,½ tsp ginger paste,1 tbsp ground coriander,1 tsp ground cumin,½ tsp ground turmeric,½ tsp chilli powder,¼ tsp ground black pepper,¼ cup tomato puree,1 tbsp vinegar,4 hardboiled eggs",
+      "recipe":["Heat oil in a large pot over medium heat. Add onion; cook and stir until browned, about 5 minutes. Stir in garlic and ginger paste. Mix in coriander, cumin, turmeric, chile powder, and black pepper; cook until fragrant, about 1 minute. Add tomato puree; cook until curry thickens, about 4 minutes.","Pour water into the pot; bring sauce to a boil. Stir in vinegar and salt. Slip eggs into the pot; cook until flavors combine, about 5 minutes."],
+      "imagepath": "assets/jsonimages/egg_curry.jpg"
+    },
+    {
+      "name":"Egg Muffins",
+       "nutrition": {
+        "calories":"143 kcal",
+        "protein":"10.2g",
+        "fats":"10.6g",
+        "carbs":"1.6g",
+        "Sugars":"0.9g"
+      },
+       "ingredients":"½ pound bulk pork sausage,12 eggs,½ cup chopped onion,½ cup chopped green pepper,½ tsp salt,¼ tsp black pepper,¼ tsp garlic powder,½ cup shredded Cheddar cheese",
+      "recipe":["Preheat oven to 350 degrees F (175 degrees C). Lightly grease 12 muffin cups, or line with paper muffin liners.","Heat a large skillet over mediumhigh heat and stir in sausage; cook and stir until sausage is crumbly, evenly browned, and no longer pink, 10 to 15 minutes; drain.","Beat eggs in a large bowl. Stir in onion, green pepper, salt, pepper, and garlic powder. Mix in sausage and Cheddar cheese. Spoon by 1/3 cupfuls into muffin cups.","Bake in preheated oven until a knife inserted near the center comes out clean, 20 to 25 minutes."],
+      "imagepath": "assets/jsonimages/egg_muffins.jpg"
+    },
+    {
+      "name": "Cranberry BBQ Chicken",
+       "nutrition": {
+        "calories":"746 kcal",
+        "protein": "42.6g",
+        "fats": "37.7",
+        "carbs":"34.3g",
+        "Sugars":"11 g"
+      },
+       "ingredients": "1 (2 to 3 pound) whole chicken,2 tbsp butter,½ tsp salt,¼ tsp ground black pepper,½ cup chopped celery,1 onion,1 onion,1 cup barbecue sauce",
+      "recipe":["Preheat oven to 350 degrees F (175 degrees C).","In a large skillet brown the chicken in butter/margarine. Season with salt and pepper. Remove from skillet and place in a lightly greased 9x13 inch baking dish.","In the drippings (in the skillet), saute onion and celery until tender. Add cranberry sauce and barbecue sauce. Mix well.","In the drippings (in the skillet), saute onion and celery until tender. Add cranberry sauce and barbecue sauce. Mix well." ],
+      "imagepath": "assets/jsonimages/cranberry bbq chicken.jpg"
+    },  
+    {
+      "name": "Imitation Crab Salad",
+       "nutrition": {
+        "calories":"536 kcal",
+        "protein": "17.6g",
+        "fats": "36.7",
+        "carbs":"35.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "6 eggs,½ (1 pound) loaf sourdough bread,1 pound imitation crabmeat,3 stalks celery,3 stalks celery,3 stalks celery,2 tbsp sour cream,salt and pepper to taste",
+      "recipe":["Place eggs in a saucepan and cover with cold water. Bring water to a boil. Cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.","Trim crust from bread and dice into cubes.","In a large bowl, combine the bread cubes, eggs, crab, celery, onion, mayonnaise, sour cream and salt and pepper. Mix together well and refrigerate until ready to serve." ],
+      "imagepath": "assets/jsonimages/imitation crab salad.jpg"
+    },  
+    {
+      "name": "simple egg salad",
+       "nutrition": {
+        "calories":"176 kcal",
+        "protein": "9.6g",
+        "fats": "14.7",
+        "carbs":"1.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "6 hardcooked eggs,¼ cup chopped cucumber,3 tbsp ranch dressing,1 tbsp mustard,salt and ground black pepper to taste",
+      "recipe":["Combine eggs, cucumber, ranch dressing, mustard, salt, and black pepper in a bowl." ],
+      "imagepath": "assets/jsonimages/simple egg salad.jpg"
+    }, 
+    {
+      "name": "Coconut Fish Curry",
+       "nutrition": {
+        "calories":"156 kcal",
+        "protein": "21.6g",
+        "fats": "32.7",
+        "carbs":"2.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "Coconut Fish Curry,½ tsp ground ginger,¼ tsp ground turmeric,¼ tsp olive oil,3 cloves garlic,3 cloves garlic,4 ¼ ounces water,3 ½ ounces cod,1 large tomato",
+      "recipe":["Combine curry powder, ground ginger, and ground turmeric in a skillet; toast the spices over medium heat until browned, about 5 minutes. Pour olive oil and garlic into the spice mixture and stir to make a paste.","Stir onion into the spice mixture; cook and stir until the onion is tender, 5 to 7 minutes. Stir about half the coconut milk and half the water into the onion mixture; simmer together for 5 minutes. Add cod to the mixture; continue cooking until the fish is firm, about 5 minutes. Add tomato, remaining coconut milk, and remaining water to the skillet; cook until the tomato is softened, about 5 minutes." ],
+      "imagepath": "assets/jsonimages/cocunut fish curry.jpg"
+    }, 
+    {
+      "name": "garlic pulled pork",
+       "nutrition": {
+        "calories":"256 kcal",
+        "protein": "31.6g",
+        "fats": "12.7",
+        "carbs":"21.3g",
+        "Sugars":"8 g"
+      },
+       "ingredients": "6 pounds bonein pork butt,2 tbsp minced garlic,1 tbsp liquid mesquite smoke flavoring,1 tbsp sea salt,½ tsp ground black pepper,1 medium head green cabbage,1 medium sweet onion,1 tsp chicken soup base",
+      "recipe":["Remove bone from pork butt. Combine garlic, liquid smoke, salt, and black pepper in a bowl and rub into pork.","Cover the bottom of a slow cooker with green cabbage leaves. Place 1 layer of onion slices on top. Add pork.","Combine water and chicken base in a microwavesafe measuring cup and microwave on high until dissolved, about 45 seconds. Pour over pork. Break up remaining onion slices and place on top. Cover with another layer of cabbage leaves. Cover the lid.","Cook on Low for 8 hours. Turn pork over and, if needed, remove any excess liquid to leave the top 2 inches uncovered. Cover and continue to cook until forktender, about 8 hours more." ],
+      "imagepath": "assets/jsonimages/garlic pulled pork.jpg"
+    }, 
+    {
+      "name": "Prawns in Peanut Soup",
+       "nutrition": {
+        "calories":"146 kcal",
+        "protein": "36.6g",
+        "fats": "20.7",
+        "carbs":"11.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "2 cups water,salt to taste,2¼ pounds prawns,½ pound green beans,1 large brinjal,½ pound bok choy,2 tbsp olive oil,1 onion,2 cloves garlic,3 tbsp peanut butter",
+      "recipe":["Bring the water and salt to a boil in a large pot. Add the prawns to the water and return to a boil; cook at a boil for 5 minutes. Remove the prawns with a strainer and set aside.","Cook the beans, brinjal, and bok choy in the water until slightly tender, about 3 minutes. Drain and reserve the liquid. Set the vegetables aside.","Cook the beans, brinjal, and bok choy in the water until slightly tender, about 3 minutes. Drain and reserve the liquid. Set the vegetables aside." ],
+      "imagepath": "assets/jsonimages/prawns in peanut soup.jpg"
+    }, 
+    {
+      "name": "Easy Ginger Beef",
+       "nutrition": {
+        "calories":"446 kcal",
+        "protein": "30.6g",
+        "fats": "9.7",
+        "carbs":"66.3g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "1 pound round steak thinly sliced,1 (1 inch) piece fresh ginger root,1 tbsp soy sauce,1 tsp butter,1 red bell pepper,12 mushrooms,¼ cup sweet and sour sauce,4 cups cooked rice",
+      "recipe":["Place steak, ginger, and soy sauce in a bowl; turn to coat steak. Cover tightly; marinate in the refrigerator for at least 30 minutes or up to overnight.","Heat a wok over high heat; pour in beef mixture. Cover wok; cook until beef is browned, about 5 minutes. Remove beef from wok.","Heat butter in wok over high heat; stir in bell pepper, onion, mushrooms, and sweet and sour sauce. Cover and cook until vegetables begin to soften, about 3 minutes. Stir cooked beef into vegetable mixture; cook until heated through, about 2 minutes. Serve over cooked rice." ],
+      "imagepath": "assets/jsonimages/Easy Ginger Beef.jpg"
+    }, 
+    {
+      "name": "Mutton Varuval",
+       "nutrition": {
+        "calories":"206 kcal",
+        "protein": "20.6g",
+        "fats": "7.7",
+        "carbs":"6.3g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "2 pounds mutton,2 tsps salt,1 tsp ground turmeric,½ tsp ground black pepper,2 small red onions,1 ½ tbsp coconut oil,1 cinnamon stick, 2 whole star anise pods,2 tbsp curry leaves, divided,1 tbsp gingergarlic paste,1 tsp coconut oil,1 ½ tsps garam masala,1 ½ tsps ground paprika",
+      "recipe":["Season goat meat with 1 tsp salt, ½ tsp turmeric, and black pepper.","Place red onions in a blender; grind into a smooth paste.","Heat 1 ½ tbsp coconut oil in a Dutch oven over medium heat. Add cinnamon stick, star anise, and cardamom pods; cook until aromatic, about 30 seconds. Add fennel and cloves; cook and stir for 30 seconds. Add remaining 1 tsp salt and 1 tbsp curry leaves; stir in the onion paste. Increase heat to mediumhigh. Cook and stir curry mixture for 5 minutes; add gingergarlic paste and continue cooking until flavors meld, about 10 minutes.","Heat 1 ½ tbsp coconut oil in a Dutch oven over medium heat. Add cinnamon stick, star anise, and cardamom pods; cook until aromatic, about 30 seconds. Add fennel and cloves; cook and stir for 30 seconds. Add remaining 1 tsp salt and 1 tbsp curry leaves; stir in the onion paste. Increase heat to mediumhigh. Cook and stir curry mixture for 5 minutes; add gingergarlic paste and continue cooking until flavors meld, about 10 minutes.","Heat 1 tsp coconut oil in a saucepan over medium heat. Cook and stir the remaining ½ tsp turmeric, garam masala, curry powder, and paprika until aromatic, about 1 minute. Add a few cups of the curry from the slow cooker; heat until oil rises to the top. Add remaining 1 tbsp curry leaves and cilantro; cook until gravy thickens, 3 to 5 minutes. Pour back into the slow cooker and blend well." ],
+      "imagepath": "assets/jsonimages/mutton varuval.jpg"
+    }, 
+    {
+      "name": "Creamy Mustard Dipping Sauce for Shellfish",
+       "nutrition": {
+        "calories":"208 kcal",
+        "protein": "2.6g",
+        "fats": "5.7",
+        "carbs":"4.3g",
+        "Sugars":"18 g"
+      },
+       "ingredients": "1 cup mayonnaise,4 tsps dry mustard powder,1 tsp Worcestershire sauce,1 tsp steak sauce,1 tsp halfandhalf,1 tsp lemon juice,½ tsp sriracha sauce,1kg shellfish",
+      "recipe":["Whisk mayonnaise, dry mustard, Worcestershire sauce, steak sauce, halfandhalf, lemon juice, sriracha, and salt together in a bowl until smooth and creamy. Refrigerate for at least 30 minutes before serving." ],
+      "imagepath": "assets/jsonimages/creamy mustard dipping sauce for shellfish.jpg"
+    },
+    {
+      "name": "veg sandwich",
+       "nutrition": {
+        "calories":"156 kcal",
+        "protein": "7.6g",
+        "fats": "4.7",
+        "carbs":"3.3g",
+        "Sugars":"11 g"
+      },
+       "ingredients": "10 slices white bread,2 potatoes,1 small to medium onion,1 medium tomato,chaat masala,roasted cumin powder,freshly ground black pepper,tomato ketchup",
+      "recipe":["Trim the edges of the bread slices if you want.","Butter the bread slices evenly and very well","Now apply the coriander chutney to the slices.","Sprinkle the black salt and chaat masala on each one of them or alternately.","Cover the sandwich with the bread slices with the butter and chutney on them." ],
+      "imagepath": "assets/jsonimages/veg sandwich.jpg"
+    },
+    {
+      "name": "Beetroot Pachadi",
+       "nutrition": {
+        "calories":"156 kcal",
+        "protein": "7.6g",
+        "fats": "4.7",
+        "carbs":"4.9g",
+        "Sugars":"12 g"
+      },
+       "ingredients": "2 Beetroot,1/2 cup Curd,1/4 teaspoon Turmeric powder,Salt,Oil as required,1/3 cup garted coconut,2 red chilli,1 inch Ginger,1/2 teaspoon Mustard seeds,1/2 teaspoon Cumin seeds,5 Curry leaves",
+      "recipe":["Cook beetroot covered with little water, in a Pressure cooker","Grind grated coconut,ginger,red chilli,mustard & cumin seeds into paste adding very little water.","Once the beetroot gets cooked, then add the grounded paste and turmeric powder.","Stir well, add salt and cook for few minutes","Let it cool, then whisk curd well and add it to the beetroot. Mix well.","Now heat oil in Tadka pan, add mustard seeds, red chilli and curry leaves. Once it splutters add to the pachadi and stir until combined."],
+      "imagepath": "assets/jsonimages/beetroot_pachadi.jpg"
+    },
+    {
+      "name": "roasted salt and pepper cashews",
+       "nutrition": {
+        "calories":"136 kcal",
+        "protein": "4.6g",
+        "fats": "3.7",
+        "carbs":"5.3g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "cashews,pepper,salt,oil",
+      "recipe":["Toss whole raw cashews with vegetable oil, until thoroughly coated and bake at 350 degrees F for 2025 minutes, until golden (refer picture above). Cool completely." ],
+      "imagepath": "assets/jsonimages/roasted salt and pepper cashews.jpg"
+    },
+    {
+      "name": "baked cheese balls",
+       "nutrition": {
+        "calories":"176 kcal",
+        "protein": "7.6g",
+        "fats": "7.7",
+        "carbs":"8.3g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "1 onion,½ tsp red chilli powder,1/4 tsp  turmeric powder,3 potatoes,½ tsp  garam masala powder,1  cheese cube,1 tbsp  chopped coriander leaves,1 tbsp  chopped mint leaves,1  egg white,80g  bread crumbs,fresh salad and tomato ketchup",
+      "recipe":["Dilute red chilli powder, coriander powder and turmeric powder in 1 tbsp of water and keep it aside.","Heat oil in a pan. Add sliced onions and fry it till it is golden in colour on medium to low heat","Add boiled and mashed potatoes, salt and garam masala powder to it. Mix all the ingredients well.","Divide potato mixture into 8 parts. Make a round shape and dip each ball into egg white and roll it over the breadcrumbs. Breadcrumbs should be coated nicely. If the egg white is very smooth, breadcrumbs will coat easily.","Grease a baking tray with 1 tsp of oil. Arrange potato balls carefully. Sprinkle remaining oil on the top of cutlets and bake for 30  35 minutes or until it is golden brown in colour and crisp. Serve it hot with fresh salad or tomato ketchup." ],
+      "imagepath": "assets/jsonimages/baked cheese balls.jpg"
+    },
+    {
+      "name": "dark chocolate mousse cake",
+       "nutrition": {
+        "calories":"156 kcal",
+        "protein": "5.6g",
+        "fats": "8.7",
+        "carbs":"3.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "60g Plaistowe Premium Dark Chocolate,50g unsalted butter,100g (½ cup) caster sugar,60ml (1/4 cup) hot water,50g (1/3 cup) plain flour,40g (1/4 cup) selfraising flour,1 egg",
+      "recipe":["Preheat oven to 160C/140C fan forced. Release base of a 22cm (base measurement) springform pan. Invert. Line with baking paper. Secure in pan, allowing edge to overhang. Grease side with melted butter.","Melt chocolate, butter, sugar and water in a heatproof bowl over a saucepan of simmering water. Remove from heat. Stir in flours, cocoa and egg. Pour in pan. Bake for 25 minutes or until a skewer comes out clean.","Cool cake completely in pan. For mousse, place chocolates in a heatproof bowl over a saucepan of simmering water (don't let the water touch the bowl). Stir for 34 minutes or until melted and smooth.","Remove from heat and set aside to cool slightly. Use electric beaters to beat cream in a bowl until soft peaks form. Fold a third of the cream into the chocolate mixture. Repeat twice until well combined.","For the glaze, combine chocolate, cream and glucose in a small saucepan. Stir over low heat until melted and smooth. Cool slightly. Pour over mousse. Place in the fridge for 1 hour to set. Serve cut into wedges." ],
+      "imagepath": "assets/jsonimages/dark chocolate mousse cake.jpg"
+    },
+    {
+      "name": "cinnamon rolls",
+       "nutrition": {
+        "calories":"172 kcal",
+        "protein": "5.3g",
+        "fats": "7.7",
+        "carbs":"6.3g",
+        "Sugars":"8 g"
+      },
+       "ingredients": "milk,sugar,yeast,butter,egg yolk,cinnamon,cheese,vanilla extract",
+      "recipe":["Warm milk to around 110 degrees F. I like to do this by placing milk in a microwave safe bowl and microwaving it for 4045 seconds. It should be like warm bath water. Transfer warm milk to the bowl of an electric mixer and sprinkle yeast on top. Add in sugar, egg, egg yolk and melted butter. Mix until well combined. Next stir in flour and salt with a wooden spoon until a dough begins to form.","Place dough hook on stand mixer and knead dough on medium speed for 8 minutes. Dough should form into a nice ball and be slightly sticky. If it's TOO sticky (meaning it's sticking to the bottom of the mixer, add in 2 tbsp more bread flour.) If you don’t want to use an electric mixer, you can use your hands to knead the dough for 810 minutes on a wellfloured surface.","Transfer dough ball to a welloiled bowl, cover with plastic wrap and a warm towel. Allow dough to rise for 1 hour to 1 ½ hours, or until doubled in size. This may more or less time depending the humidity and temperature in your home.","Place cinnamon rolls in a greased 9x9 inch baking pan or round 9 inch cake pan. (I also recommend lining the pan with parchment paper as well, in case any of the filling ends up leaking out.) Cover with plastic wrap and a warm towel and let rise again for 3045 minutes.","Preheat oven to 350 degrees F. Remove plastic wrap and towel and bake cinnamon rolls for 2025 minutes or until just slightly golden brown on the edges. You want to underbake them a little so they stay soft in the middle, that's why we want them just slightly golden brown. Allow them to cool for 510 minutes before frosting. Makes 9 cinnamon rolls.","To make the frosting: In the bowl of an electric mixer, combine cream cheese, butter, powdered sugar and vanilla extract. Beat until smooth and fluffy. Spread over cinnamon rolls and serve immediately. Enjoy!" ],
+      "imagepath": "assets/jsonimages/cinnamon rolls.jpg"
+    },
+    {
+      "name": "coconut macaroons",
+       "nutrition": {
+        "calories":"132 kcal",
+        "protein": "3.4g",
+        "fats": "5.8",
+        "carbs":"8.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "1 tsp vanilla extract,2 large eggs whites,¼ tsp salt,4 ounces semisweet chocolate",
+      "recipe":["Preheat the oven to 325°F. Set two oven racks near the center of the oven. Line two baking sheets with parchment paper.","In the bowl of an electric mixer, beat the egg whites and salt until stiff peaks form. Use a large rubber spatula to fold the egg whites into the coconut mixture.","Using a mini ice cream scoop or two spoons, form heaping tbsp of the mixture into mounds on the prepared baking sheets, spacing about 1 inch apart. Bake for 23 to 25 minutes, rotating the pans from top to bottom and front to back, until the tops and edges are golden. Let cool on the pans for a few minutes, then transfer to a wire rack to cool completely." ],
+      "imagepath": "assets/jsonimages/coconut macaroons.jpg"
+    },
+    {
+      "name": "Cookies",
+       "nutrition": {
+        "calories":"132 kcal",
+        "protein": "3.5g",
+        "fats": "10.8",
+        "carbs":"10.3g",
+        "Sugars":"9.5 g"
+      },
+       "ingredients":"2 cups flour,1/2 tsp salt,1 cup unsalted butter,1/2 cup sugar,2 egg yolks,2 tsp vanilla extract,1/3 cup sanding sugar",
+      "recipe":["In a stand mixer fitted with a paddle attachment, cream the butter, salt, and sugar together until light and fluffy.","Add the egg yolks while mixing. Scrape down sides of the bowl.","Add 2 tsp vanilla extract.","Pour in the flour mixture and mix it","Once the dough is chilled sprinkle sanding sugar","Use a sharp knife to cut dough into slices of even thickness.","Place cookies on a parchment-lined baking sheet and bake at 350F for 10-12 minutes" ],
+      "imagepath": "assets/jsonimages/cookies.jpg"
+    },
+    {
+      "name": "chocolate chip cookies",
+       "nutrition": {
+        "calories":"132 kcal",
+        "protein": "3.4g",
+        "fats": "5.8",
+        "carbs":"8.3g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "1 cup salted butter softened,1 cup white (granulated) sugar,1 cup light brown sugar packed,2 tsp pure vanilla extract,3 cups allpurpose flour,½ tsp baking powder,2 cups chocolate chips",
+      "recipe":["Preheat oven to 375 degrees F. Line a baking pan with parchment paper and set aside.","Cream together butter and sugars until combined.","Beat in eggs and vanilla until fluffy.","Add 12 oz package of chocolate chips and mix well.","Roll 23 TBS (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets. (alternately, use a small cookie scoop to make your cookies).","Bake in preheated oven for approximately 810 minutes. Take them out when they are just BARELY starting to turn brown.","Let them sit on the baking pan for 2 minutes before removing to cooling rack." ],
+      "imagepath": "assets/jsonimages/chocolate chip cookies.jpg"
+    },
+    {
+      "name": "appam",
+       "nutrition": {
+        "calories":"122 kcal",
+        "protein": "3.7g",
+        "fats": "3.8",
+        "carbs":"6.3g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "1.5 cups regular rice ,2 cups water,¼ cup thick poha,½ cup grated fresh coconut,¾ cup water,½ tsp instant yeast,½ tsp salt,2 tbsp sugar",
+      "recipe":["Rinse rice in water for a couple of times.","Soak rice in water for 4 to 5 hours.","Drain all the water and then add the soaked rice to mixergrinder or blender jar. Also add the grated coconut, cooked rice or poha (aval or flattened rice), salt and sugar","Add water and grind all the ingredients to a smooth flowing batter","Transfer the batter in a medium to large bowl.","With Dry Active Yeast: Take about 1 to 2 tbsp of lukewarm water in a bowl. Then add the dry active yeast and stir to mix well. Add this yeast solution to the batter and mix thoroughly. Cover and keep aside for fermenting overnight or for 8 to 12 hours or more depending on the temperature conditions. The batter will rise and increase in volume the next day. Check notes","Spread a ladle full of the batter (about ⅓ to ¼ cup). Turn and tilt the pan so as to spread the batter to a neat round circle. Keep heat to mediumlow or medium. Regulate the heat as needed when cooking.","Cover the pan with a lid and let the appam cook. The base would become nicely light golden with crispy edges","Gently remove the cooked appam with a spatula. Make the remaining batches of appam this way. If the pan becomes too hot then reduce the heat so that the batter is easy to spread when you tilt the pan.","Keep the prepared appams covered with a kitchen towel.","Serve the appam hot or warm with vegetable stew or coconut milk that has been sweetened with jaggery and flavored with a bit of cardamom powder." ],
+      "imagepath": "assets/jsonimages/appam.jpg"
+    },
+    {
+      "name": "burger",
+       "nutrition": {
+        "calories":"482 kcal",
+        "protein": "31g",
+        "fats": "23g",
+        "carbs":"37g",
+        "Sugars":"13 g"
+      },
+       "ingredients": "1 pound ground lean (7% fat) beef,egg,½ cup minced onion,¼ cup fine dried bread crumbs,1 tbsp Worcestershire,About 1/4 tsp pepper,4 hamburger buns,4 iceberg lettuce leaves,1 firmripe tomato,4 thin slices red onion",
+      "recipe":["In a bowl, mix ground beef, egg, onion, bread crumbs, Worcestershire, garlic, ½ tsp salt, and 1/4 tsp pepper until well blended. Divide mixture into four equal portions and shape each into a patty about 4 inches wide.","Lay burgers on an oiled barbecue grill over a solid bed of hot coals or high heat on a gas grill (you can hold your hand at grill level only 2 to 3 seconds); close lid on gas grill. Cook burgers, turning once, until browned on both sides and no longer pink inside (cut to test), 7 to 8 minutes total. Remove from grill.","Lay buns, cut side down, on grill and cook until lightly toasted, 30 seconds to 1 minute.","Spread mayonnaise and ketchup on bun bottoms. Add lettuce, tomato, burger, onion, and salt and pepper to taste. Set bun tops in place." ],
+      "imagepath": "assets/jsonimages/burger.jpg"
+    },
+    {
+      "name": "french fries",
+       "nutrition": {
+        "calories":"382 kcal",
+        "protein": "21g",
+        "fats": "13g",
+        "carbs":"27g",
+        "Sugars":"8 g"
+      },
+       "ingredients": "315 grams potatoes,3.5 cups cold water,dried rosemary,rock salt,red chilli powder,oil",
+      "recipe":["Firstly take the potatoes and rinse well in water. Then peel them","Then slice the potato in slices having 1 cm thickness. Before slicing, you can remove the top and bottom part of the potato to get a square or rectangle shaped potato.","Then begin to cut them in sticks having 1 cm width. Rinse these potato sticks for a couple of times in water to get rid of the extra starch.","For freezing and storing french fries in large quantities, fry/blanch the potatoes in hot oil first for about 3 minutes. Remove and drain on paper towels.","Wipe the extra oil with kitchen paper towels and when cooled, line the halffried potatoes on a tray. Cover the tray with a kitchen napkin and freeze for an hour.","Remove the frozen fries from the tray and transfer to a ziplock bag or a container and store in your freezer.","Now you can deep fry, bake or airfry these frozen fries. When cooking the fries with any of these methods, you do not need to thaw the frozen finger chips.","While deep frying, heat oil until medium or mediumhigh hot and deep fry the fries until golden and crisp. Sprinkle salt or ground spices, herbs and serve straight away." ],
+      "imagepath": "assets/jsonimages/French Fries.jpg"
+    },
+    {
+      "name": "noodles",
+       "nutrition": {
+        "calories":"182 kcal",
+        "protein": "11g",
+        "fats": "23g",
+        "carbs":"37g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "oil,2 clove garlic,1 inch ginger ,1 chilli,½ onion,2 tbsp spring onion ,¼ green capsicum,5 snow pea ,5 beans,5 florets broccoli,3 tbsp cabbage,1 tbsp soy sauce,salt",
+      "recipe":["firstly, in a large vessel take 6 cup water, 1 tsp salt and 1 tsp oil.","once the water comes to a boil place a pack of hakka noodles (125 g)","boil the noodles for 3 minutes or till it turns al dente. refer package instructions to know the exact cooking time.","drain off the water from noodles and pour 1 cup of cold water to prevent from further cooking.","drizzle 1 tsp oil and mix gently, to avoid noodles from sticking to each other. keep aside.","further add ½ carrot, ¼ green capsicum, 5 snow pea, 5 beans, chopped, ¼ red capsicum and 5 florets broccoli.","stir fry on high flame for 2 minutes or until veggies are cooked yet retain their crunch.","further add 2 tbsp tomato sauce, 1 tbsp soy sauce, 1 tbsp vinegar, 1 tbsp chilli sauce, ¼ tsp pepper powder and ½ tsp salt.","stir fry until sauces are well combined.","add in boiled noodles and mix gently.","toss and mix until noodles are cooked completely." ],
+      "imagepath": "assets/jsonimages/noodles.jpg"
+    },
+    {
+      "name": "dosa",
+       "nutrition": {
+        "calories":"184 kcal",
+        "protein": "17g",
+        "fats": "27g",
+        "carbs":"35g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "½ cup idli rice,½ cup regular rice,¼ cup urad dal,⅛ tsp fenugreek seeds,2 tbsp thick poha,1.5 cups water,¾ cup water,½ tsp rock salt,oil",
+      "recipe":["In a bowl take the idli rice or parboiled rice along with the regular white rice. Instead of adding regular rice, you can also make the dosa with a total of 1 cup idli rice as I have shown in the video. The video has the recipe ingredients doubled in proportion.","To the same bowl, add urad dal and fenugreek seeds.","Heat a cast iron pan. When the pan becomes hot, spread ¼ to ½ tsp oil all over the pan. Do keep the heat on low to lowmedium heat, so that you are easily able to spread the batter. If the pan base is very thick, then keep the flame to medium.","Now take a ladle full of the batter. Pour the dosa batter and gently spread the batter starting from the center and moving outwards.","When you see the batter on the top has cooked well and the bottom has become crisp and golden, then sprinkle ¼ to ½ tsp oil on the edges and center.","Cook till the base is nicely golden and crisp. The base will leave the pan and the sides will also get separated when it gets cooked.","Fold and serve sada dosa hot. Make all dosai this way","Serve these crisp plain dosa with sambar or potato masala or coconut chutney." ],
+      "imagepath": "assets/jsonimages/dosa.jpg"
+    },
+    {
+      "name": "idli",
+       "nutrition": {
+        "calories":"165 kcal",
+        "protein": "27g",
+        "fats": "31g",
+        "carbs":"43g",
+        "Sugars":"10 g"
+      },
+       "ingredients": "1 cup regular rice,½ cup whole or split urad dal,¼ cup thick poha,¼ tsp fenugreek seeds,2 cups water ,1 cup water,¾ to 1 cup water,1 tsp rock salt,2 to 2.5 cups water",
+      "recipe":["Grease the idli moulds.","Pour the batter in the moulds and steam the idli in a pressure cooker or steamer.","If using pressure cooker remove the vent weight (whistle).","Steam for 12 to 15 mins or until the idli is done.","Serve the steaming hot idli with coconut chutney and sambar.","Remaining batter can be stored in the refrigerator for a couple of days" ],
+      "imagepath": "assets/jsonimages/idli.jpg"
+    },
+    {
+      "name": "chicken fry",
+      "sidedish":["appam","idiyappam","chapati","chappati","parotta","porotta"],
+       "nutrition": {
+        "calories":"145 kcal",
+        "protein": "26g",
+        "fats": "41g",
+        "carbs":"23g",
+        "Sugars":"9 g"
+      },
+       "ingredients": "1 kg Chicken,1 tbsp garlic paste,78 curry leaves,1 tbsp ginger paste,1 tsp green chilli paste,1 ½ tsp coriander powder,1 tsp garam masala powder,salt",
+      "recipe":["In a large bowl, add chicken pieces","Then, add all the ingredients from garlic paste to salt, mentioned below","Cover and allow it to marinate for at least 2 hours under refrigeration","Heat oil in deep pan or Kadhai (wok)","Once the heats up well, carefully slidein the marinated chicken and fry them on medium high heat until done.","Take them out and drain onto an absorbent towel","Take them out and drain onto an absorbent towel","Serve them with onions, lemon wedges on the side" ],
+      "imagepath": "assets/jsonimages/chicken fry.jpg"
+    },
+    {
+      "name": "apple crisp",
+       "nutrition": {
+        "calories":"365 kcal",
+        "protein": "2.4g",
+        "fats": "15.6g",
+        "carbs":"55.7g",
+        "Sugars":"38.1 g"
+      },
+       "ingredients":"2½ cups apples peeled and sliced,1 cup sifted all-purpose flour,1 cup white sugar,½ tsp ground cinnamon,¼ tsp salt,½ cup softened butter",
+      "recipe":["Preheat oven to 375 degrees F (190 degrees C). Lightly grease an 8-inch square baking dish.","Arrange apple slices evenly in prepared baking dish. Sift flour sugar cinnamon and salt in a bowl. Cut in butter using a pastry blender or 2 knives until mixture resembles coarse cornmeal; sprinkle over apples.","Bake in preheated oven until topping is golden, 40 to 45 minutes. Cool slightly before serving." ],
+      "imagepath": "assets/jsonimages/apple crisp.jpg"
+    },
+    {
+      "name": "banana pancakes",
+       "nutrition": {
+        "calories":"241 kcal",
+        "protein": "12g",
+        "fats": "10g",
+        "carbs":"28g",
+        "Sugars":"15g"
+      },
+       "ingredients": "1 banana,2 eggs,½ tsp coconut oil",
+      "recipe":["Mash up the banana in a large bowl.","Whisk eggs and add to banana paste.","Fry gently in a pan on low-medium heat with a little heated oil or butter." ],
+      "imagepath": "assets/jsonimages/banana pancakes.jpg"
+    },
+    {
+      "name":"lemon pudding",
+       "nutrition": {
+        "calories":"576 kcal",
+        "protein": "4g",
+        "fats": "43g",
+        "carbs":"49g",
+        "Sugars":"41 g"
+      },
+       "ingredients": "2 cups (473ml) heavy whipping cream,2/3 cup (135g) granulated sugar,Finely grated zest of 1 lemon,6 tbsps (89ml) lemon juice,1 cup (about 150g) any berry to garnish",
+      "recipe":["In a medium saucepan over medium heat stir together the cream, sugar and lemon zest. Bring to a boil. Adjust the heat to a gentle boil and cook stirring often for 5 minutes.Watch carefully and stir frequently to keep the cream from boiling over.","Add the lemon juice and continue to simmer for 5 more minutes.Stir frequently.","Take the pan off the heat and let the cream cool for 5 minutes.","Strain the mixture through a fine-mesh strainer into a 4-cup liquid measuring cup or other container for easy pouring.Pour into 4 four-ounce ramekins or pretty stemmed glasses.","Refrigerate, uncovered, for 2 to 3 hours, or until set." ],
+      "imagepath": "assets/jsonimages/lemon pudding.jpg"
+    },
+  
+    {
+      "name": "Grape Sorbet",
+       "nutrition": {
+        "calories":"138 kcal",
+        "protein": "0.9g",
+        "fats": "0.5g",
+        "carbs":"35.8g",
+        "Sugars":"50 g"
+      },
+       "ingredients":"3 cups green grapes,2 Tbsp sugar or honey,1 tsp lemon zest finely grated,1 tsp lemon juice",
+      "recipe":["Remove grapes from stem and arrange onto a plate or baking sheet in a single layer. Freeze until solid, at least 4 hours.","In a food processor, puree frozen grapes, scraping down the sides as needed. Add remaining ingredients and puree until smooth." ],
+      "imagepath": "assets/jsonimages/grapes sorbet.jpg"
+    },
+    {
+      "name": "baked pears",
+       "nutrition": {
+        "calories":"126 kcal",
+        "protein": "1g",
+        "fats": "0g",
+        "carbs":"30g",
+        "Sugars":"45 g"
+      },
+       "ingredients": "ripe pears,1 tsp pure maple syrup,½ tsp cinnamon",
+      "recipe":["Pre-heat oven to 350 degrees F.","Using as many pears as you like, slice the pears in half and gently scoop out the seeds using a small cookie scoop or spoon.","Place the pears cut side up on a baking pan or in an oven-proof dish and drizzle each halve pear with ½ tsp maple syrup and sprinkle with 1/4 tsp sprinkle cinnamon.","Bake until soft and tender, about 25-30 minutes.","Serve warm with your choice of toppings." ],
+      "imagepath": "assets/jsonimages/baked pears.jpg"
+    },
+    {
+      "name":"strawberry syrup",
+       "nutrition": {
+        "calories":"106 kcal",
+        "protein": "0g",
+        "fats": "0g",
+        "carbs":"27g",
+        "Sugars":"26 g"
+      },
+       "ingredients": "1.5 cups strawberry,1 cup water,1 cup sugar.",
+      "recipe":["Combine the strawberries, water, and sugar in a saucepan set over medium high heat.","Bring to a boil, then reduce to a simmer, and cook for 20 minutes, until the liquid is deeply red and the strawberry are soft.","Strain the strawberries out from the simple syrup, making sure not to press down on the strawberries. Otherwise your syrup will be cloudy.","Chill the strawberry simple syrup in the fridge for an hour or two until cold." ],
+      "imagepath": "assets/jsonimages/Strawberry  Syrup.jpg"
+    }, 
+    {
+      "name":"watermelon milkshake",
+       "nutrition": {
+        "calories":"94 kcal",
+        "protein": "4.9g",
+        "fats": "2.8g",
+        "carbs":"12.9g",
+        "Sugars":"12.1 g"
+      },
+       "ingredients": "1½ cups diced watermelon,2¼ cups milk,2 tsps white sugar",
+      "recipe":["Process the watermelon and milk together in a blender until smooth. Add the sugar and blend another 10 seconds to incorporate. Serve immediately." ],
+      "imagepath": "assets/jsonimages/watermelon milkshake.jpg"
+    },
+    {
+      "name":"mango milkshake",
+       "nutrition": {
+        "calories":"94 kcal",
+        "protein": "5.9g",
+        "fats": "2.8g",
+        "carbs":"12.9g",
+        "Sugars":"12.1 g"
+      },
+       "ingredients": "1½ cups diced mango,2¼ cups milk,2 tsps white sugar",
+      "recipe":["Process the mango and milk together in a blender until smooth. Add the sugar and blend another 10 seconds to incorporate. Serve immediately." ],
+      "imagepath": "assets/jsonimages/mangomilkshake.jpg"
+    },
+    {
+      "name": "pineapple shake",
+       "nutrition": {
+        "calories":"94 kcal",
+        "protein": "5.9g",
+        "fats": "2.8g",
+        "carbs":"12.9g",
+        "Sugars":"12.1 g"
+      },
+       "ingredients": "2 cups chopped pineapple,ice cubes,1 cup coconut milk,2 tbsp sugar",
+      "recipe":["Add sugar. You can also skip sugar,Blend to a smooth puree","add 200 ml or about 3/4 cup thick coconut milk","Blend once more till smooth and everything is mixed evenly."],
+      "imagepath": "assets/jsonimages/pina colada.jpg"
+    },
+    {
+      "name":"idiyappam",
+       "nutrition": {
+        "calories":"77 kcal",
+        "protein": "1.2g",
+        "fats": "0.9g",
+        "carbs":"15.8g",
+        "Sugars":"0 g"
+      },
+       "ingredients": "1 cup rice Flour,1.5 cups water,1 tsp oil,1 tsp salt",
+      "recipe":["Take a pan and add in a cup of flour to the pan. Roast the flour on medium flame until the flour is very hot to the touch. Remove and set aside.","Take a pressure cooker and add in 1.5 cups of water, a teaspoon of oil and half a teaspoon of salt. Cover and cook for one whistle. Remove the pressure manually.","Immediately add in the roasted rice flour and mix well to combine. Cover the cooker, put the whistle on and let it rest for 15 minutes. Remember the stove is off. We are just resting the dough covered.Rest for 15 minutes.","After 15 minutes, open the cooker and mix the dough. Prepare small oblong balls and load it in the idiyappam press. Press the idiyappam strings onto idli plates.","After 10 minutes of steaming, rest the idli plates for 5 minutes before removing the idiyappam."],
+      "imagepath": "assets/jsonimages/idiyappam..jpg"
+    },
+    {
+      "name":"Bhindi Masala",
+       "nutrition": {
+        "calories":"196 kcal",
+        "protein":"2.9g",
+        "fats":"17g",
+        "carbs":"12g",
+        "Sugars":"5.5g"
+      },
+       "ingredients":"1 tbsp oil,1 onion,ginger-garlic paste,1 tsp coriander powder,1 tsp chilli powder,1 tsp turmeric,1 tsp garam masala,250g okra,salt as required",
+      "recipe":["Wash and pat dry each bhindi with a paper towel and then chop it into rounds","Heat 1 tablespoon oil in a pan on medium heat. Once the oil is hot, add the chopped bhindi to the pan. Let is cook on medium heat for 10 mins, then lower the heat to low and cook 5 more minutes. Stir often.","To another pan (or use the same pan after transferring bhindi to a bowl), now add the remaining 1.5 tablespoons oil on medium heat. Once the oil is hot, add cumin seeds and let them sizzle for few seconds.","Add chopped onion and saute for 2 to 3 minutes until soft. Then add the ginger and green chili and cook for 1 more minute.","Add chopped tomatoes and cook for around 4 minutes until soft and mushy.","Then add the spices – coriander powder, turmeric, amchur, red chili powder and salt. Mix the spices well with the masala."," I added a tablespoon of water at this point so that the spices do not burn. Stir well.","Add the cooked bhindi to the pan and mix well.","Set heat to low-medium and cook for 5 minutes without covering the pan."],
+      "imagepath": "assets/jsonimages/bhindi masala.jpg"
+    },
+    {
+      "name":"chappati",
+       "nutrition": {
+        "calories":"196 kcal",
+        "protein":"2.9g",
+        "fats":"17g",
+        "carbs":"12g",
+        "Sugars":"5.5g"
+      },
+       "ingredients":"140g flour,1 tsp salt,2 tbsp oil,180ml hot water",
+      "recipe":["In a large bowl, stir together the flours and salt. Use a wooden spoon to stir in the olive oil and enough water to make a soft dough that is elastic but not sticky.","Knead the dough on a lightly floured surface for 5-10 mins until it is smooth. Divide into 10 pieces, or less if you want bigger breads. Roll each piece into a ball. Let rest for a few mins.","Heat a frying pan over medium heat until hot, and grease lightly. On a lightly floured surface, use a floured rolling pin to roll out the balls of dough until very thin like a tortilla.","When the pan starts smoking, put a chapati on it. Cook until the underside has brown spots, about 30 seconds, then flip and cook on the other side. Put on a plate and keep warm while you cook the rest of the chapatis."],
+      "imagepath": "assets/jsonimages/chapati.jpg"
+    }
+]

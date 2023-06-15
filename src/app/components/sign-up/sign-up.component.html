@@ -1,0 +1,67 @@
+<div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="offset-md-2 col-lg-5 col-md-7 offset-lg-4 offset-md-3">
+                <div class="panel border bg-white">
+                    <div class="panel-heading mb-3">
+                        <h3 class="text-center pt-3 font-weight-bold">Register</h3>
+                    </div>
+                    <div class="panel-body p-3">
+                        <form [formGroup]="signUpForm" >
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="signUpForm.controls['firstname'].dirty && signUpForm.hasError('required','firstname') || signUpForm.hasError('minlength','firstname')">
+                                    <i class="fa fa-user p-2"></i>&nbsp;
+                                    <input type="text" formControlName="firstname"  placeholder="FirstName">
+                                </div>
+                                <small *ngIf="signUpForm.controls['firstname'].dirty && signUpForm.hasError('required','firstname')" class="text-danger"> {{ getErrorMsg('firstname', 'required') }}</small>
+                                <small *ngIf="signUpForm.controls['firstname'].errors?.['minlength']" class="text-danger">{{getErrorMsg('firstname','minlength')}}</small>
+                            </div>
+                            <div class="form-group pt-3">
+                                <div class="input-field">
+                                    <i class="fa fa-user p-2"></i>&nbsp;
+                                    <input type="text" formControlName="lastname" placeholder="LastName">
+                                </div>
+                            </div>
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="signUpForm.controls['email'].dirty && signUpForm.hasError('required','email') || signUpForm.hasError('email','email')">
+                                    <i class="fa fa-envelope p-2"></i>&nbsp;
+                                    <input type="text" formControlName="email"  placeholder="Email id">
+                                </div>
+                                <small *ngIf="signUpForm.controls['email'].dirty && signUpForm.hasError('required','email')" class="text-danger"> {{ getErrorMsg('email', 'required') }}</small>
+                                <small *ngIf="signUpForm.hasError('email','email')" class="text-danger">{{ getErrorMsg('email','email') }}</small>
+                            </div>
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="signUpForm.controls['username'].dirty && signUpForm.hasError('required','username') || signUpForm.hasError('minlength','username')">
+                                    <span class="fa fa-user p-2"></span>&nbsp;
+                                    <input type="text" formControlName="username"  placeholder="Username">
+                                </div>
+                                <small class="text-danger" *ngIf="signUpForm.controls['username'].dirty && signUpForm.hasError('required','username')">{{getErrorMsg('username','required')}}</small>
+                                <small *ngIf="signUpForm.controls['username'].errors?.['minlength']" class="text-danger">{{getErrorMsg('username','minlength')}}</small>
+                            </div>
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="signUpForm.controls['password'].dirty && signUpForm.hasError('required','password') || signUpForm.hasError('misMatch') || signUpForm.hasError('pattern')">
+                                    <span class="fa fa-lock p-2"></span>&nbsp;
+                                    <input [type]="type" formControlName="password" placeholder="Password">
+                                    <span (click)="hideShowPass()" class="fa {{eyeIcon}}"></span>
+                                </div>
+                                <small *ngIf="signUpForm.controls['password'].dirty && signUpForm.hasError('required','password')" class="text-danger">{{getErrorMsg('password','required')}}</small>
+                                <small *ngIf="signUpForm.controls['password'].errors?.['pattern']" class="text-danger">{{getErrorMsg('password','pattern')}}</small>
+                            </div>
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="signUpForm.controls['confirm_password'].dirty && signUpForm.hasError('required','confirm_password') || signUpForm.errors?.['misMatch']">
+                                    <span class="fa fa-lock p-2"></span>&nbsp;
+                                    <input [type]="type" formControlName="confirm_password"  placeholder="Confirm Password">
+                                    <span (click)="hideShowPass()" class="fa {{eyeIcon}}"></span>
+                                </div>
+                                <small *ngIf="signUpForm.controls['confirm_password'].dirty && signUpForm.hasError('required','confirm_password')" class="text-danger">{{getErrorMsg('confirm_password','required')}}</small>
+                                <small class="text-danger" *ngIf="signUpForm.errors?.['misMatch']">{{getErrorMsg('confirm_password','misMatch')}}</small>
+                            </div>
+                            <button type="submit" (click)="onSubmit()" class="btn-block mt-4 w-100">Sign Up</button>
+                            <div class="text-center pt-4 text-muted" style="cursor:pointer">Already have an account?<a id="forget" routerLink="/login">Login</a></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

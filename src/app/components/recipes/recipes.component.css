@@ -1,0 +1,101 @@
+.container {
+    margin-bottom: 30px;
+    margin-left: 0px !important;
+}
+.container .non-categories {
+    content:'';
+    position:fixed; 
+    top:-10px;
+    right: -275px;
+    bottom: 0;
+    width: 100%; 
+    background-image: url(https://www.supercook.com/statics/images/onboarding-bg.svg);
+    background-position:center; 
+}
+.non-categories img{
+    width:100%;
+}
+.container .categories {
+    width: 600px;
+}
+.container h3 {
+    font-weight:bold;
+}
+.wrapper a {
+    text-decoration: none;
+}
+.wrapper {
+    display: grid;
+    width: 245px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 0.3em;
+}
+.wrapper > div {
+    background: #e7e5e5;
+    padding: 0.3em;
+    width: 75px;
+    border-radius:18px;
+    height:70px;
+}
+.wrapper div img {
+    float: right;
+    height: 38px;
+}
+
+div.IngScrollBar{
+    overflow-y:scroll;
+    width:275px;
+    height:600px;
+    margin:205px 1px;
+    padding: 5px;
+    text-align: justify;
+    scroll-behavior: smooth;
+    position:fixed;
+    top:0;
+    left:0;
+}
+ .IngScrollBar::-webkit-scrollbar {
+    width:5px;
+}
+.IngScrollBar::-webkit-scrollbar-track {
+    -webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius:5px;
+}
+.IngScrollBar::-webkit-scrollbar-thumb {
+    border-radius:5px;
+    -webkit-box-shadow:inset 0 0 6px #31b55b; 
+} 
+
+.card {
+    position:relative;
+    margin-top: 23px;
+    margin-left:35%;
+    width: 50vw;
+    padding:2rem;
+    border-radius:2rem;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
+    border: 0.1rem solid rgba(0,0,0,.3);
+}
+
+.card1 {
+    position:relative;
+    margin-top: 220px;
+    margin-left:35%;
+    width: 50vw;
+    padding:2rem;
+    border-radius:2rem;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
+    border: 0.1rem solid rgba(0,0,0,.3);
+}
+.foodImage {
+    width: 230px;
+    height:300px;
+    border-radius: 1rem;
+}
+.wrapper .active{
+    background-color: #78da97;
+}
+
+
+
+

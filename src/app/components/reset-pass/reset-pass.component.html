@@ -1,0 +1,35 @@
+<div class="outer">
+    <div class="container">
+        <div class="row">
+            <div class="offset-md-2 col-lg-5 col-md-7 offset-lg-4 offset-md-3">
+                <div class="panel border bg-white">
+                    <div class="panel-heading mb-3">
+                        <h3 class="text-center pt-3 font-weight-bold">Reset Password</h3>
+                    </div>
+                    <div class="panel-body p-3">
+                        <form [formGroup]="resetPasswordForm" >
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="resetPasswordForm.controls['password'].dirty && resetPasswordForm.hasError('required','password')">
+                                    <i class="fa fa-user p-2"></i>&nbsp;
+                                    <input type="text" formControlName="password"  placeholder="Password">
+                                </div>
+                                <small *ngIf="resetPasswordForm.controls['password'].dirty && resetPasswordForm.hasError('required','password')" class="text-danger">{{getErrorMsg('password','required')}}</small>
+                                <small *ngIf="resetPasswordForm.controls['password'].errors?.['pattern']" class="text-danger">{{getErrorMsg('password','pattern')}}</small>
+                            </div>
+                            <div class="form-group pt-3">
+                                <div class="input-field" [class.error]="resetPasswordForm.controls['confirm_password'].dirty && resetPasswordForm.hasError('required','confirm_password')">
+                                    <i class="fa fa-user p-2"></i>&nbsp;
+                                    <input type="text" formControlName="confir_password" placeholder="Confirm Password">
+                                </div>
+                                <small class="text-danger" *ngIf="resetPasswordForm.errors?.['misMatch']">{{getErrorMsg('confirm_password','misMatch')}}</small>
+                            `   <small *ngIf="resetPasswordForm.controls['confirm_password'].dirty && resetPasswordForm.hasError('required','confirm_password')" class="text-danger">{{getErrorMsg('confirm_password','required')}}</small>
+
+                            </div>
+                            <button type="submit" class="btn-block mt-4 w-100">Reset</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

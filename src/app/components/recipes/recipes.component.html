@@ -1,0 +1,278 @@
+<app-nav></app-nav>
+<div class="container">
+  <div class="non-categories">
+  </div>
+  <ng-container  *ngIf="showContainer">
+    <div *ngFor="let result of searchResults , let i=index" class="card food" [ngClass]="i==0 ? 'card1 food': 'card food'">
+      <div class="col-md-5">
+        <img class="foodImage" [src]="result.imagepath" />
+      </div>
+      <h4 id="foodName">{{ result.name }}</h4>
+      <div class="stars" style="color: gold; font-size: 1.7rem; padding: 2rem 1rem; margin-top: -40px;">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="far fa-star"></i>
+      </div>
+      <div class="col-md-8">
+        <h4 class="card-title" style="float: right; margin-top: -400px">
+          <span class="w3-tag w3-red" style="margin-right: -70px; height: 38px; padding: 0.2em">
+            <i class="fa-solid fa-list"></i>
+            &nbsp;&nbsp;&nbsp;Ingredients&nbsp;&nbsp;&nbsp;
+          </span>
+        </h4>
+        <ul id="ingredientList" style="margin-right: -70px; float: right; margin-top: -350px">
+          <li *ngFor="let ingredient of result.ingredients.split(',')">{{ ingredient }}</li>
+        </ul>
+        <h4>
+          <span class="w3-tag w3-red" style="margin-right: -60px; padding: 5x; height: 35px;">
+            <i class="fa-solid fa-diamond-turn-right"></i>&nbsp;&nbsp;&nbsp;Instructions&nbsp;&nbsp;&nbsp;
+          </span>
+        </h4>
+        <div class="description" style="width: 46vw;">
+          <p *ngFor="let recipeItem of result.recipe; let i = index">{{ i + 1 }}.{{ recipeItem }}</p>
+        </div>
+      </div>
+    </div>
+  </ng-container>  
+    <div class="IngScrollBar" >
+      <div class="container categories">
+        <h3>Vegetables</h3>
+        <div class="wrapper">
+          <div class="ingFilter" id="asparagus" [ngClass]="{'active':selectedButton==='Asparagus'}">
+          Asparagus
+            <img src="./assets/images/icon8-asparagus.png" style="margin-right: 12px"  (click)="searchFood('Asparagus')"/>
+          </div>
+          <div class="ingFilter" id="beetroot" [ngClass]="{'active':selectedButton==='Beetroot'}">
+            &nbsp;&nbsp;Beetroot
+            <img src="./assets/images/icons8-beet-48.png" style="margin-right: 12px" (click)="searchFood('Beetroot')"/>
+          </div>
+          <div class="ingFilter" id="broccoli" [ngClass]="{'active':selectedButton==='Broccoli'}">
+            &nbsp;&nbsp;&nbsp;Broccoli
+            <img src="./assets/images/icons8-broccoli-48.png" style="margin-right: 12px" (click)="searchFood('Broccoli')"/>
+          </div>
+          <div class="ingFilter" id="cabbage" [ngClass]="{'active':selectedButton==='Cabbage'}">
+            &nbsp;&nbsp;Cabbage
+            <img src="./assets/images/icons8-cabbage-48.png"style="margin-right: 12px" (click)="searchFood('Cabbage')"/>
+          </div>
+          <div class="ingFilter" id="chilli" [ngClass]="{'active':selectedButton==='Chilli'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chilli
+            <img src="./assets/images/chili.png" style="margin-right: 12px" (click)="searchFood('Chilli')"/>
+          </div>
+          <div class="ingFilter" id="cucumber" [ngClass]="{'active':selectedButton==='Cucumber'}">
+            Cucumber
+            <img src="./assets/images/icons8-cucumber-48.png" style="margin-right: 12px" (click)="searchFood('Cucumber')"/>
+          </div>
+          <div class="ingFilter" id="brinjal" [ngClass]="{'active':selectedButton==='Brinjal'}">
+            &nbsp;&nbsp;&nbsp;Brinjal
+            <img src="./assets/images/icons8-eggplant-53.png" style="margin-right: 12px" (click)="searchFood('Brinjal')"/>
+          </div>
+          <div class="ingFilter" id="lettuce" [ngClass]="{'active':selectedButton==='Lettuce'}">
+            &nbsp;&nbsp;&nbsp;Lettuce
+            <img src="./assets/images/icons8-lettuce-48.png" style="margin-right: 12px" (click)="searchFood('Lettuce')"/>
+          </div>
+          <div class="ingFilter" id="onion" [ngClass]="{'active':selectedButton==='Onion'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Onion
+            <img src="./assets/images/icons8-onion-48.png" style="margin-right: 12px"  (click)="searchFood('Onion')"/>
+          </div>
+          <div class="ingFilter" id="paprika" [ngClass]="{'active':selectedButton==='Paprika'}">
+            &nbsp;&nbsp;&nbsp;Paprika
+            <img src="./assets/images/icons8-paprika-48.png" style="margin-right: 12px" (click)="searchFood('Paprika')"/>
+          </div>
+          <div class="ingFilter" id="peas" [ngClass]="{'active':selectedButton==='Peas'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Peas
+            <img src="./assets/images/icons8-peas-48.png" style="margin-right: 12px" (click)="searchFood('Peas')"/>
+          </div>
+          <div class="ingFilter" id="potato" [ngClass]="{'active':selectedButton==='Potato'}">
+            &nbsp;&nbsp;Potato
+            <img src="./assets/images/icons8-potato-48.png" style="margin-right: 12px" (click)="searchFood('Potato')"/>
+          </div>
+          <div class="ingFilter" id="pumpkin" [ngClass]="{'active':selectedButton==='Pumpkin'}">
+            &nbsp;&nbsp;Pumpkin
+            <img src="./assets/images/icons8-pumkin-48.png" style="margin-right: 12px" (click)="searchFood('Pumpkin')"/>
+          </div>
+          <div class="ingFilter" id="sesame" [ngClass]="{'active':selectedButton==='Sesame'}">
+            &nbsp;&nbsp;&nbsp;Sesame
+            <img src="./assets/images/icons8-sesame-48.png" style="margin-right: 12px" (click)="searchFood('Sesame')"/>
+          </div>
+          <div class="ingFilter" id="soyabean" [ngClass]="{'active':selectedButton==='Soyabean'}">
+            &nbsp;Soyabean
+            <img src="./assets/images/icons8-soy-48.png" style="margin-right: 12px" (click)="searchFood('Soyabean')"/>
+          </div>
+          <div class="ingFilter" id="spinach" [ngClass]="{'active':selectedButton==='Spinach'}">
+            &nbsp;&nbsp;Spinach
+            <img src="./assets/images/spinach.png" style="margin-right: 12px" (click)="searchFood('Spinach')"/>
+          </div>
+          <div class="ingFilter" id="tomato" [ngClass]="{'active':selectedButton==='Tomato'}">
+            &nbsp;&nbsp;Tomato
+            <img src="./assets/images/icons8-tomato-48.png" style="margin-right: 12px" (click)="searchFood('Tomato')"/>
+          </div>
+          <div class="ingFilter" id="wheat" [ngClass]="{'active':selectedButton==='Wheat'}">
+            &nbsp;&nbsp;&nbsp;Wheat
+            <img src="./assets/images/icons8-wheat-48.png" style="margin-right: 12px" (click)="searchFood('Wheat')"/>
+          </div>
+        </div>
+      </div>
+      <div class="container categories">
+        <h3>Fruits</h3>
+        <div class="wrapper">
+          <div class="ingFilter" id="apple" [ngClass]="{'active':selectedButton==='Apple'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Apple
+            <img src="./assets/images/icons8-apple-48.png" style="margin-right: 12px" (click)="searchFood('Apple')"/>
+          </div>
+          <div class="ingFilter" id="avocado" [ngClass]="{'active':selectedButton==='Avocado'}">
+            &nbsp;&nbsp;Avocado
+            <img src="./assets/images/icons8-avocado-48.png" style="margin-right: 12px" (click)="searchFood('Avocado')"/>
+          </div>
+          <div class="ingFilter" id="banana" [ngClass]="{'active':selectedButton==='Banana'}">
+            &nbsp;&nbsp;&nbsp;Banana
+            <img src="./assets/images/icons8-banana-48.png" style="margin-right: 12px" (click)="searchFood('Banana')"/>
+          </div>
+          <div class="ingFilter" id="lemon" [ngClass]="{'active':selectedButton==='Lemon'}">
+            &nbsp;&nbsp;&nbsp;Lemon
+            <img src="./assets/images/icons8-lemon-48.png" style="margin-right: 12px" (click)="searchFood('Lemon')"/>
+          </div>
+          <div class="ingFilter" id="grapes" [ngClass]="{'active':selectedButton==='Grapes'}">
+            &nbsp;&nbsp;&nbsp;Grapes
+            <img src="./assets/images/icons8-grapes-48.png" style="margin-right: 12px" (click)="searchFood('Grapes')"/>
+          </div>
+          <div class="ingFilter" id="pear" [ngClass]="{'active':selectedButton==='Pear'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pear
+            <img src="./assets/images/icons8-pear-48.png" style="margin-right: 12px" (click)="searchFood('Pear')"/>
+          </div>
+          <div class="ingFilter" id="mango" [ngClass]="{'active':selectedButton==='Mango'}">
+            &nbsp;&nbsp;&nbsp;Mango
+            <img src="./assets/images/icons8-mango-48.png" style="margin-right: 12px" (click)="searchFood('Mango')"/>
+          </div>
+          <div class="ingFilter" id="pineapple" [ngClass]="{'active':selectedButton==='Pineapple'}">
+            &nbsp;Pineapple
+            <img src="./assets/images/icons8-pineapple-48.png" style="margin-right: 12px" (click)="searchFood('Pineapple')"/>
+          </div>
+          <div class="ingFilter" id="strawberry" [ngClass]="{'active':selectedButton==='Strawberry'}">
+            Strawberry
+            <img src="./assets/images/icons8-strawberry-48.png" style="margin-right: 12px" (click)="searchFood('Strawberry')"/>
+          </div>
+          <div class="ingFilter" id="watermelon" [ngClass]="{'active':selectedButton==='Watermelon'}">
+            Watermelon
+            <img src="./assets/images/icons8-watermelon-48.png" style="margin-right: 12px" (click)="searchFood('Watermelon')"/>
+          </div>
+        </div>
+      </div>
+      <div class="container categories">
+        <h3>Non-Vegeterian</h3>
+        <div class="wrapper">
+          <div class="ingFilter" id="beef" [ngClass]="{'active':selectedButton==='Beef'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beef
+            <img src="./assets/images/icons8-beef-48.png" style="margin-right: 12px" (click)="searchFood('Beef')"/>
+          </div>
+          <div class="ingFilter" id="chicken" [ngClass]="{'active':selectedButton==='Chicken'}">
+            &nbsp;&nbsp;Chicken
+            <img src="./assets/images/icons8-chicken-48.png" style="margin-right: 12px" (click)="searchFood('Chicken')"/>
+          </div>
+          <div class="ingFilter" id="crab" [ngClass]="{'active':selectedButton==='Crab'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crab
+            <img src="./assets/images/icons8-crab-48.png" style="margin-right: 12px" (click)="searchFood('Crab')"/>
+          </div>
+          <div class="ingFilter" id="duck" [ngClass]="{'active':selectedButton==='Duck'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duck
+            <img src="./assets/images/icons8-duck-48.png" style="margin-right: 12px" (click)="searchFood('Duck')"/>
+          </div>
+          <div class="ingFilter" id="egg" [ngClass]="{'active':selectedButton==='Egg'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Egg
+            <img src="./assets/images/icons8-egg-48.png" style="margin-top: 3px; margin-right: 12px" (click)="searchFood('Egg')"/>
+          </div>
+          <div class="ingFilter" id="fish" [ngClass]="{'active':selectedButton==='Fish'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fish
+            <img src="./assets/images/icons8-fish-48.png" style="margin-right: 12px" (click)="searchFood('Fish')"/>
+          </div>
+          <div class="ingFilter" id="mutton" [ngClass]="{'active':selectedButton==='Mutton'}">
+            &nbsp;&nbsp;&nbsp;Mutton
+            <img src="./assets/images/icons8-mutton-48.png" style="margin-right: 12px" (click)="searchFood('Mutton')"/>
+          </div>
+          <div class="ingFilter" id="pork" [ngClass]="{'active':selectedButton==='Pork'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pork
+            <img src="./assets/images/icons8-pork-leg-48.png" style="margin-right: 12px" (click)="searchFood('Pork')"/>
+          </div>
+          <div class="ingFilter" id="prawn" [ngClass]="{'active':selectedButton==='Prawn'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Prawn
+            <img src="./assets/images/icons8-prawn-48.png" style="margin-right: 12px" (click)="searchFood('Prawn')"/>
+          </div>
+          <div class="ingFilter" id="shellfish" [ngClass]="{'active':selectedButton==='Shellfish'}">
+            &nbsp;&nbsp;Shellfish
+            <img src="./assets/images/icons8-shellfish-48.png" style="margin-right: 12px" (click)="searchFood('Shellfish')"/>
+          </div>
+        </div>
+      </div>
+      <div class="container categories">
+        <h3>Other</h3>
+        <div class="wrapper">
+          <div class="ingFilter" id="bread" [ngClass]="{'active':selectedButton==='Bread'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Bread
+            <img src="./assets/images/icons8-bread-48.png" style="margin-right: 12px" (click)="searchFood('Bread')"/>
+          </div>
+          <div class="ingFilter" id="cheese" [ngClass]="{'active':selectedButton==='Cheese'}">
+            &nbsp;&nbsp;&nbsp;Cheese
+            <img src="./assets/images/icons8-cheese-48.png" style="margin-right: 12px" (click)="searchFood('Cheese')"/>
+          </div>
+          <div class="ingFilter" id="chocolate" [ngClass]="{'active':selectedButton==='Chocolate'}">
+            &nbsp;Chocolate
+            <img src="./assets/images/icons8-chocolate-48.png" style="margin-right: 12px" (click)="searchFood('Chocolate')"/>
+          </div>
+          <div class="ingFilter" id="cinnamon" [ngClass]="{'active':selectedButton==='Cinnamon'}">
+            Cinnamon
+            <img src="./assets/images/icons8-cinnamon-sticks-48.png" style="margin-right: 12px" (click)="searchFood('Cinnamon')"/>
+          </div>
+          <div class="ingFilter" id="coconut" [ngClass]="{'active':selectedButton==='Coconut'}">
+            &nbsp;&nbsp;Coconut
+            <img src="./assets/images/icons8-coconut-48.png" style="margin-right: 12px" (click)="searchFood('Coconut')"/>
+          </div>
+          <div class="ingFilter" id="cookies" [ngClass]="{'active':selectedButton==='Cookies'}">
+            &nbsp;&nbsp;Cookies
+            <img src="./assets/images/icons8-cookies-48.png" style="margin-right: 12px" (click)="searchFood('Cookies')"/>
+          </div>
+          <div class="ingFilter" id="nuts" [ngClass]="{'active':selectedButton==='Nuts'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuts
+            <img src="./assets/images/icons8-food-48.png" style="margin-right: 12px" (click)="searchFood('Nuts')"/>
+          </div>
+          <div class="ingFilter" id="honey" [ngClass]="{'active':selectedButton==='Honey'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Honey
+            <img src="./assets/images/icons8-honey-48.png" style="margin-right: 12px" (click)="searchFood('Honey')"/>
+          </div>
+          <div class="ingFilter" id="milk" [ngClass]="{'active':selectedButton==='Milk'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milk
+            <img src="./assets/images/icons8-milk-48.png" style="margin-right: 12px" (click)="searchFood('Milk')"/>
+          </div>
+          <div class="ingFilter" id="mushroom" [ngClass]="{'active':selectedButton==='Mushroom'}">
+            Mushroom
+            <img src="./assets/images/icons8-mushroom-48.png" style="margin-right: 12px" (click)="searchFood('Mushroom')"/>
+          </div>
+          <div class="ingFilter" id="oil" [ngClass]="{'active':selectedButton==='Oil'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oil
+             <img src="./assets/images/icons8-olive-oil-48.png" style="margin-right: 12px" (click)="searchFood('Oil')"/>
+          </div>
+          <div class="ingFilter" id="salt" [ngClass]="{'active':selectedButton==='Salt'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salt
+            <img src="./assets/images/icons8-salt-shaker-48.png" style="margin-right: 12px" (click)="searchFood('Salt')"/>
+          </div>
+          <div class="ingFilter" id="sauce" [ngClass]="{'active':selectedButton==='Sauce'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Sauce
+            <img src="./assets/images/icons8-sauce-48.png" style="margin-right: 12px" (click)="searchFood('Sauce')"/>
+          </div>
+          <div class="ingFilter" id="spaghetti" [ngClass]="{'active':selectedButton==='Spaghetti'}">
+            &nbsp;Spaghetti
+            <img src="./assets/images/icons8-spaghetti-48.png" style="margin-right: 12px" (click)="searchFood('Spaghetti')"/>
+          </div>
+          <div class="ingFilter" id="spice" [ngClass]="{'active':selectedButton==='Spice'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Spice
+            <img src="./assets/images/icons8-spice-48.png" style="margin-right: 12px" (click)="searchFood('Spice')"/>
+          </div>
+          <div class="ingFilter" id="sugar" [ngClass]="{'active':selectedButton==='Sugar'}">
+            &nbsp;&nbsp;&nbsp;&nbsp;Sugar
+            <img src="./assets/images/icons8-sugar-48.png" style="margin-right: 16px" (click)="searchFood('Sugar')"/>
+          </div>
+        </div>
+      </div> 
+    </div>
+</div>
+

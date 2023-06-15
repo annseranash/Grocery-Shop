@@ -1,0 +1,22 @@
+<div class="container">
+    <div class="row">
+        <ng-container *ngFor="let item of productList | filter:searchKey:'name';let i=index">
+            <div class="card col-md-3">
+                <div class="text-center">
+                    <img src="{{item.imageURL}}" alt="" class="image-fluid">
+                </div>
+            <h5 style="overflow:hidden;text-overflow:ellipsis;max-width: 150ch;">{{item.name}}</h5>
+            <p class="desc">{{item.description}}</p>
+            <p><strong>Price:</strong> ₹{{item.price}}</p>
+        <button class="btn-addToCart" (click)="addToCart(i)" #updateAddToCartBtn>
+            Add to Cart
+            <i class="fa fa-plus"></i>
+            <span *ngIf="item.quantity>0">
+                <span class="quantity" *ngIf="cartService.showMinus[i]">{{item.quantity}}</span>
+                <i *ngIf="cartService.showMinus[i]" class="fa fa-minus" (click)="$event.stopPropagation();decreaseQuantity(i)"></i>
+            </span>
+        </button>
+        </div>
+        </ng-container>
+    </div>
+</div>
