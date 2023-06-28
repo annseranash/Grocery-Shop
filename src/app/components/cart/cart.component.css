@@ -58,6 +58,18 @@
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
 }
+.proceed-btn{
+    background-color:#ffd814;
+    border:none;
+    padding: 10px;
+    border-radius:10px;
+    font-size: 13px !important;
+    line-height: 1.6;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    margin-left: -20px;
+}
 
 .qty-btn {
      cursor: pointer;

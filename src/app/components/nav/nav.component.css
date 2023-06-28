@@ -59,9 +59,9 @@ strong{
     border:none;
     background: none;
     font-size:25px;
-    margin-left: 40px;
     cursor:pointer;
 }
+
 .login{
     color:#2db457;
     border:none;
@@ -101,7 +101,7 @@ strong{
     display: flex;
     align-items: center;
     padding: 5px 10px;
-  }
+}
   
 .user-greeting span {
     font-size: 20px;

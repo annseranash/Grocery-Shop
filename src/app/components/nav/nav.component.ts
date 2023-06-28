@@ -1,5 +1,5 @@
 import { HttpClient } from '@angular/common/http';
-import { Component, Input, OnInit} from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 import { Router } from '@angular/router';
 import { GroceryItem } from 'src/app/data.interface';
 import { ApiService } from 'src/app/services/api.service';
@@ -25,7 +25,6 @@ export class NavComponent implements OnInit{
   @Input() EmptyCart: any;
   @Input() decrementCartItem: any;
   userId:any;
-  data: string;
   defaultSortingOrder='';
   constructor(public authService:AuthService,
               private cartService:CartService,
@@ -36,6 +35,8 @@ export class NavComponent implements OnInit{
               ){}
 public totalItems:number=0;
 public searchTerm:any='';
+isSearchTouched:boolean=false;
+@Output() searchTouched:EventEmitter<boolean>=new EventEmitter<boolean>();
   logout(){
     this.authService.onLogout();
   }
@@ -44,7 +45,7 @@ public searchTerm:any='';
     this.userId=this.authService.getUserId();
     this.cartService.getCartProduct(this.userId)
     .subscribe(res=>{
-      this.totalItems=res.length;
+      this.totalItems=res.filter((item)=>!item.is_Ordered).length;
     });
     this.currentPath=window.location.href.split('/')[3];
     this.apiService.getProducts().subscribe(res=>{
@@ -68,6 +69,7 @@ public searchTerm:any='';
      }
     }
   }
+
   addCartItem(newItem:string){
     this.cartService.getCartProduct(this.userId)
     .subscribe(res=>{
@@ -89,6 +91,11 @@ public searchTerm:any='';
       this.recipeService.updateContainerVisibility(true);//show the container
       this.searchTerm='';
     });
+  }
+
+  onSearchTouched(){
+    this.isSearchTouched=true;
+    this.searchTouched.emit(this.isSearchTouched);
   }
 
   public selectCategory(categoryId: number){

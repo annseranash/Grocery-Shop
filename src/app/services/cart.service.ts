@@ -51,7 +51,9 @@ export class CartService {
       imageURL: product.imageURL,
       price: product.price,
       IsDeleted: product.IsDeleted,
-      userId: this.userId
+      userId: this.userId,
+      Is_Ordered:product.Is_Ordered,
+      Ordered_Date:product.Ordered_Date
     };
     return this.http.post<any[]>(`${environment.createCart}/${this.userId}`, body)
       .subscribe(res => {
@@ -85,7 +87,9 @@ export class CartService {
       imageURL: product.imageURL,
       price: product.price,
       IsDeleted: product.IsDeleted,
-      userId: this.userId
+      userId: this.userId,
+      Is_Ordered:product.Is_Ordered,
+      Ordered_Date:product.Ordered_Date
     };
       return this.http.post<any>(`${environment.createCart}/${this.userId}`, body)
     .subscribe(res => {
@@ -117,6 +121,5 @@ return this.getCartProduct(this.userId).pipe(
       return grandTotal;
     })
   );
-
 }
 }

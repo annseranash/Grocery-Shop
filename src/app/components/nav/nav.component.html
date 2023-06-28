@@ -9,22 +9,22 @@
     <img src="assets/logo.png" height="50" width="auto" style="margin-right:10px">
     <strong style="font-size:30px;color:#2db457">Choose Fresh</strong> 
     <div class="form-group">
-      <input type="text" class="form-control" [(ngModel)]="searchTerm" (keyup)="search($event)" placeholder="Search here">
+      <input type="text" class="form-control" [(ngModel)]="searchTerm" (keyup)="search($event)" (ngModelChange)="onSearchTouched()" placeholder="Search here">
     </div>
     <button class="fa fa-search search-icon" (click)="searchRecipe()"></button>
   </div>
-  <button *ngIf="loggedInUserName && currentPath!='dashboard'" routerLink="/cart" class="cart-icon">
+  <button *ngIf="loggedInUserName && currentPath!='dashboard' " routerLink="/cart" class="cart-icon">
     <img src="https://choosemyfresh.com/catalog/view/theme/brit/img/icon-cart-hover.png" width="25">
   </button>
   <button *ngIf="loggedInUserName && currentPath!='dashboard'" style="font-size:7px;margin-left:-5px;border:none" class="badge bg-danger">{{ totalItems }}</button>
   <button *ngIf="loggedInUserName && currentPath!='dashboard'" (click)="logout()" class="logout">
-    <i class="fa fa-sign-out"></i>
+    <i class="fa fa-sign-out" style="margin-left:40px"></i>
   </button>
   <button *ngIf="!loggedInUserName && currentPath==='dashboard'" class="login" routerLink="/login">
     <i class="fa fa-user"></i>
   </button>
-  <div *ngIf="loggedInUserName && currentPath!='dashboard'" style="margin-left: -285px" class="user-greeting" >
-    <span class="">Hi {{ loggedInUserName | titlecase }}</span>
+  <div *ngIf="loggedInUserName && currentPath!='dashboard'" class="user-greeting" style="margin-left:-280px" >
+ <span class="">Hi {{ loggedInUserName | titlecase }}</span>
   </div>
 </nav>
 

@@ -3,7 +3,7 @@
 <div class="container" style="margin-top: 235px;">
     <div class="card-table">
         <div class="cart-product">
-            <table class="table table-responsive" >
+            <table class="table table-responsive">
                 <thead>
                     <tr>
                         <th>Sr.No</th>
@@ -16,7 +16,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor="let item of product;let i=index;" >
+                    <tr *ngFor="let item of product;let i=index;">
                             <td>{{i+1}}</td>
                             <td><img style="width:120px;margin-left: -10px;" src="{{item.imageURL}}"></td>
                             <td>{{item.name}}</td>
@@ -33,6 +33,7 @@
                     <tr>
                         <td colspan="4"></td>
                         <td><button (click)="emptycart()" class="empty-btn" >empty cart</button></td>
+                        <td><button (click)="proceedToBuy()" class="proceed-btn">Proceed To Buy</button></td>
                         <td><button routerLink="/home"class="shop-btn">shop more</button></td>
                         <td><strong style="font-size:17px;">Grand Total:&#8377;{{grandTotal}}</strong></td>
                     </tr>

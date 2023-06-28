@@ -11,6 +11,8 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { ScrollTopComponent } from './components/scroll-top/scroll-top.component';
 import { NavComponent } from './components/nav/nav.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
+import { CheckoutComponent } from './components/checkout/checkout.component';
+import { OrdersComponent } from './components/orders/orders.component';
 
 const routes: Routes = [
   {path:'',redirectTo:'dashboard',pathMatch:'full'},
@@ -23,6 +25,8 @@ const routes: Routes = [
   {path:'home',component:HomeComponent,canActivate: [AuthGuard]},
   {path:'products',component:ProductsComponent,canActivate: [AuthGuard]},
   {path:'cart',component:CartComponent,canActivate: [AuthGuard]},
+  {path:'checkout',component:CheckoutComponent,canActivate: [AuthGuard]},
+  {path:'orders',component:OrdersComponent,canActivate: [AuthGuard]},
   {path:'recipes',component:RecipesComponent,canActivate: [AuthGuard]}
 ];
 

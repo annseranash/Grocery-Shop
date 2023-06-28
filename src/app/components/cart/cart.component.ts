@@ -1,4 +1,7 @@
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import {Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
+import { environment } from 'src/app/environment';
 import { AuthService } from 'src/app/services/auth.service';
 import { CartService } from 'src/app/services/cart.service';
 @Component({
@@ -17,7 +20,8 @@ export class CartComponent implements OnInit {
   index: any;
   constructor(
     private cartService: CartService,
-    private authService: AuthService
+    private authService: AuthService,
+    private router:Router
   ) {
     this.userId=this.authService.getUserId();
   }
@@ -25,11 +29,12 @@ export class CartComponent implements OnInit {
     this.userId = this.authService.getUserId();
     this.cartService.getCartProduct(this.userId).subscribe((res) => {
       this.decrementCartItem = false;
-      this.product = res;
+      this.product=res.filter((item)=>!item.is_Ordered);
       this.cartService.getTotalPrice().subscribe((grandTotal: number) => {
         this.grandTotal = grandTotal;
       });
     });
+    
   }
   removeItem(userId:any, product: any) {
     this.decrementCartItem = false;
@@ -61,9 +66,13 @@ export class CartComponent implements OnInit {
         this.product = [];
         this.decrementCartItem = false;
       });
-    })
-    
+    })   
   }
+  proceedToBuy(){
+    this.router.navigate(['checkout']);
+  }
+  
+
   incrementCart(index: number) {
     this.cartService.getCartProduct(this.userId).subscribe((res: any) => {
       this.product = res;
@@ -74,7 +83,7 @@ export class CartComponent implements OnInit {
               this.grandTotal = grandTotal;
             });
           }, 20);  
-      })    
+      });    
   }
 
   decrementCart(index: number) {
@@ -95,5 +104,9 @@ export class CartComponent implements OnInit {
       }
     });
   }
-
 }
+
+
+
+
+

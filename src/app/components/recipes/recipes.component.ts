@@ -14,13 +14,11 @@ export class RecipesComponent {
   constructor(
     private recipeService:RecipeService,
     private http:HttpClient){}
-
   ngOnInit(){
     this.recipeService.currentResults.subscribe((results:any[])=>{
       this.searchResults=results;
       console.log(this.searchResults,"results from food.json");
     })
-
     this.recipeService.currentContainerVisibility.subscribe((visibility)=>{
       this.showContainer=visibility;
     })    
@@ -28,8 +26,8 @@ export class RecipesComponent {
   searchFood(ingredient:string){
     this.selectedButton=ingredient;
     this.searchResults=[];
-    this.http.get<any[]>('./assets/food.json').subscribe((data)=>{
-      let foodData=data.filter((food)=>food.ingredients.toLowerCase().includes(ingredient.toLowerCase()));
+    this.recipeService.fetchRecipe(ingredient).subscribe((data)=>{
+      let foodData=data;
       this.searchResults=[...this.searchResults,...foodData]
       console.log(this.searchResults);
       this.recipeService.updateContainerVisibility(true);
@@ -37,6 +35,10 @@ export class RecipesComponent {
     (error)=>{
       console.log('Error in loading/parsing the JSON file:',error);
     })    
-
   }
+  handleSearch(isSearchTouched:boolean){
+    this.selectedButton='';
+    console.log("search triggered");
+  }
+
 }

@@ -95,6 +95,11 @@ div.IngScrollBar{
 .wrapper .active{
     background-color: #78da97;
 }
+.wrapper .inactive{
+    background-color:#e7e5e5;
+}
+
+
 
 
 

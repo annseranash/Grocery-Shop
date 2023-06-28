@@ -1,0 +1,70 @@
+.title{
+    margin-top:230px;
+}
+.wrapper{
+    margin-top:-40px;
+    padding:60px;
+}
+.product-details {
+    margin: 8px; 
+}
+.orders.card{
+    width: 50%;
+    height: 130px;
+    padding:15px;
+    background:#f0f6e5;
+}
+
+.prod-desc{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    margin-left: 200px;
+    margin-top: -85px;
+    font-family: cursive;
+}
+.success-text{
+    display:block;
+    font-family: JioType,helvetica,arial,sans-serif;
+    font-weight: 900;
+    text-transform: none;
+    font-size: 2rem;
+    letter-spacing: -.96px;
+    line-height: 1;
+}
+.payment{
+    width: 30%;
+    margin: 105px;
+    position: absolute;
+    top: 365px;
+    right: 20px;
+    border-radius: 24px;
+    border:none;
+}
+.payment-details{
+    background:#2db457  no-repeat 27px center;
+    padding: 10px 20px 10px 60px;
+    border-radius: 24px 24px 0 0;
+}
+.payment-details span{
+    margin-left:93px;
+    color:white;
+    font-family: JioType,helvetica,arial,sans-serif;
+    font-weight: bold;
+    text-transform: none;
+    font-size:18px;
+}
+.list-group-item{
+    font-family: JioType,helvetica,arial,sans-serif;
+    font-weight: 500;
+    text-transform: none;
+    font-size: 1rem;
+    letter-spacing: -.08px;
+    line-height: 1.5;
+    color:black;
+    float: left;
+}
+.list-group-item span{
+    float:right;
+    color:#5A5A5A;
+}

@@ -234,6 +234,32 @@
   "imagepath": "assets/jsonimages/skillet quinoa salad.jpg"
   },
   {
+    "name": "Kerala Beef Curry",
+    "nutrition": {
+      "calories":"816 kcal",
+      "protein": "46.4g",
+      "fats": "16g",
+      "carbs":"121g",
+      "Sugars":"2g"
+    },
+     "ingredients": "2 lb beef,2 tablespoon coconut oil,3 onion chopped,3 tomatoes diced,1 green chili sliced,8 clove garlic minced,1-inch piece ginger minced,curry leaves,1 tablespoon chili powder,2 tablespoon coriander powder,1 teaspoon garam masala,1 cup water,Salt and pepper to taste",
+    "recipe":["Heat coconut oil in a pressure cooker (or Instant Pot) over medium heat. Add in onion and salt. Cook until soft, about 5 minutes.","Add tomatoes and green chili. Saute until the tomatoes become soft and juicy. Then add in garlic, ginger, and curry leaves and cook until fragrant, about 2 minutes.","Add in the beef, followed by chili powder, coriander powder, black pepper, and garam masala. Mix well to combine. Add in water.","Close the lid of the pressure cooker and cook for 20 to 30 minutes (4 to 6 whistles) or until beef is thoroughly cooked through. Allow the pressure to release completely before opening the pressure cooker."],
+    "imagepath": "assets/jsonimages/beef curry.jpg"
+    },
+    {
+      "name": "Beef Cutlet",
+       "nutrition": {
+        "calories":"95 kcal",
+        "protein": "3.4g",
+        "fats": "0.7",
+        "carbs":"16.5g",
+        "Sugars":"8 g"
+      },
+       "ingredients": "Ground beef,onion,green chilli,curry leaves,turmeric powder,garlic,fennel powder,pepper powder,garam masala,potato",
+      "recipe":["Chop onion into small pieces. Crush green chillies in a chopper or mixer. Heat oil in a pan. When oil is hot, add the sliced onions, curry leaves, and salt. Adding salt helps the onion to get cooked fast.","While it gets sauteed, cook potatoes in a separate pan or cooker. If you are using the cooker, switch it off after 2 whistles or until it is done.","Crush or grind ginger and garlic. Once onion turns light brown, add gingergarlic mixture to it. Once it is sauteed well, add fennel powder, pepper powder and garam masala.","Saute it for a couple of minutes and then add cleaned ground beef. Cook it until beef is done. Ground beef gets cooked soon. It might just take around 10 to 15 minutes. Saute it well and make it dry. Refer notes if you don't want to use ground beef.","To fry  Make round balls and roll it into oval or other desired shapes. Beat egg well. Dip each cutlet in egg and then roll it in bread crumbs. "],
+      "imagepath": "assets/jsonimages/Beef Cutlet.jpg"
+  },
+  {
   "name": "Slow cooker broccoli beef",
   "nutrition": {
     "calories":"814 kcal",
@@ -311,6 +337,20 @@
   "recipe":["In a large bowl, combine cabbage, red apple, green apple, carrot, red bell pepper, and green onions. In a small bowl, mix together mayonnaise, brown sugar, and lemon juice. Pour dressing over salad."],
   "imagepath": "assets/jsonimages/easy apple coleslaw.jpg"
   },
+  {
+    "name": "French Fries",
+     "nutrition": {
+      "calories":"498 kcal",
+      "protein": "3.4g",
+      "fats": "33.7",
+      "carbs":"49.5g",
+      "Sugars":"6 g"
+    },
+     "ingredients": "4 large potatos,cold water (for rinsing),oil (for frying),½ tsp chilli powder,½ tsp oregano,½ tsp salt",
+    "recipe":["Firstly, peel the skin of potato. recommend using maris piper potatoes as they have creamy white flesh and fluffy texture.","cut into 1 cm thick sticks.","rinse in ice cold water until the starch runs out clean.","Pat dry in kitchen towel to remove excess moisture.","Now deep fry in hot oil. make sure the oil is approximately 140 degree celcius.","Deep fry for 6 minutes or until the potatoes turn tender.They will not go brown at this stage and transfer it in plate","Once they are cooled completely, deep fry in hot oil","Now sprinkle ½ tsp chilli powder,oregano and salt."],
+    "imagepath": "assets/jsonimages/French Fries.jpg"
+    },
+
   {
   "name": "Easy corned beef and cabbage",
   "nutrition": {
@@ -416,6 +456,123 @@
   "imagepath": "assets/jsonimages/Creamy Dill Cucumber Toastie.jpg"
   },
   {
+    "name": "kannur tomato pachadi",
+     "nutrition": {
+      "calories":"130 kcal",
+      "protein": "7.4g",
+      "fats": "3.7",
+      "carbs":"49.5g",
+      "Sugars":"9 g"
+    },
+     "ingredients": "5 tomatoes,½ bunch corriander leaves,1tsp chilli power,4 chillies,1 tbsp mustard seeds, 1cup grated coconut,few curry leaves,2 tbsp oil,½ cp yogurt,3 red chillies",
+    "recipe":["In a bowl add grated coconut, mustard seeds, make a paste in a blender.","In this add salt, green chilly, red chilly powder, chopped coriander, tomatoes, mix all of together and add yogurt mix it.","Heat oil in a pan add red chilly, mustard seeds, hing, and curry leaves, switch off the flame.","Heat oil in a pan add red chilly, mustard seeds, hing, and curry leaves, switch off the flame."],
+    "imagepath": "assets/jsonimages/kannur tomato pachadi.jpg"
+    },
+    {
+    "name": "kerala style tomato dal recipe",
+     "nutrition": {
+      "calories":"167 kcal",
+      "protein": "6.4g",
+      "fats": "8.7",
+      "carbs":"64.5g",
+      "Sugars":"8 g"
+    },
+     "ingredients":"½cup tomatoes,1 cup dal,½ tsp turmeric,salt to taste,2 chillies,1 tbsp gur,1cup grated coconut,1 red chilli,½ tsp jeera,1 tbsp oil,½tsp mustard seeds,½ cup onions",
+    "recipe":[" In a pressure cooker, cook the dal with 4 glasses of water. It should be in the paste form when done."," In a vessel, take the cooked dal paste and add the tomatoes.","Add salt and turmeric powder, green chillies and allow the tomatoes to be cooked."," Meanwhile, grind the grated coconut, 3 red chillies and the cumin seeds together.","When the tomatoes are cooked, add the coconut paste to the dal.","When the tomatoes are cooked, add the coconut paste to the dal.","Now, in another pan, heat the oil/ghee and allow mustard seeds to splutter and after that, add the curry leaves and a chopped red chilli into it.","Add the chopped baby onions and saute them till golden brown."],
+    "imagepath": "assets/jsonimages/kerala style tomato dal recipe.jpg"
+    },
+    {
+    "name": "tomato kurma recipe",
+     "nutrition": {
+      "calories":"116 kcal",
+      "protein": "5.7g",
+      "fats": "9.7",
+      "carbs":"32.5g",
+      "Sugars":"13 g"
+    },
+     "ingredients": "¼ cup coconut,1 tbsp putani,5 whole cashews,1 tsp coriander seeds,2 green chilli,1 tsp mustard seeds,½ inch dalchini,few curry leaves,1 medium onion,3 large tomato,½ tsp turmeric,2 tbsp coriander leaves",
+    "recipe":["firstly, prepare the masala by grinding all the ingredients listed for masala paste.","now heat the oil and add in 1 tsp mustard seeds, ½ tsp urad dal, ½ inch cinnamon stick and few curry leaves.","saute till the tomatoes turn soft and mushy.","furthermore, add in ½ tsp turmeric, ½ tsp red chilli powder, ½ tsp sugar and salt to taste.","now add in prepared masala paste and 1 cup water.","further, cover and simmer for 15 minutes or more till the coconut gets cooked well.","further, cover and simmer for 15 minutes or more till the coconut gets cooked well."],
+    "imagepath": "assets/jsonimages/tomato kurma recipe.jpg"
+    },
+    {
+    "name": "tomato rasam",
+     "nutrition": {
+      "calories":"117 kcal",
+      "protein": "6.7g",
+      "fats": "2.7",
+      "carbs":"25.5g",
+      "Sugars":"15 g"
+    },
+     "ingredients": "⅓ cup coriander stems,7-8 garlic cloves,1 inch ginger,2 tsp cumin seeds,2 tsp cumin seeds,¼  tsp black peppercorns,1 tbsp oil,½ tsp mustard seeds,½ tsp urad dal,1-2 dry red chillies,1 pinch asafoetida,10-12 curry leaves,¼ tsp turmeric powder,1.5 cups water,2 tbsp coriander leaves",
+    "recipe":["In a heavy pan or pot, heat the oil. Keep the flame to its lowest.","Add the mustard seed and let them begin to crackle. ","When the mustard seeds start to crackle, then add urad dal.","Stirring often fry urad dal until they turn golden.","Stirring often fry urad dal until they turn golden.","Stirring often fry urad dal until they turn golden.,","Add the coarsely ground coriander stems+ginger+garlic mixture and curry leaves. If the pan becomes too hot, then you can switch off the heat.","Sauté for a minute on lowest flame taking care the mixture does not burn. You will get a nice aroma while sautéing this mixture.","Add turmeric powder.","Mix turmeric powder with the rest of the mixture.","Now add the tomato puree. mix very well. Take care as the mixture splutters. ","Sauté for a minute. Season with salt as per taste.","Then add 1.5 cups water. If you like a little thin tomato rasam, then you could add some more water. But do not add too much water as the flavors get diluted.","Mix well and simmer thakkali rasam on mediumlow heat until the rasam comes to a simmer.","Finally switch off the heat and add 2  tbsp chopped coriander leaves. Check the taste of tomato rasam and add more salt if needed."],
+    "imagepath": "assets/jsonimages/tomato rasam.jpg"
+    },
+    {
+    "name": "tomato rice",
+     "nutrition": {
+      "calories":"137 kcal",
+      "protein": "6.7g",
+      "fats": "4.7",
+      "carbs":"45.5g",
+      "Sugars":"5 g"
+    },
+     "ingredients": "1 cup chopped tomatoes,⅓ cup onions,1 inch ginger,½  tsp chopped green chilli,½  tsp mustard seeds,2 green cardamoms,¼  tsp turmeric powder,½ tsp red chilli powder,½ tsp black pepper powder,1  tsp cumin powder,½ tbsp mint leaves,¼ cup coriander leaves,water as required,2 tbsp oil",
+    "recipe":["Rinse basmati rice or any regular rice for a couple of times in water.","Then soak the rice in water for 20 to 30 minutes. Later drain the rice and keep aside.","Chop the tomatoes, onions and green chillies finely. Peel and crush the gingergarlic in a mortar pestle. Also, chop the mint and coriander leaves","Add the soaked rice. Gently mix the rice with the tomato mixture very well. Sauté for a minute.","Add 1.75 cups water. For a more softer consistency in the rice, you can also add 2 cups water.","Season with salt as per taste.","Season with salt as per taste.","When the pressure settles down on its own. Then remove the lid and gently fluff the tomato rice."],
+    "imagepath": "assets/jsonimages/tomato rice.jpg"
+    },
+    {
+    "name": "tomato chutney",
+     "nutrition": {
+      "calories":"168 kcal",
+      "protein": "23g",
+      "fats": "7.7",
+      "carbs":"56.5g",
+      "Sugars":"7 g"
+    },
+     "ingredients": "2 large tomatoes,½ inch ginger ,½ inch ginger ,½ inch ginger ,4 to 5 black pepper,2 to 3 cloves,1 pinch asafoetida,2 tbsp water for grinding,½ tbsp oil",
+    "recipe":["Heat oil and add urad dal. On a low flame, saute the urad dal till they start turning maroonish.","Once the lentils get a maroonish brown color, add broken dry red chillies, cloves, black pepper and ginger. Stir for till the red chillies change their color.","Then add chopped tomatoes and asafoetida. Add salt.","Stir and saute till the tomatoes soften. About 6 to 7 minutes on a low flame.","Once the tomato mixture cools, add them to a chutney grinder or small blender.","Add 2 tbsp water and grind to a smooth paste."],
+    "imagepath": "assets/jsonimages/tomato-chutney.jpg"
+    },
+    {
+    "name": "tomato soup",
+     "nutrition": {
+      "calories":"238 kcal",
+      "protein": "3.5g",
+      "fats": "25.7",
+      "carbs":"8.5g",
+      "Sugars":"7 g"
+    },
+     "ingredients": "1 can diced tomatoes,1 can chicken broth,2 tbsp butter,2 tbsp white sugar,1 tbsp chopped onion,¼ tsp baking soda",
+    "recipe":["Heat butter until it melts in a saucepan or a pot. Keep the heat to low or mediumlow.","Add bay leaves and sauté for a few seconds. Add chopped onions and garlic. Stir and sauté until onions soften for about 3 to 4 minutes.","Add chopped tomatoes and salt. Mix well.","Cover pan and simmer on a low to mediumlow heat until tomatoes soften or for about 8 to 10 minutes.","There is no need to add water. But do keep an eye when the tomatoes are simmering. If the liquids dry up then add a splash of water and continue cooking.","After the tomatoes have softened, remove from the heat and cool. Take out the bay leaves and discard."],
+    "imagepath": "assets/jsonimages/tomato-soup.jpg"
+    },
+    {
+    "name": "creamy tomata macaroni soup",
+     "nutrition": {
+      "calories":"235 kcal",
+      "protein": "6.5g",
+      "fats": "22.7",
+      "carbs":"8.8g",
+      "Sugars":"9 g"
+    },
+     "ingredients": "4 Tomatoes,1 big Carrot,1 big Onion,1 tbsp Chopped garlic,1/4 cup Macaroni,For White Sauce,1.5 tbsp Butter,1 heaped tbsp Plain flour,1 heaped tbsp Plain flour,1 tbsp Oil ,½ tsp Whole black pepper",
+    "recipe":["Cook macaroni as per pkg instructions and keep aside.","Heat oil in a pan. Add chopped onion and garlic. Cook till it softens, no need to brown.","Add tomatoes and carrots. Give a stir, add pepper and salt. Add 2.5 cups water. Bring it to boil.","Reduce flame to lowest, cook till tomatoes and carrots are done.","Reduce flame to lowest, cook till tomatoes and carrots are done.","Grind the cooked veggies to a smooth paste with 1/4 cup water.","To make white sauce: Melt butter in a wide pan. Add flour to this and cook till the raw smell goes, around 35 mins.","Add the milk gradually and make a thick and smooth sauce. Season with salt and pepper.","Combine the ground paste and stock and bring back to fire. Cook for 34 mins.","Add white sauce and cooked macaroni and mix well. Season with salt and pepper. Remove from gas."],
+    "imagepath": "assets/jsonimages/creamy tomata macaroni soup.jpg"
+    },
+    {
+    "name": "tomato ketchup sauce",
+     "nutrition": {
+      "calories":"135 kcal",
+      "protein": "4.5g",
+      "fats": "29.7",
+      "carbs":"6.8g",
+      "Sugars":"13 g"
+    },
+     "ingredients": "2 cans tomatoes,½ cup water,¾ cup distilled vinegar,1 tsp onion powder,½ tsp garlic powder,⅛ tsp celery salt,¼ tsp black pepper",
+    "recipe":["Pour ground tomatoes into slow cooker. Swirl 1/4 cup water in each emptied can and pour into slow cooker. Add sugar, vinegar, onion powder, garlic powder, salt, celery salt, mustard powder, black pepper, cayenne pepper, and whole clove; whisk to combine.","Cook on high, uncovered, until mixture is reduced by half and very thick, 10 to 12 hours. Stir every hour or so.","Ladle the ketchup into a fine strainer and press mixture with the back of a ladle to strain out any skins and seeds.","Transfer the strained ketchup to a bowl. Cool completely before tasting to adjust salt, black pepper, or cayenne pepper."],
+    "imagepath": "assets/jsonimages/tomato ketchup-sauce.jpg"
+    },
+  {
   "name": "Crispy Cucumbers and tomatoes in Dill",
   "nutrition": {
     "calories":"71 kcal",
@@ -480,6 +637,32 @@
   "recipe":["Cut zucchini into noodleshaped strands using a spiralizing tool. Place zoodles in a large bowl and top with cucumber, tomatoes, olives, red onion, and feta cheese.","Whisk olive oil, lemon juice, oregano, salt, and pepper together in a bowl until dressing is smooth; pour over zoodle mixture and toss to coat. Marinate salad in refrigerator for 10 to 15 minutes."],
   "imagepath": "assets/jsonimages/Greek Zoodle Salad.jpg"
   },
+  {
+    "name": "Cheera parippu thoran",
+     "nutrition": {
+      "calories":"185 kcal",
+      "protein": "8.5g",
+      "fats": "38.7",
+      "carbs":"9.8g",
+      "Sugars":"12 g"
+    },
+     "ingredients":"Spinach 1 cup,Parippu ½ cups,turmeric powder ½ tsp,1 onion,½ cup Scraped Coconut,2 Green chilly,1 sprig of curry leaves",
+    "recipe":["Soak the cheera in water with little salt for some time and rinse and drain","Take parippu and cook in a pan with just enough water and cover and cook on slow fire","Chop the onions finely into squares, cut the chillies round","Heat another pan, pour oil and pop mustards, then add the chopped onion, green chillies and curry leaves","Once they are limp, add turmeric powder and then the scraped coconut","Chop the spinach finely and keep aside","Fry the coconut for a few minutes till they are slightly dry","Add salt, mix well and then add the chopped Spinach","Stir fry on high flame for one full minute or more till you can see the leaves curl up","Add the cooked parippu and mix well"],
+    "imagepath": "assets/jsonimages/cheera parippu thoran.jpg"
+  },
+    {
+    "name": "Cheera thoran ",
+     "nutrition": {
+      "calories":"75 kcal",
+      "protein": "45g",
+      "fats": "59.7",
+      "carbs":"7.8g",
+      "Sugars":"13 g"
+    },
+     "ingredients": "1½ cups red lentils,½ tsp salt,½ tsp ground turmeric,½  tsp chilli powder,1 pound spinach, rinsed and chopped,1  tsp ground cumin,1  tsp garam masala,½ cup coconut milk",
+    "recipe":["In a large saucepan, bring water to a boil and stir in salt, lentils, turmeric and chilli powder. Cover and return to a boil, then reduce heat to low and simmer for 15 minutes. Stir in the spinach and cook 5 minutes, or until lentils are soft. Add more water if necessary.","In a small saucepan over medium heat, melt butter and saute onions with cumin and mustard seeds, stirring often. Cook until onions are transparent, and then combine with lentils. Stir in garam masala and coconut milk and cook until heated through."],
+    "imagepath": "assets/jsonimages/cheera thoran-indian spinach coconut curry.jpg"
+    },
   {
   "name": "Sweet & Spicy Chicken Wraps",
   "nutrition": {
@@ -598,19 +781,6 @@
     "imagepath": "assets/jsonimages/avocado salad.jpg"
   },
   {
-  "name": "CHEESE BURGER",
-   "nutrition": {
-    "calories":"344 kcal",
-    "protein": "8.8g",
-    "fats": "18.7",
-    "carbs":"40.7g",
-    "Sugars":"9g"
-  },
-   "ingredients": "2 tbsp olive oil,1 small onion,1 clove garlic,1 garbanzo beans,1 tbsp taco seasoning,½ tsp ground cumin,¾ cup chicken broth, 1 lettuce,1 avocado,1 tomato,1 can black olives",
-  "recipe":["Heat olive oil in a large skillet. Add onion; cook and stir until translucent, about 5 minutes. Add garlic; cook and stir until fragrant, about 2 minutes.","Stir garbanzo beans, taco seasoning, and cumin into the skillet. Pour in chicken broth and cover. Bring to a boil; reduce heat to low and simmer until soft, about 10 minutes. Mash mixture with potato masher. Season with salt and pepper.","Pull lettuce cups out of the center of each half. Fill with garbanzo bean mixture. Top with avocado, tomato, and olives."],
-  "imagepath": "assets/jsonimages/CHEESEBURGER LETTUCE WRAPS.jpg"
-  },
-  {
   "name": "Green Gram Salad",
    "nutrition": {
     "calories":"47 kcal",
@@ -673,7 +843,7 @@
   },
    "ingredients": "3½ pounds potatoes,⅓ cup kosher salt,black pepper to taste,1 pinch cayenne pepper",
   "recipe":["Place potatoes into a 5quart stockpot and cover with 3 quarts of cold water. Add kosher salt and bring to a simmer over high heat. Reduce heat to mediumlow and simmer gently until potatoes are just tender, 15 to 20 minutes. Remove from heat and drain well. Let potatoes cool just until they're safe to handle.","Transfer potatoes onto a sheet pan and continue cooling to room temperature. Make 4 or 5 shallow cuts down the sides of each potato, about every inch or so, to ensure the skin splits evenly when smashed. Refrigerate until completely chilled and ready to smash; 8 hours to overnight is best.","Combine butter, sliced garlic, rosemary, and thyme in a small pan over medium heat. Cook, stirring occasionally, until butter melts and begins to bubble, and garlic softens and starts to turn translucent, 3 to 5 minutes. Remove from heat.","Preheat the oven to 450 degrees F (232 degrees C). Line 2 metal baking sheets with silicone baking mats (such as Silpat®) and generously brush on some of the infused melted butter.","Remove potatoes from the fridge and gently smash each between two pieces of plastic using a flat, heavy object until ½ to 3/4inch thick. Season generously with salt, pepper, and cayenne on both sides, being careful not to break potatoes up into small pieces. Transfer onto a sheet pan, being careful not to overlap potatoes. Very generously drizzle and brush most of the melted butter on top.","Bake potatoes in the preheated oven until well browned and crunchy around the edges, 35 to 45 minutes.","Meanwhile, place the pan with the remaining garlic and herb butter back over mediumlow heat. Cook, stirring, until garlic starts to turn a very light golden brown, 3 to 4 minutes. Remove from heat and reserve.","Carefully transfer potatoes onto a serving platter and scatter over the golden brown slices of garlic. Crumble the toasted herbs on top if desired. Serve immediately."],
-  "imagepath": "assets/jsonimages/Roasted asparagus & smashed new potato salad.jpg"
+  "imagepath": "assets/jsonimages/Roasted asparagus _ smashed new potato salad.jpg"
   },
   {
   "name": "Simple Butter Lettuce Salad",
@@ -739,19 +909,6 @@
    "ingredients": "8ounces spaghetti,4ounces cream cheese cut into cubes,½ cup reserved pasta water,1/4  tsp garlic powder,pepper",
   "recipe":["In a large pot, cook the pasta in salted water according to the pkg instructions. Before draining, dip out ½ cup of pasta water and set aside. Drain the pasta and set aside.","Return the pasta pot to the heat over medium low and add the reserved pasta water and the cubed cream cheese. Whisk together until the cream cheese has melted and the sauce is smooth. Add the garlic powder. Add salt and pepper to taste.","Add the pasta back to the pot and toss to coat. Serve immediately."],
   "imagepath": "assets/jsonimages/Cheese Noodles.jpg"
-  },
-  {
-  "name": "Beef Stew Recipe",
-   "nutrition": {
-    "calories":"43 kcal",
-    "protein": "5.4g",
-    "fats": "13",
-    "carbs":"14.5g",
-    "Sugars":"8 g"
-  },
-   "ingredients": "2½ pounds beef stew meat,1 can stewed tomatoes,1 cup chopped celery,4 carrots,3 potatoes,3 onions,3½ tbsp tapioca,2 cubes beef bouillon,⅛  tsp dried thyme,⅛  tsp dried rosemary,⅛  tsp dried marjoram,¼ cup red wine,1 pkg frozen green peas",
-  "recipe":["1 (10 ounce) pkg frozen green peas","Place beef, tomatoes, celery, carrots, potatoes, onions, and tapioca into a Dutch oven. Season with beef bouillon, thyme, rosemary, and marjoram; stir in red wine. Place the lid on the Dutch oven.","Bake for 5 to 6 hours in the preheated oven. Add peas during last half hour of cooking."],
-  "imagepath": "assets/jsonimages/Christmas Eve Beef Stew Recipe.jpg"
   },
   {
   "name": "Gralic Chicken Fried Brown Rice",
@@ -858,19 +1015,6 @@
   "imagepath": "assets/jsonimages/Baby Potato Recipe With Green Peas.jpg"
   },
   {
-  "name": "Beef Cutlet",
-   "nutrition": {
-    "calories":"95 kcal",
-    "protein": "3.4g",
-    "fats": "0.7",
-    "carbs":"16.5g",
-    "Sugars":"8 g"
-  },
-   "ingredients": "Ground beef,onion,green chilli,curry leaves,turmeric powder,garlic,fennel powder,pepper powder,garam masala,potato",
-  "recipe":["Chop onion into small pieces. Crush green chillies in a chopper or mixer. Heat oil in a pan. When oil is hot, add the sliced onions, curry leaves, and salt. Adding salt helps the onion to get cooked fast.","While it gets sauteed, cook potatoes in a separate pan or cooker. If you are using the cooker, switch it off after 2 whistles or until it is done.","Crush or grind ginger and garlic. Once onion turns light brown, add gingergarlic mixture to it. Once it is sauteed well, add fennel powder, pepper powder and garam masala.","Saute it for a couple of minutes and then add cleaned ground beef. Cook it until beef is done. Ground beef gets cooked soon. It might just take around 10 to 15 minutes. Saute it well and make it dry. Refer notes if you don't want to use ground beef.","To fry  Make round balls and roll it into oval or other desired shapes. Beat egg well. Dip each cutlet in egg and then roll it in bread crumbs. "],
-  "imagepath": "assets/jsonimages/Beef Cutlet.jpg"
-  },
-  {
   "name": "Beef Stew",
    "nutrition": {
     "calories":"479 kcal",
@@ -882,19 +1026,6 @@
    "ingredients": "1½ pounds cubed beef stew meat,2  tbsp vegetable oil,1 onion,¼ cup allpurpose flour,4 cups diced potatoes,2 cups diced carrots,2  tbsp cornstarch",
   "recipe":["Using a large stock pot, brown stewing meat in oil. Add onions and sprinkle flour into stock pot, stirring until flour is well incorporated.","Fill stock pot with water. If you prefer a thick stew fill stock pot only half full, if you prefer a more diluted stew fill your stock pot within one inch of the top. Let meat cook until tender, checking frequently on water level. When water evaporates add more. Cook for 1 ½ hours.","When beef is tender add potatoes, carrots and beefy mushroom soup. Cook for 30 to 45 minutes, or until tender.","In a separate bowl mix cornstarch and cold water. Stir into soup and simmer. If not to desired thickness add another mixture of cornstarch and cold water. Heat through, season with salt and pepper, and serve."],
   "imagepath": "assets/jsonimages/Beef Stew.jpg"
-  },
-  {
-  "name": "French Fries",
-   "nutrition": {
-    "calories":"498 kcal",
-    "protein": "3.4g",
-    "fats": "33.7",
-    "carbs":"49.5g",
-    "Sugars":"6 g"
-  },
-   "ingredients": "⅓ cup white sugar,2 cups warm water,2 russet potatoes,6 cups vegetable oil for frying",
-  "recipe":["In a medium bowl, dissolve the sugar in warm water. Soak potatoes in water mixture for 15 minutes. Remove from water, and dry thoroughly on paper towels.","Heat oil in deepfryer to 375 degrees F (190 degrees C). Add potatoes, and cook until golden, 5 to 6 minutes. drain on paper towels. Season with salt to taste."],
-  "imagepath": "assets/jsonimages/French Fries.jpg"
   },
   {
   "name": "Grilled Baked Potatoes",
@@ -923,19 +1054,6 @@
   "imagepath": "assets/jsonimages/Kerala Style Duck Curry with Potatoes.jpg"
   },
   {
-  "name": "Kimchi Corned Beef",
-   "nutrition": {
-    "calories":"127 kcal",
-    "protein": "2.4g",
-    "fats": "47.7",
-    "carbs":"35.5g",
-    "Sugars":"8 g"
-  },
-   "ingredients": "1 (3 ½) pound readytocook corned beef,2 (16 ounce) jars kimchi not drained,½ cup cold water,½ cup cold water,3 large carrots,2 ribs celery",
-  "recipe":["Pour 1 jar of kimchi into a pot. Top with corned beef and cover with the second jar of kimchi. Pour in water. Cover and bring to a simmer over high heat. Reduce heat to low. Cook, covered, until forktender, 2 to 3 hours. Flip over the beef occasionally and drape kimchi back on top.","Remove corned beef to a bowl. Bring kimchi mixture back to a simmer over high heat. Add potatoes, carrots, and celery. Cover, reduce heat to mediumlow, and cook until almost tender, 20 to 25 minutes. Reduce heat to low and add beef back in. Cover and cook on low until meat is heated through, about 15 minutes. Taste the broth and add water as needed.","Slice corned beef thinly and serve in a bowl with the vegetables; spoon some broth on top"],
-  "imagepath": "assets/jsonimages/Kimchi Corned Beef.jpg"
-  },
-  {
   "name": "Nadan urulakizhangu mezhukkupuratti",
    "nutrition": {
     "calories":"157 kcal",
@@ -949,7 +1067,7 @@
   "imagepath": "assets/jsonimages/Nadan urulakizhangu mezhukkupuratti.jpg"
   },
   {
-  "name": "sambar",
+  "name": "Sambar",
    "nutrition": {
     "calories":"120 kcal",
     "protein": "5.4g",
@@ -973,149 +1091,6 @@
    "ingredients": "1 tbsp olive oil,2 potatoes,2 onions,1 tbsp cumin seeds,1 tbsp mustard seed,1 medium head garlic,4 large red bell peppers,1 cinnamon stick,1 (29 ounce) can diced tomatoes,1 (15 ounce) can garbanzo beans,salt and pepper to taste,⅔ cup cooked white rice",
   "recipe":["Preheat oven to 400 degrees F (200 degrees C).","Cover two baking sheets with aluminum foil, and drizzle with olive oil. Arrange potatoes, carrots and onions on one baking sheet. Drizzle with more olive oil and sprinkle with oregano, cumin and mustard seeds. Place the garlic bulb on the baking sheet. Arrange the peppers and tomatoes on the second baking sheet, and sprinkle with olive oil.","Place both pans in the oven. Cook, stirring the contents occasionally, until the potatoes, carrots and onions are tender and the peppers and tomatoes are black, about 30 to 45 minutes. The bell peppers and tomatoes may take a little longer to cook than the potatoes, carrots, onions, and garlic. Feel free to remove the baking sheet of potatoes earlier than the baking sheet of bell peppers. Reduce the oven's heat to 350 degrees F ( 175 degrees C).","Skin and seed the peppers and skin the tomatoes. Chop the peppers and tomatoes and place them into a medium size pot that can be placed in the oven. Squeeze the garlic from skins into the pot and stir in the potato mixture and chickpeas. Season with lemon juice, salt, and black pepper.","Cover the stew, and bake it for 30 minutes."],
   "imagepath": "assets/jsonimages/Vegetable Stew.jpg"
-  },
-  {
-  "name": "kannur tomato pachadi",
-   "nutrition": {
-    "calories":"130 kcal",
-    "protein": "7.4g",
-    "fats": "3.7",
-    "carbs":"49.5g",
-    "Sugars":"9 g"
-  },
-   "ingredients": "5 tomatoes,½ bunch corriander leaves,1tsp chilli power,4 chillies,1 tbsp mustard seeds, 1cup grated coconut,few curry leaves,2 tbsp oil,½ cp yogurt,3 red chillies",
-  "recipe":["In a bowl add grated coconut, mustard seeds, make a paste in a blender.","In this add salt, green chilly, red chilly powder, chopped coriander, tomatoes, mix all of together and add yogurt mix it.","Heat oil in a pan add red chilly, mustard seeds, hing, and curry leaves, switch off the flame.","Heat oil in a pan add red chilly, mustard seeds, hing, and curry leaves, switch off the flame."],
-  "imagepath": "assets/jsonimages/kannur tomato pachadi.jpg"
-  },
-  {
-  "name": "kerala style tomato dal recipe",
-   "nutrition": {
-    "calories":"167 kcal",
-    "protein": "6.4g",
-    "fats": "8.7",
-    "carbs":"64.5g",
-    "Sugars":"8 g"
-  },
-   "ingredients":"½cup tomatoes,1 cup dal,½ tsp turmeric,salt to taste,2 chillies,1 tbsp gur,1cup grated coconut,1 red chilli,½ tsp jeera,1 tbsp oil,½tsp mustard seeds,½ cup onions",
-  "recipe":[" In a pressure cooker, cook the dal with 4 glasses of water. It should be in the paste form when done."," In a vessel, take the cooked dal paste and add the tomatoes.","Add salt and turmeric powder, green chillies and allow the tomatoes to be cooked."," Meanwhile, grind the grated coconut, 3 red chillies and the cumin seeds together.","When the tomatoes are cooked, add the coconut paste to the dal.","When the tomatoes are cooked, add the coconut paste to the dal.","Now, in another pan, heat the oil/ghee and allow mustard seeds to splutter and after that, add the curry leaves and a chopped red chilli into it.","Add the chopped baby onions and saute them till golden brown."],
-  "imagepath": "assets/jsonimages/kerala style tomato dal recipe.jpg"
-  },
-  {
-  "name": "tomato kurma recipe",
-   "nutrition": {
-    "calories":"116 kcal",
-    "protein": "5.7g",
-    "fats": "9.7",
-    "carbs":"32.5g",
-    "Sugars":"13 g"
-  },
-   "ingredients": "¼ cup coconut,1 tbsp putani,5 whole cashews,1 tsp coriander seeds,2 green chilli,1 tsp mustard seeds,½ inch dalchini,few curry leaves,1 medium onion,3 large tomato,½ tsp turmeric,2 tbsp coriander leaves",
-  "recipe":["firstly, prepare the masala by grinding all the ingredients listed for masala paste.","now heat the oil and add in 1 tsp mustard seeds, ½ tsp urad dal, ½ inch cinnamon stick and few curry leaves.","saute till the tomatoes turn soft and mushy.","furthermore, add in ½ tsp turmeric, ½ tsp red chilli powder, ½ tsp sugar and salt to taste.","now add in prepared masala paste and 1 cup water.","further, cover and simmer for 15 minutes or more till the coconut gets cooked well.","further, cover and simmer for 15 minutes or more till the coconut gets cooked well."],
-  "imagepath": "assets/jsonimages/tomato kurma recipe.jpg"
-  },
-  {
-  "name": "tomato rasam",
-   "nutrition": {
-    "calories":"117 kcal",
-    "protein": "6.7g",
-    "fats": "2.7",
-    "carbs":"25.5g",
-    "Sugars":"15 g"
-  },
-   "ingredients": "⅓ cup coriander stems,7-8 garlic cloves,1 inch ginger,2 tsp cumin seeds,2 tsp cumin seeds,¼  tsp black peppercorns,1 tbsp oil,½ tsp mustard seeds,½ tsp urad dal,1-2 dry red chillies,1 pinch asafoetida,10-12 curry leaves,¼ tsp turmeric powder,1.5 cups water,2 tbsp coriander leaves",
-  "recipe":["In a heavy pan or pot, heat the oil. Keep the flame to its lowest.","Add the mustard seed and let them begin to crackle. ","When the mustard seeds start to crackle, then add urad dal.","Stirring often fry urad dal until they turn golden.","Stirring often fry urad dal until they turn golden.","Stirring often fry urad dal until they turn golden.,","Add the coarsely ground coriander stems+ginger+garlic mixture and curry leaves. If the pan becomes too hot, then you can switch off the heat.","Sauté for a minute on lowest flame taking care the mixture does not burn. You will get a nice aroma while sautéing this mixture.","Add turmeric powder.","Mix turmeric powder with the rest of the mixture.","Now add the tomato puree. mix very well. Take care as the mixture splutters. ","Sauté for a minute. Season with salt as per taste.","Then add 1.5 cups water. If you like a little thin tomato rasam, then you could add some more water. But do not add too much water as the flavors get diluted.","Mix well and simmer thakkali rasam on mediumlow heat until the rasam comes to a simmer.","Finally switch off the heat and add 2  tbsp chopped coriander leaves. Check the taste of tomato rasam and add more salt if needed."],
-  "imagepath": "assets/jsonimages/tomato rasam.jpg"
-  },
-  {
-  "name": "tomato rice",
-   "nutrition": {
-    "calories":"137 kcal",
-    "protein": "6.7g",
-    "fats": "4.7",
-    "carbs":"45.5g",
-    "Sugars":"5 g"
-  },
-   "ingredients": "1 cup chopped tomatoes,⅓ cup onions,1 inch ginger,½  tsp chopped green chilli,½  tsp mustard seeds,2 green cardamoms,¼  tsp turmeric powder,½ tsp red chilli powder,½ tsp black pepper powder,1  tsp cumin powder,½ tbsp mint leaves,¼ cup coriander leaves,water as required,2 tbsp oil",
-  "recipe":["Rinse basmati rice or any regular rice for a couple of times in water.","Then soak the rice in water for 20 to 30 minutes. Later drain the rice and keep aside.","Chop the tomatoes, onions and green chillies finely. Peel and crush the gingergarlic in a mortar pestle. Also, chop the mint and coriander leaves","Add the soaked rice. Gently mix the rice with the tomato mixture very well. Sauté for a minute.","Add 1.75 cups water. For a more softer consistency in the rice, you can also add 2 cups water.","Season with salt as per taste.","Season with salt as per taste.","When the pressure settles down on its own. Then remove the lid and gently fluff the tomato rice."],
-  "imagepath": "assets/jsonimages/tomato rice.jpg"
-  },
-  {
-  "name": "tomatochutney",
-   "nutrition": {
-    "calories":"168 kcal",
-    "protein": "23g",
-    "fats": "7.7",
-    "carbs":"56.5g",
-    "Sugars":"7 g"
-  },
-   "ingredients": "2 large tomatoes,½ inch ginger ,½ inch ginger ,½ inch ginger ,4 to 5 black pepper,2 to 3 cloves,1 pinch asafoetida,2 tbsp water for grinding,½ tbsp oil",
-  "recipe":["Heat oil and add urad dal. On a low flame, saute the urad dal till they start turning maroonish.","Once the lentils get a maroonish brown color, add broken dry red chillies, cloves, black pepper and ginger. Stir for till the red chillies change their color.","Then add chopped tomatoes and asafoetida. Add salt.","Stir and saute till the tomatoes soften. About 6 to 7 minutes on a low flame.","Once the tomato mixture cools, add them to a chutney grinder or small blender.","Add 2 tbsp water and grind to a smooth paste."],
-  "imagepath": "assets/jsonimages/tomato-chutney.jpg"
-  },
-  {
-  "name": "tomatosoup",
-   "nutrition": {
-    "calories":"238 kcal",
-    "protein": "3.5g",
-    "fats": "25.7",
-    "carbs":"8.5g",
-    "Sugars":"7 g"
-  },
-   "ingredients": "1 can diced tomatoes,1 can chicken broth,2 tbsp butter,2 tbsp white sugar,1 tbsp chopped onion,¼ tsp baking soda",
-  "recipe":["Heat butter until it melts in a saucepan or a pot. Keep the heat to low or mediumlow.","Add bay leaves and sauté for a few seconds. Add chopped onions and garlic. Stir and sauté until onions soften for about 3 to 4 minutes.","Add chopped tomatoes and salt. Mix well.","Cover pan and simmer on a low to mediumlow heat until tomatoes soften or for about 8 to 10 minutes.","There is no need to add water. But do keep an eye when the tomatoes are simmering. If the liquids dry up then add a splash of water and continue cooking.","After the tomatoes have softened, remove from the heat and cool. Take out the bay leaves and discard."],
-  "imagepath": "assets/jsonimages/tomato-soup.jpg"
-  },
-  {
-  "name": "creamy tomata macaroni soup",
-   "nutrition": {
-    "calories":"235 kcal",
-    "protein": "6.5g",
-    "fats": "22.7",
-    "carbs":"8.8g",
-    "Sugars":"9 g"
-  },
-   "ingredients": "4 Tomatoes,1 big Carrot,1 big Onion,1 tbsp Chopped garlic,1/4 cup Macaroni,For White Sauce,1.5 tbsp Butter,1 heaped tbsp Plain flour,1 heaped tbsp Plain flour,1 tbsp Oil ,½ tsp Whole black pepper",
-  "recipe":["Cook macaroni as per pkg instructions and keep aside.","Heat oil in a pan. Add chopped onion and garlic. Cook till it softens, no need to brown.","Add tomatoes and carrots. Give a stir, add pepper and salt. Add 2.5 cups water. Bring it to boil.","Reduce flame to lowest, cook till tomatoes and carrots are done.","Reduce flame to lowest, cook till tomatoes and carrots are done.","Grind the cooked veggies to a smooth paste with 1/4 cup water.","To make white sauce: Melt butter in a wide pan. Add flour to this and cook till the raw smell goes, around 35 mins.","Add the milk gradually and make a thick and smooth sauce. Season with salt and pepper.","Combine the ground paste and stock and bring back to fire. Cook for 34 mins.","Add white sauce and cooked macaroni and mix well. Season with salt and pepper. Remove from gas."],
-  "imagepath": "assets/jsonimages/creamy tomata macaroni soup.jpg"
-  },
-  {
-  "name": "tomato ketchup sauce",
-   "nutrition": {
-    "calories":"135 kcal",
-    "protein": "4.5g",
-    "fats": "29.7",
-    "carbs":"6.8g",
-    "Sugars":"13 g"
-  },
-   "ingredients": "2 cans tomatoes,½ cup water,¾ cup distilled vinegar,1 tsp onion powder,½ tsp garlic powder,⅛ tsp celery salt,¼ tsp black pepper",
-  "recipe":["Pour ground tomatoes into slow cooker. Swirl 1/4 cup water in each emptied can and pour into slow cooker. Add sugar, vinegar, onion powder, garlic powder, salt, celery salt, mustard powder, black pepper, cayenne pepper, and whole clove; whisk to combine.","Cook on high, uncovered, until mixture is reduced by half and very thick, 10 to 12 hours. Stir every hour or so.","Ladle the ketchup into a fine strainer and press mixture with the back of a ladle to strain out any skins and seeds.","Transfer the strained ketchup to a bowl. Cool completely before tasting to adjust salt, black pepper, or cayenne pepper."],
-  "imagepath": "assets/jsonimages/tomato ketchup-sauce.jpg"
-  },
-  {
-  "name": "cheera parippu thoran",
-   "nutrition": {
-    "calories":"185 kcal",
-    "protein": "8.5g",
-    "fats": "38.7",
-    "carbs":"9.8g",
-    "Sugars":"12 g"
-  },
-   "ingredients":"2 cans tomatoes,½ cup water,⅔ cup white sugar,1 tsp onion powder,½ tsp garlic powder,1¾ tsp salt,⅛ tsp mustard powder",
-  "recipe":["Pour ground tomatoes into slow cooker. Swirl 1/4 cup water in each emptied can and pour into slow cooker. Add sugar, vinegar, onion powder, garlic powder, salt, celery salt, mustard powder, black pepper, cayenne pepper, and whole clove; whisk to combine.","Cook on high, uncovered, until mixture is reduced by half and very thick, 10 to 12 hours. Stir every hour or so.","Smooth the texture of the ketchup using an immersion blender, about 20 seconds.","Ladle the ketchup into a fine strainer and press mixture with the back of a ladle to strain out any skins and seeds.","ransfer the strained ketchup to a bowl. Cool completely before tasting to adjust salt, black pepper, or cayenne pepper."],
-  "imagepath": "assets/jsonimages/cheera parippu thoran.jpg"
-  },
-  {
-  "name": "cheera thoran coconut curry",
-   "nutrition": {
-    "calories":"75 kcal",
-    "protein": "45g",
-    "fats": "59.7",
-    "carbs":"7.8g",
-    "Sugars":"13 g"
-  },
-   "ingredients": "1½ cups red lentils,½ tsp salt,½ tsp ground turmeric,½  tsp chilli powder,1 pound spinach, rinsed and chopped,1  tsp ground cumin,1  tsp garam masala,½ cup coconut milk",
-  "recipe":["In a large saucepan, bring water to a boil and stir in salt, lentils, turmeric and chilli powder. Cover and return to a boil, then reduce heat to low and simmer for 15 minutes. Stir in the spinach and cook 5 minutes, or until lentils are soft. Add more water if necessary.","In a small saucepan over medium heat, melt butter and saute onions with cumin and mustard seeds, stirring often. Cook until onions are transparent, and then combine with lentils. Stir in garam masala and coconut milk and cook until heated through."],
-  "imagepath": "assets/jsonimages/cheera thoran-indian spinach coconut curry.jpg"
   },
   {
   "name": "congee rice porridge with spinach",
@@ -1599,7 +1574,7 @@
       },
        "ingredients": "1 pound round steak thinly sliced,1 (1 inch) piece fresh ginger root,1 tbsp soy sauce,1 tsp butter,1 red bell pepper,12 mushrooms,¼ cup sweet and sour sauce,4 cups cooked rice",
       "recipe":["Place steak, ginger, and soy sauce in a bowl; turn to coat steak. Cover tightly; marinate in the refrigerator for at least 30 minutes or up to overnight.","Heat a wok over high heat; pour in beef mixture. Cover wok; cook until beef is browned, about 5 minutes. Remove beef from wok.","Heat butter in wok over high heat; stir in bell pepper, onion, mushrooms, and sweet and sour sauce. Cover and cook until vegetables begin to soften, about 3 minutes. Stir cooked beef into vegetable mixture; cook until heated through, about 2 minutes. Serve over cooked rice." ],
-      "imagepath": "assets/jsonimages/Easy Ginger Beef.jpg"
+      "imagepath": "assets/jsonimages/easy ginger beef.jpg"
     }, 
     {
       "name": "Mutton Varuval",
@@ -1649,7 +1624,7 @@
         "carbs":"4.9g",
         "Sugars":"12 g"
       },
-       "ingredients": "2 Beetroot,1/2 cup Curd,1/4 teaspoon Turmeric powder,Salt,Oil as required,1/3 cup garted coconut,2 red chilli,1 inch Ginger,1/2 teaspoon Mustard seeds,1/2 teaspoon Cumin seeds,5 Curry leaves",
+       "ingredients": "2 Beetroot,½ cup Curd,1/4 teaspoon Turmeric powder,Salt,Oil as required,1/3 cup grated coconut,2 red chilli,1 inch Ginger,½ teaspoon Mustard seeds,½ teaspoon Cumin seeds,5 Curry leaves",
       "recipe":["Cook beetroot covered with little water, in a Pressure cooker","Grind grated coconut,ginger,red chilli,mustard & cumin seeds into paste adding very little water.","Once the beetroot gets cooked, then add the grounded paste and turmeric powder.","Stir well, add salt and cook for few minutes","Let it cool, then whisk curd well and add it to the beetroot. Mix well.","Now heat oil in Tadka pan, add mustard seeds, red chilli and curry leaves. Once it splutters add to the pachadi and stir until combined."],
       "imagepath": "assets/jsonimages/beetroot_pachadi.jpg"
     },
@@ -1719,15 +1694,15 @@
       "imagepath": "assets/jsonimages/coconut macaroons.jpg"
     },
     {
-      "name": "Cookies",
+      "name": "cookies",
        "nutrition": {
-        "calories":"132 kcal",
+        "calories":"130 kcal",
         "protein": "3.5g",
         "fats": "10.8",
         "carbs":"10.3g",
         "Sugars":"9.5 g"
       },
-       "ingredients":"2 cups flour,1/2 tsp salt,1 cup unsalted butter,1/2 cup sugar,2 egg yolks,2 tsp vanilla extract,1/3 cup sanding sugar",
+       "ingredients":"2 cups flour,½ tsp salt,1 cup unsalted butter,½ cup sugar,2 egg yolks,2 tsp vanilla extract,1/3 cup sanding sugar",
       "recipe":["In a stand mixer fitted with a paddle attachment, cream the butter, salt, and sugar together until light and fluffy.","Add the egg yolks while mixing. Scrape down sides of the bowl.","Add 2 tsp vanilla extract.","Pour in the flour mixture and mix it","Once the dough is chilled sprinkle sanding sugar","Use a sharp knife to cut dough into slices of even thickness.","Place cookies on a parchment-lined baking sheet and bake at 350F for 10-12 minutes" ],
       "imagepath": "assets/jsonimages/cookies.jpg"
     },
@@ -1758,7 +1733,7 @@
       "imagepath": "assets/jsonimages/appam.jpg"
     },
     {
-      "name": "burger",
+      "name": "Burger",
        "nutrition": {
         "calories":"482 kcal",
         "protein": "31g",
@@ -1769,19 +1744,6 @@
        "ingredients": "1 pound ground lean (7% fat) beef,egg,½ cup minced onion,¼ cup fine dried bread crumbs,1 tbsp Worcestershire,About 1/4 tsp pepper,4 hamburger buns,4 iceberg lettuce leaves,1 firmripe tomato,4 thin slices red onion",
       "recipe":["In a bowl, mix ground beef, egg, onion, bread crumbs, Worcestershire, garlic, ½ tsp salt, and 1/4 tsp pepper until well blended. Divide mixture into four equal portions and shape each into a patty about 4 inches wide.","Lay burgers on an oiled barbecue grill over a solid bed of hot coals or high heat on a gas grill (you can hold your hand at grill level only 2 to 3 seconds); close lid on gas grill. Cook burgers, turning once, until browned on both sides and no longer pink inside (cut to test), 7 to 8 minutes total. Remove from grill.","Lay buns, cut side down, on grill and cook until lightly toasted, 30 seconds to 1 minute.","Spread mayonnaise and ketchup on bun bottoms. Add lettuce, tomato, burger, onion, and salt and pepper to taste. Set bun tops in place." ],
       "imagepath": "assets/jsonimages/burger.jpg"
-    },
-    {
-      "name": "french fries",
-       "nutrition": {
-        "calories":"382 kcal",
-        "protein": "21g",
-        "fats": "13g",
-        "carbs":"27g",
-        "Sugars":"8 g"
-      },
-       "ingredients": "315 grams potatoes,3.5 cups cold water,dried rosemary,rock salt,red chilli powder,oil",
-      "recipe":["Firstly take the potatoes and rinse well in water. Then peel them","Then slice the potato in slices having 1 cm thickness. Before slicing, you can remove the top and bottom part of the potato to get a square or rectangle shaped potato.","Then begin to cut them in sticks having 1 cm width. Rinse these potato sticks for a couple of times in water to get rid of the extra starch.","For freezing and storing french fries in large quantities, fry/blanch the potatoes in hot oil first for about 3 minutes. Remove and drain on paper towels.","Wipe the extra oil with kitchen paper towels and when cooled, line the halffried potatoes on a tray. Cover the tray with a kitchen napkin and freeze for an hour.","Remove the frozen fries from the tray and transfer to a ziplock bag or a container and store in your freezer.","Now you can deep fry, bake or airfry these frozen fries. When cooking the fries with any of these methods, you do not need to thaw the frozen finger chips.","While deep frying, heat oil until medium or mediumhigh hot and deep fry the fries until golden and crisp. Sprinkle salt or ground spices, herbs and serve straight away." ],
-      "imagepath": "assets/jsonimages/French Fries.jpg"
     },
     {
       "name": "noodles",

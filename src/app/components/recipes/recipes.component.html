@@ -1,4 +1,4 @@
-<app-nav></app-nav>
+<app-nav (searchTouched)="handleSearch($event)"></app-nav>
 <div class="container">
   <div class="non-categories">
   </div>
@@ -36,11 +36,11 @@
       </div>
     </div>
   </ng-container>  
-    <div class="IngScrollBar" >
+  <div class="IngScrollBar" >
       <div class="container categories">
         <h3>Vegetables</h3>
-        <div class="wrapper">
-          <div class="ingFilter" id="asparagus" [ngClass]="{'active':selectedButton==='Asparagus'}">
+        <div class="wrapper" [ngClass]="{'inactive': !selectedButton}">
+          <div class="ingFilter" id="asparagus" [ngClass]="{'active':selectedButton==='Asparagus'}" >
           Asparagus
             <img src="./assets/images/icon8-asparagus.png" style="margin-right: 12px"  (click)="searchFood('Asparagus')"/>
           </div>

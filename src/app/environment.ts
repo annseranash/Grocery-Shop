@@ -7,4 +7,5 @@ export const environment = {
     GetCartItems:"http://localhost:5244/api/Cart",
     createCart:"http://localhost:5244/api/Cart/CreateCart",
     deleteCart:"http://localhost:5244/api/Cart/DeleteCart",
+    updateOrderStatus:"http://localhost:5244/api/Cart/UpdateOrderStatus"
   };

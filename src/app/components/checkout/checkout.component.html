@@ -1,0 +1,104 @@
+<app-nav></app-nav>
+<div class="col-md-12 text-center checkout">
+  <h2>Checkout</h2>
+</div>
+<div class="col-md-6 text-left">
+  <div class="row">
+    <h5>Billing Details</h5>
+    <div class="form-group required col-md-8">
+      <label class="control-label">Name</label>
+      <input
+        type="text"
+        name="name"
+        value="{{ FullName | titlecase }}"
+        placeholder=""
+        class="form-control"
+      /><br />
+    </div>
+    <div class="form-group required col-md-8">
+      <label class="control-label">E-Mail</label>
+      <input
+        type="email"
+        name="email"
+        value="{{ email }}"
+        placeholder="E-Mail"
+        class="form-control"
+      /><br />
+    </div>
+    <div class="form-group required col-md-8">
+      <label class="control-label">Mobile Number</label>
+      <input
+        type="number"
+        name="name"
+        value=""
+        placeholder="Mobile Number"
+        class="form-control"
+      /><br />
+    </div>
+    <div class="form-group required col-md-8">
+      <label class="control-label">Address </label>
+      <input
+        type="text"
+        name="address"
+        value=""
+        placeholder="Address"
+        class="form-control"
+      /><br />
+    </div>
+  </div>
+  <table class="table table-bordered table-hover table-responsive">
+    <thead>
+      <tr>
+        <th>Product Name</th>
+        <th>Quantity</th>
+        <th>Unit Price</th>
+        <th>Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of CartItems">
+        <td>{{item.name}}</td>
+        <td>{{item.quantity}}</td>
+        <td>₹{{item.price}}</td>
+        <td>₹{{item.total}}</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="5"><strong style="float: right">Sub-Total:</strong></td>
+        <td>₹{{total}}</td>
+      </tr>
+      <tr>
+        <td colspan="5">
+          <strong style="float: right">Normal Delivery Rate:</strong>
+        </td>
+        <td>₹20.00</td>
+      </tr>
+      <tr>
+        <td colspan="5"><strong style="float: right">Total:</strong></td>
+        <td>₹{{total+20}}</td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+<div class="show_delivery_slot">
+    <p><strong>Normal Delivery Time Slot</strong></p>
+<div class="radio">
+    <label>
+        <input type="radio" id="evng_slot" name="delivery_slot" value="Tomorrow 04:30 PM - 07:30 PM">Tomorrow 04:30 PM - 07:30 PM
+    </label>
+</div>
+<div class="radio">
+    <label>
+        <input type="radio" id="noon_slot" name="delivery_slot" value="Tomorrow 11:00 AM - 02:00 PM">Tomorrow 11:00 AM - 02:00 PM
+    </label>
+</div>
+<div class="radio">
+    <label>
+        <input type="radio" id="morng_slot" name="delivery_slot" value="Tomorrow 08:45 AM - 11:55 AM">Tomorrow 08:45 AM - 11:55 AM
+    </label>
+</div>
+</div>
+<div class="text-center">
+    <input type="button" value="Proceed to Pay" (click)="checkout(amount)">
+</div>

@@ -21,6 +21,8 @@ import { CartComponent } from './components/cart/cart.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { ScrollTopComponent } from './components/scroll-top/scroll-top.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
+import { CheckoutComponent } from './components/checkout/checkout.component';
+import { OrdersComponent } from './components/orders/orders.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -35,6 +37,8 @@ import { RecipesComponent } from './components/recipes/recipes.component';
     DashboardComponent,
     ScrollTopComponent,
     RecipesComponent,
+    CheckoutComponent,
+    OrdersComponent,
   ],
   imports: [
     BrowserModule,

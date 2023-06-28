@@ -62,11 +62,13 @@ export class LoginComponent implements OnInit{
       this.authService.onLogin(this.loginForm.value).subscribe({
         next:(res:any)=>{
           console.log("response",res);
-          if(res && res.user.token && res.user.userId && res.user.username){
+          if(res && res.user.token && res.user.userId && res.user.username && res.user.firstName && res.user.lastName && res.user.email){
             this.authService.storeToken(res.user.token);
             this.authService.storeUserId(res.user.userId);
             this.authService.storeUserName(res.user.username);
+            this.authService.storeDetails(res.user.firstName,res.user.lastName,res.user.email);
           } 
+          
           this.toast.success({detail:'SUCCESS',summary:res.message,duration:5000})
           this.router.navigate(['home']);
         },

@@ -42,11 +42,25 @@ export class AuthService {
   storeUserName(username:string){
     localStorage.setItem('username',username); 
   }
-  
+  storeDetails(firstName:any,lastName:any,email:any){
+    const userDetails={
+      firstName:firstName,
+      lastName:lastName,
+      email:email
+    };
+    localStorage.setItem('userDetails',JSON.stringify(userDetails));
+  }
+  getStoreDetails(){
+    const userdetails=localStorage.getItem('userDetails');
+    if(userdetails){
+      const userDetails=JSON.parse(userdetails);
+      return userDetails;
+    }
+    return null;
+  }
   getUserName():string{
     return localStorage.getItem('username');
   }
-
   getUserId(){
     return localStorage.getItem('userId');
   }
